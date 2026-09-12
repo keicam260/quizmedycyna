@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Medyczny</title>
+    <style>
+        :root {
+            --bg-1: #eef4ff;
+            --bg-2: #f6f7fb;
+            --panel: #ffffff;
+            --panel-alt: #f8fafc;
+            --text: #2d3748;
+            --heading: #0f172a;
+            --muted: #334155;
+            --label: #64748b;
+            --card-border: #dfe7f1;
+            --card-shadow: rgba(15, 23, 42, 0.04);
+            --selected-bg-1: #dbeafe;
+            --selected-bg-2: #eff6ff;
+            --selected-border: #60a5fa;
+            --primary-1: #2563eb;
+            --primary-2: #1d4ed8;
+            --primary-shadow: rgba(37, 99, 235, 0.25);
+            --soft-btn-bg: #e2e8f0;
+            --soft-btn-text: #0f172a;
+            --button-disabled: #bfdbfe;
+            --option-bg: #ffffff;
+            --option-hover: #eef6ff;
+            --result-bg: #ffffff;
+            --correct: #22c55e;
+            --wrong: #ef4444;
+        }
+
+        body[data-theme="dark"] {
+            --bg-1: #0f172a;
+            --bg-2: #111827;
+            --panel: #111827;
+            --panel-alt: #1f2937;
+            --text: #e2e8f0;
+            --heading: #f8fafc;
+            --muted: #cbd5e1;
+            --label: #94a3b8;
+            --card-border: #334155;
+            --card-shadow: rgba(15, 23, 42, 0.5);
+            --selected-bg-1: #1e3a5f;
+            --selected-bg-2: #172554;
+            --selected-border: #60a5fa;
+            --primary-1: #3b82f6;
+            --primary-2: #2563eb;
+            --primary-shadow: rgba(59, 130, 246, 0.35);
+            --soft-btn-bg: #1e293b;
+            --soft-btn-text: #e2e8f0;
+            --button-disabled: #475569;
+            --option-bg: #0f172a;
+            --option-hover: #1e293b;
+            --result-bg: #0f172a;
+            --correct: #16a34a;
+            --wrong: #dc2626;
+        }
+
+        * { box-sizing: border-box; }
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, var(--bg-1) 0%, var(--bg-2) 100%);
+            color: var(--text);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .quiz-container {
+            background: var(--panel);
+            padding: 30px 28px 24px;
+            border-radius: 18px;
+            box-shadow: 0 18px 45px rgba(31, 41, 55, 0.12);
+            max-width: 640px;
+            width: 100%;
+            border: 1px solid rgba(148, 163, 184, 0.18);
+        }
+        .quiz-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 20px;
+            margin: 0;
+            color: var(--heading);
+        }
+        .back-btn,
+        .theme-toggle {
+            border: none;
+            background: var(--soft-btn-bg);
+            color: var(--soft-btn-text);
+            border-radius: 10px;
+            padding: 8px 12px;
+            font-size: 13px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+        .shuffle-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .shuffle-toggle {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--muted);
+            cursor: pointer;
+        }
+        .shuffle-toggle input {
+            width: 16px;
+            height: 16px;
+            accent-color: var(--primary-1);
+        }
+        #quiz {
+            background: var(--panel-alt);
+            border-radius: 14px;
+            padding: 18px 18px 8px;
+            border: 1px solid var(--card-border);
+        }
+        .question { font-size: 18px; margin-bottom: 20px; font-weight: bold; color: var(--heading); }
+        .options { display: flex; flex-direction: column; gap: 10px; }
+        .option {
+            padding: 12px 14px;
+            background: var(--option-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            cursor: pointer;
+            text-align: left;
+            font-size: 16px;
+            color: var(--text);
+            transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+            box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+        }
+        .option:hover {
+            background: var(--option-hover);
+            transform: translateY(-1px);
+            box-shadow: 0 6px 16px rgba(59, 130, 246, 0.08);
+        }
+        .option.correct { background: var(--correct); color: white; border-color: var(--correct); }
+        .option.wrong { background: var(--wrong); color: white; border-color: var(--wrong); }
+        .result-card {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+        .result-chart {
+            width: 130px;
+            height: 130px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            position: relative;
+            box-shadow: inset 0 0 0 1px rgba(148, 163, 184, 0.2);
+        }
+        .result-chart::before {
+            content: "";
+            position: absolute;
+            inset: 14px;
+            background: var(--result-bg);
+            border-radius: 50%;
+            box-shadow: inset 0 0 0 1px rgba(148, 163, 184, 0.2);
+        }
+        .result-chart-inner {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            line-height: 1.2;
+        }
+        .result-chart-inner strong {
+            font-size: 28px;
+            color: var(--heading);
+        }
+        .result-chart-inner span {
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--label);
+        }
+        .result-summary {
+            flex: 1;
+            min-width: 180px;
+            color: var(--muted);
+            font-size: 15px;
+            line-height: 1.6;
+        }
+        .result-summary strong {
+            color: var(--heading);
+        }
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 24px;
+            gap: 12px;
+        }
+        .btn {
+            padding: 11px 18px;
+            background: linear-gradient(135deg, var(--primary-1), var(--primary-2));
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 15px;
+            font-weight: 700;
+            box-shadow: 0 8px 18px var(--primary-shadow);
+        }
+        .btn:hover:not(:disabled) { filter: brightness(1.05); }
+        .btn:disabled { background: var(--button-disabled); box-shadow: none; cursor: not-allowed; }
+        .btn-secondary {
+            background: linear-gradient(135deg, #475569, #334155);
+            box-shadow: 0 8px 18px rgba(71, 85, 105, 0.2);
+        }
+        #score-box { font-weight: bold; font-size: 16px; color: var(--muted); }
+    </style>
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="quiz-header">
+            <h1 id="quiz-title">Quiz</h1>
+            <div style="display:flex; gap:8px; align-items:center;">
+                <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Zmień motyw">🌙 Tryb ciemny</button>
+                <button class="back-btn" onclick="window.location.href='index.html'">Powrót</button>
+            </div>
+        </div>
+
+        <div class="shuffle-row">
+            <label class="shuffle-toggle" for="shuffle-toggle">
+                <input type="checkbox" id="shuffle-toggle">
+                <span>Losuj pytania i odpowiedzi</span>
+            </label>
+        </div>
+
+        <div id="quiz">
+            <div class="question" id="question-text">Ładowanie pytania...</div>
+            <div class="options" id="options-container"></div>
+        </div>
+
+        <div class="controls">
+            <div id="score-box">Wynik: <span id="score">0</span> / <span id="total">0</span></div>
+            <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; justify-content: flex-end;">
+                <button class="btn" id="continue-btn" onclick="continueWrongQuestions()" style="display: none;">Kontynuuj z błędami</button>
+                <button class="btn btn-secondary" id="restart-btn" onclick="startQuiz(selectedQuizKey)" style="display: none;">Zacznij od nowa</button>
+                <button class="btn" id="next-btn" onclick="nextQuestion()" disabled>Następne pytanie</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="pytania.js"></script>
+    <script>
+        const quizLabels = {
+            konczynadolna: "Kończyna dolna",
+            konczynagorna: "Kończyna górna",
+            grzbiet: "Grzbiet",
+            klatkaPiersiowa: "Klatka piersiowa",
+            jamaBrzuszna: "Jama brzuszna",
+            miednicaIKrocze: "Miednica i krocze"
+        };
+
+        function applyTheme(theme) {
+            const selectedTheme = theme === "dark" ? "dark" : "light";
+            document.body.setAttribute("data-theme", selectedTheme);
+            localStorage.setItem("quiz-theme", selectedTheme);
+            const toggleButton = document.getElementById("theme-toggle");
+            if (toggleButton) {
+                toggleButton.textContent = selectedTheme === "dark" ? "☀️ Tryb jasny" : "🌙 Tryb ciemny";
+            }
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        const selectedQuizKey = params.get("quiz") || "konczynadolna";
+        const questionSets = typeof quizSets !== "undefined" ? quizSets : {};
+
+        let currentQuestions = questionSets[selectedQuizKey] || [];
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let answered = false;
+
+        const questionText = document.getElementById("question-text");
+        const optionsContainer = document.getElementById("options-container");
+        const nextBtn = document.getElementById("next-btn");
+        const continueBtn = document.getElementById("continue-btn");
+        const restartBtn = document.getElementById("restart-btn");
+        const scoreSpan = document.getElementById("score");
+        const totalSpan = document.getElementById("total");
+        const shuffleToggle = document.getElementById("shuffle-toggle");
+        const quizTitle = document.getElementById("quiz-title");
+
+        quizTitle.innerText = `Anatomia Graya — ${quizLabels[selectedQuizKey] || "Quiz"}`;
+
+        function shuffleArray(items) {
+            const arr = [...items];
+            for (let i = arr.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+            return arr;
+        }
+
+        function prepareQuestions(questionSet) {
+            const baseSet = (questionSet || []).map((question) => ({
+                ...question,
+                options: [...question.options],
+                wasCorrect: false
+            }));
+
+            if (!shuffleToggle.checked) {
+                return baseSet;
+            }
+
+            return shuffleArray(baseSet).map((question) => {
+                const shuffledOptions = shuffleArray(question.options);
+                const correctOption = question.options[question.answer];
+                return {
+                    ...question,
+                    options: shuffledOptions,
+                    answer: shuffledOptions.indexOf(correctOption),
+                    wasCorrect: false
+                };
+            });
+        }
+
+        function startQuiz(selectedKey) {
+            const selectedSet = questionSets[selectedKey] || [];
+            currentQuestions = prepareQuestions(selectedSet);
+            currentQuestionIndex = 0;
+            score = 0;
+            answered = false;
+            nextBtn.disabled = true;
+            nextBtn.style.display = "inline-block";
+            continueBtn.style.display = "none";
+            restartBtn.style.display = "none";
+            scoreSpan.innerText = score;
+            totalSpan.innerText = currentQuestions.length;
+
+            if (!currentQuestions.length) {
+                questionText.innerText = "Ten quiz jest pusty.";
+                optionsContainer.innerHTML = "";
+                return;
+            }
+
+            loadQuestion();
+        }
+
+        function loadQuestion() {
+            answered = false;
+            nextBtn.disabled = true;
+            const currentQuestion = currentQuestions[currentQuestionIndex];
+            questionText.innerText = `${currentQuestionIndex + 1}. ${currentQuestion.question}`;
+            optionsContainer.innerHTML = "";
+
+            currentQuestion.options.forEach((option, index) => {
+                const button = document.createElement("button");
+                button.innerText = option;
+                button.classList.add("option");
+                button.onclick = () => checkAnswer(index, button);
+                optionsContainer.appendChild(button);
+            });
+        }
+
+        function checkAnswer(selectedIndex, button) {
+            if (answered) return;
+            answered = true;
+            const currentQuestion = currentQuestions[currentQuestionIndex];
+            const correctIndex = currentQuestion.answer;
+            const allButtons = optionsContainer.querySelectorAll(".option");
+
+            if (selectedIndex === correctIndex) {
+                button.classList.add("correct");
+                currentQuestion.wasCorrect = true;
+                score++;
+                scoreSpan.innerText = score;
+            } else {
+                button.classList.add("wrong");
+                allButtons[correctIndex].classList.add("correct");
+                currentQuestion.wasCorrect = false;
+            }
+
+            nextBtn.disabled = false;
+        }
+
+        function continueWrongQuestions() {
+            const wrongQuestions = currentQuestions.filter((question) => !question.wasCorrect);
+
+            if (!wrongQuestions.length) {
+                startQuiz(selectedQuizKey);
+                return;
+            }
+
+            currentQuestions = wrongQuestions.map((question) => ({
+                ...question,
+                wasCorrect: false
+            }));
+            currentQuestionIndex = 0;
+            score = 0;
+            answered = false;
+            nextBtn.disabled = true;
+            nextBtn.style.display = "inline-block";
+            continueBtn.style.display = "none";
+            restartBtn.style.display = "none";
+            scoreSpan.innerText = score;
+            totalSpan.innerText = currentQuestions.length;
+            loadQuestion();
+        }
+
+        function nextQuestion() {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < currentQuestions.length) {
+                loadQuestion();
+            } else {
+                const total = currentQuestions.length || 1;
+                const wrongQuestions = currentQuestions.filter((question) => !question.wasCorrect);
+                const correctPercent = Math.round((score / total) * 100);
+                const wrongPercent = 100 - correctPercent;
+                const chartStyle = `background: conic-gradient(#22c55e 0 ${correctPercent}%, #ef4444 ${correctPercent}% 100%);`;
+
+                questionText.innerText = wrongQuestions.length > 0 ? "Koniec rundy!" : "Gratulacje! Wszystkie odpowiedzi są poprawne!";
+                optionsContainer.innerHTML = `
+                    <div class="result-card">
+                        <div class="result-chart" style="${chartStyle}">
+                            <div class="result-chart-inner">
+                                <strong>${correctPercent}%</strong>
+                                <span>dobrze</span>
+                            </div>
+                        </div>
+                        <div class="result-summary">
+                            <p>Twój wynik to <strong>${score}</strong> na <strong>${currentQuestions.length}</strong>.</p>
+                            <p><strong>${correctPercent}%</strong> poprawnych, <strong>${wrongPercent}%</strong> błędnych.</p>
+                            ${wrongQuestions.length > 0 ? `<p>Pozostało <strong>${wrongQuestions.length}</strong> pytań do poprawienia.</p>` : "<p>Możesz zacząć od nowa lub wybrać inny zestaw.</p>"}
+                        </div>
+                    </div>
+                `;
+                nextBtn.style.display = "none";
+                if (wrongQuestions.length > 0) {
+                    continueBtn.style.display = "inline-block";
+                    restartBtn.style.display = "inline-block";
+                } else {
+                    continueBtn.style.display = "none";
+                    restartBtn.style.display = "inline-block";
+                }
+            }
+        }
+
+        const themeToggle = document.getElementById("theme-toggle");
+        themeToggle.addEventListener("click", () => {
+            const nextTheme = document.body.getAttribute("data-theme") === "dark" ? "light" : "dark";
+            applyTheme(nextTheme);
+        });
+
+        shuffleToggle.addEventListener("change", () => {
+            startQuiz(selectedQuizKey);
+        });
+
+        const savedTheme = localStorage.getItem("quiz-theme") || "light";
+        applyTheme(savedTheme);
+        startQuiz(selectedQuizKey);
+    </script>
+</body>
+</html>
