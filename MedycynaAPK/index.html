@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <script src="pytania.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz: Anatomia Graya</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #eef4ff 0%, #f6f7fb 100%);
+            color: #2d3748;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .quiz-container {
+            background: #ffffff;
+            padding: 30px 28px 24px;
+            border-radius: 18px;
+            box-shadow: 0 18px 45px rgba(31, 41, 55, 0.12);
+            max-width: 640px;
+            width: 100%;
+            border: 1px solid rgba(148, 163, 184, 0.18);
+        }
+        .quiz-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 20px;
+            margin: 0;
+            color: #1e293b;
+        }
+        .selector-wrap {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 18px;
+        }
+        .selector-label {
+            font-size: 12px;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: #64748b;
+            font-weight: 700;
+        }
+        .shuffle-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .shuffle-toggle {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            color: #334155;
+            cursor: pointer;
+        }
+        .shuffle-toggle input {
+            width: 16px;
+            height: 16px;
+            accent-color: #2563eb;
+        }
+        #quiz-select {
+            width: 100%;
+            padding: 12px 14px;
+            border-radius: 12px;
+            border: 1px solid #cbd5e1;
+            background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+            color: #1e293b;
+            font-size: 15px;
+            font-weight: 600;
+            box-shadow: inset 0 1px 2px rgba(15, 23, 42, 0.04);
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+            outline: none;
+        }
+        #quiz-select:focus {
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.15);
+        }
+        #quiz {
+            background: #f8fafc;
+            border-radius: 14px;
+            padding: 18px 18px 8px;
+            border: 1px solid #e2e8f0;
+        }
+        .question { font-size: 18px; margin-bottom: 20px; font-weight: bold; color: #0f172a; }
+        .options { display: flex; flex-direction: column; gap: 10px; }
+        .option {
+            padding: 12px 14px;
+            background: #ffffff;
+            border: 1px solid #dfe7f1;
+            border-radius: 12px;
+            cursor: pointer;
+            text-align: left;
+            font-size: 16px;
+            transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+            box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+        }
+        .option:hover {
+            background: #eef6ff;
+            transform: translateY(-1px);
+            box-shadow: 0 6px 16px rgba(59, 130, 246, 0.08);
+        }
+        .option.correct { background: #22c55e; color: white; border-color: #22c55e; }
+        .option.wrong { background: #ef4444; color: white; border-color: #ef4444; }
+        .result-card {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+        .result-chart {
+            width: 130px;
+            height: 130px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            position: relative;
+            box-shadow: inset 0 0 0 1px rgba(148, 163, 184, 0.2);
+        }
+        .result-chart::before {
+            content: "";
+            position: absolute;
+            inset: 14px;
+            background: #ffffff;
+            border-radius: 50%;
+            box-shadow: inset 0 0 0 1px rgba(148, 163, 184, 0.2);
+        }
+        .result-chart-inner {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            line-height: 1.2;
+        }
+        .result-chart-inner strong {
+            font-size: 28px;
+            color: #0f172a;
+        }
+        .result-chart-inner span {
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #64748b;
+        }
+        .result-summary {
+            flex: 1;
+            min-width: 180px;
+            color: #334155;
+            font-size: 15px;
+            line-height: 1.6;
+        }
+        .result-summary strong {
+            color: #0f172a;
+        }
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 24px;
+            gap: 12px;
+        }
+        .btn {
+            padding: 11px 18px;
+            background: linear-gradient(135deg, #2563eb, #1d4ed8);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 15px;
+            font-weight: 700;
+            box-shadow: 0 8px 18px rgba(37, 99, 235, 0.25);
+        }
+        .btn:hover:not(:disabled) { filter: brightness(1.05); }
+        .btn:disabled { background: #bfdbfe; box-shadow: none; cursor: not-allowed; }
+        .btn-secondary {
+            background: linear-gradient(135deg, #475569, #334155);
+            box-shadow: 0 8px 18px rgba(71, 85, 105, 0.2);
+        }
+        #score-box { font-weight: bold; font-size: 16px; color: #334155; }
+    </style>
+</head>
+<body>
+
+<div class="quiz-container">
+    <div class="quiz-header">
+        <h1>Anatomia Graya - Tom 1</h1>
+    </div>
+
+    <div class="selector-wrap">
+        <label class="selector-label" for="quiz-select">Wybierz zestaw pytań</label>
+        <select id="quiz-select">
+          <option value="konczynadolna">Kończyna Dolna</option>
+          <option value="konczynagorna">Kończyna Górna</option>
+          <option value="grzbiet">Grzbiet</option>
+          <option value="klatkaPiersiowa">Klatka piersiowa</option>
+          <option value="jamaBrzuszna">Jama brzuszna</option>
+          <option value="miednicaIKrocze">Miednica i krocze</option>
+        </select>
+    </div>
+
+    <div class="shuffle-row">
+        <label class="shuffle-toggle" for="shuffle-toggle">
+            <input type="checkbox" id="shuffle-toggle">
+            <span>Losuj pytania i odpowiedzi</span>
+        </label>
+    </div>
+
+    <div id="quiz">
+        <div class="question" id="question-text">Ładowanie pytania...</div>
+        <div class="options" id="options-container"></div>
+    </div>
+    <div class="controls">
+        <div id="score-box">Wynik: <span id="score">0</span> / <span id="total">0</span></div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+            <button class="btn btn-secondary" id="restart-btn" onclick="startQuiz(quizSelect.value)" style="display: none;">Zacznij od nowa</button>
+            <button class="btn" id="next-btn" onclick="nextQuestion()" disabled>Następne pytanie</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    const questionSets = typeof quizSets !== "undefined"
+        ? quizSets
+        : {
+            konczynadolna: typeof questions !== "undefined" ? questions : [],
+            konczynagorna: [],
+            klatkaPiersiowa: [],
+            jamaBrzuszna: [],
+            miednicaIKrocze: []
+        };
+
+    let currentQuestions = questionSets.konczynadolna;
+    let currentQuestionIndex = 0;
+    let score = 0;
+    let answered = false;
+
+    const questionText = document.getElementById("question-text");
+    const optionsContainer = document.getElementById("options-container");
+    const nextBtn = document.getElementById("next-btn");
+    const restartBtn = document.getElementById("restart-btn");
+    const scoreSpan = document.getElementById("score");
+    const totalSpan = document.getElementById("total");
+    const quizSelect = document.getElementById("quiz-select");
+    const shuffleToggle = document.getElementById("shuffle-toggle");
+
+    function shuffleArray(items) {
+        const arr = [...items];
+        for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        return arr;
+    }
+
+    function prepareQuestions(questionSet) {
+        const baseSet = (questionSet || []).map((question) => ({
+            ...question,
+            options: [...question.options]
+        }));
+
+        if (!shuffleToggle.checked) {
+            return baseSet;
+        }
+
+        return shuffleArray(baseSet).map((question) => {
+            const shuffledOptions = shuffleArray(question.options);
+            const correctOption = question.options[question.answer];
+            return {
+                ...question,
+                options: shuffledOptions,
+                answer: shuffledOptions.indexOf(correctOption)
+            };
+        });
+    }
+
+    function startQuiz(selectedKey) {
+        currentQuestions = prepareQuestions(questionSets[selectedKey]);
+        currentQuestionIndex = 0;
+        score = 0;
+        answered = false;
+        nextBtn.disabled = true;
+        nextBtn.style.display = "inline-block";
+        restartBtn.style.display = "none";
+        scoreSpan.innerText = score;
+        totalSpan.innerText = currentQuestions.length;
+
+        if (!currentQuestions.length) {
+            questionText.innerText = "Ten quiz jest pusty.";
+            optionsContainer.innerHTML = "";
+            return;
+        }
+
+        loadQuestion();
+    }
+
+    function loadQuestion() {
+        answered = false;
+        nextBtn.disabled = true;
+        const currentQuestion = currentQuestions[currentQuestionIndex];
+        questionText.innerText = `${currentQuestionIndex + 1}. ${currentQuestion.question}`;
+        optionsContainer.innerHTML = "";
+
+        currentQuestion.options.forEach((option, index) => {
+            const button = document.createElement("button");
+            button.innerText = option;
+            button.classList.add("option");
+            button.onclick = () => checkAnswer(index, button);
+            optionsContainer.appendChild(button);
+        });
+    }
+
+    function checkAnswer(selectedIndex, button) {
+        if (answered) return;
+        answered = true;
+        const correctIndex = currentQuestions[currentQuestionIndex].answer;
+        const allButtons = optionsContainer.querySelectorAll(".option");
+
+        if (selectedIndex === correctIndex) {
+            button.classList.add("correct");
+            score++;
+            scoreSpan.innerText = score;
+        } else {
+            button.classList.add("wrong");
+            allButtons[correctIndex].classList.add("correct");
+        }
+
+        nextBtn.disabled = false;
+    }
+
+    function nextQuestion() {
+        currentQuestionIndex++;
+        if (currentQuestionIndex < currentQuestions.length) {
+            loadQuestion();
+        } else {
+            const total = currentQuestions.length || 1;
+            const correctPercent = Math.round((score / total) * 100);
+            const wrongPercent = 100 - correctPercent;
+            const chartStyle = `background: conic-gradient(#22c55e 0 ${correctPercent}%, #ef4444 ${correctPercent}% 100%);`;
+
+            questionText.innerText = "Koniec testu!";
+            optionsContainer.innerHTML = `
+                <div class="result-card">
+                    <div class="result-chart" style="${chartStyle}">
+                        <div class="result-chart-inner">
+                            <strong>${correctPercent}%</strong>
+                            <span>dobrze</span>
+                        </div>
+                    </div>
+                    <div class="result-summary">
+                        <p>Twój ostateczny wynik to <strong>${score}</strong> na <strong>${currentQuestions.length}</strong>.</p>
+                        <p><strong>${correctPercent}%</strong> poprawnych, <strong>${wrongPercent}%</strong> błędnych.</p>
+                    </div>
+                </div>
+            `;
+            nextBtn.style.display = "none";
+            restartBtn.style.display = "inline-block";
+        }
+    }
+
+    quizSelect.addEventListener("change", (event) => {
+        startQuiz(event.target.value);
+    });
+
+    shuffleToggle.addEventListener("change", () => {
+        startQuiz(quizSelect.value);
+    });
+
+    startQuiz("konczynadolna");
+</script>
+</body>
+</html>

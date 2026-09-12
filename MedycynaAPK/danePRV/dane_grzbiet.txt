@@ -1,0 +1,959 @@
+1 Krzywizny pierwotne kręgosłupa są obecne w odcinku/ach:
+A. Szyjnym i piersiowym.
+B. Piersiowym i krzyżowo-guzicznym.
+C. Piersiowym i lędźwiowym.
+D. Szyjnym i lędźwiowym.
+E. Lędźwiowym i krzyżowo-guzicznym.
+
+2 Krzywizny wtórne kręgosłupa są obecne w odcinku/ach:
+A. Szyjnym i piersiowym.
+B. Piersiowym i lędźwiowym.
+C. Piersiowym i krzyżowo-guzicznym.
+D. Szyjnym i lędźwiowym.
+E. Lędźwiowym i krzyżowo-guzicznym.
+
+3 Krzywizny pierwotne kręgosłupa - wybierz najlepsze twierdzenie:
+A. Wypukłością skierowane są ku tyłowi i występują w odcinku szyjnym i piersiowym.
+B. Wypukłością skierowane są do przodu i występują w odcinku szyjnym i lędźwiowym.
+C. Wypukłością skierowane są do tyłu i występują w odcinku piersiowym i krzyżowo-guzicznym kręgosłupa.
+D. Wypukłością skierowane są do boku i występują w odcinku piersiowym i krzyżowo-guzicznym.
+E. Wypukłością skierowane są do boku i występują w odcinku szyjnym i piersiowym.
+
+4 Krzywizny wtórne kręgosłupa - wybierz najlepsze twierdzenie:
+A. Wypukłością skierowane są do przodu i występują w odcinku szyjnym i lędźwiowym.
+B. Wypukłością skierowane są do boku i występują w odcinku piersiowym i krzyżowo-guzicznym.
+C. Wypukłością skierowane są ku tyłowi i występują w odcinku szyjnym i piersiowym.
+D. Wypukłością skierowane są do tyłu i występują w odcinku piersiowym i krzyżowo-guzicznym kręgosłupa.
+E. Wypukłością skierowane są do boku i występują w odcinku szyjnym i piersiowym.
+
+5 Działanie mięśni powierzchownych grzbietu polega na:
+A. Zgięciu i wyprostowaniu kręgosłupa.
+B. Obrocie kręgosłupa.
+C. Zgięciu bocznym kręgosłupa.
+D. Poruszaniu głową.
+E. Poruszaniu kończyną górną i żebrami.
+
+6 Czynność mięśni głębokich grzbietu nie polega na:
+A. Zgięciu i wyprostowaniu kręgosłupa.
+B. Poruszaniu kończyną górną i żebrami.
+C. Zgięciu bocznym kręgosłupa.
+D. Obrocie kręgosłupa.
+E. Poruszaniu głową.
+
+7 Ruch obrotowy głowy zachodzi pomiędzy:
+A. Atlasem a kłykciami potylicznymi czaszki.
+B. Dźwigaczem a atlasem.
+C. Pierwszym a drugim kręgiem szyjnym.
+D. Kręgiem obrotowym a zębem CII.
+E. Kręgiem obrotowym a kłykciami potylicznymi czaszki.
+
+8 Wyrostki typowego kręgu służą jako:
+A. Miejsca przyczepu ścięgien.
+B. Miejsca przyczepu więzadeł.
+C. Połączenia pomiędzy kręgami.
+D. Dźwignie dla działania mięśni.
+E. Wszystkie powyższe są prawidłowe.
+
+9 Głębokie mięśnie grzbietu unerwione są przez:
+A. Gałęzie grzbietowe nerwów rdzeniowych.
+B. Gałęzie przednie nerwów rdzeniowych.
+C. Gałęzie splotu ramiennego.
+D. Nerwy międzyżebrowe.
+E. Żadne z powyższych.
+
+10 Od rdzenia kręgowego odchodzą nerwy rdzeniowe w liczbie:
+A. 29 par.
+B. 30 par.
+C. 31 par.
+D. 32 par.
+E. 33 par.
+
+11 Gałęzie przednie nerwów rdzeniowych tworzą niżej wymienione sploty, z wyjątkiem:
+A. Splotu szyjnego.
+B. Splotu ramiennego.
+C. Splotu trzewnego.
+D. Splotu lędźwiowego.
+E. Splotu krzyżowego.
+
+12 Wskaż poziom, na którym najczęściej znajduje się koniec rdzenia kręgowego:
+A. ThXI.
+B. Krążek międzykręgowy ThXI/ThXII.
+C. ThXII.
+D. Krążek międzykręgowy LI/LII.
+E. LIV/LV.
+
+13 Wskaż prawidłowe stwierdzenie opisujące korzenie nerwów rdzeniowych:
+A. Ich długość maleje w kierunku odcinka krzyżowego rdzenia kręgowego.
+B. Ich długość jest taka sama na każdym odcinku rdzenia kręgowego.
+C. Ich długość wzrasta w kierunku odcinka krzyżowego rdzenia kręgowego.
+D. Najdłuższe są w odcinku szyjnym i piersiowym rdzenia kręgowego.
+E. Najdłuższe są w odcinku piersiowym, najkrótsze w krzyżowym rdzenia kręgowego.
+
+14 Miejscem, przez który nerwy rdzeniowe opuszczają kanał kręgowy, jest:
+A. Szczelina międzykręgowa.
+B. Otwór międzykręgowy.
+C. Otwór rdzeniowy boczny.
+D. Otwór wyrostka poprzecznego.
+E. Wcięcie łuku kręgowego.
+
+15 Głębokie mięśnie grzbietu oraz otaczająca je skóra unerwione są przez:
+A. Gałęzie przednie nerwów rdzeniowych.
+B. Gałęzie boczne nerwów rdzeniowych.
+C. Gałęzie wsteczne nerwów rdzeniowych.
+D. Gałęzie tylne nerwów rdzeniowych.
+E. Korzenie grzbietowe nerwów rdzeniowych.
+
+16 Prawidłowa liczba kręgów budujących kręgosłup człowieka wynosi zazwyczaj:
+A. 7.
+B. 12.
+C. 25.
+D. 33.
+E. 39.
+
+17 Wskaż prawidłową liczbę kręgów odpowiednio: szyjnych, piersiowych, lędźwiowych, krzyżowych i guzicznych:
+A. 7, 10, 12, 5, 4.
+B. 7, 12, 5, 5, 4 (5).
+C. 12, 7, 5, 5, 4 (5).
+D. 12, 5, 7, 5, 5.
+E. 5, 12, 5, 7, 4 (5).
+
+18 Cechą różniącą kręgi szyjne od pozostałych kręgów jest:
+A. Obecność trzonu kręgu.
+B. Brak otworów w wyrostkach poprzecznych.
+C. Obecność wyrostków poprzecznych.
+D. Obecność wyrostków kolczystych.
+E. Obecność otworów w wyrostkach poprzecznych.
+
+19 Komórki, z których powstają w rozwoju zarodkowym kręgi, nazywają się:
+A. Sklerotomy.
+B. Sklerofity.
+C. Skleromity.
+D. Sklerotomity.
+E. Ossosomity.
+
+20 Największą częścią kręgu, jednocześnie dźwigającą ciężar ciała, jest:
+A. Wyrostek kolczysty.
+B. Wyrostek poprzeczny.
+C. Trzon kręgu.
+D. Łuk kręgu.
+E. Wyrostek stawowy górny i dolny.
+
+21 Łuk z trzonem kręgu połączony jest poprzez:
+A. Blaszki łuku kręgowego.
+B. Wyrostki stawowe górne.
+C. Wcięcia stawowe dolne.
+D. Nasady łuku kręgowego.
+E. Wyrostki stawowe dolne.
+
+22 Otwór międzykręgowy ograniczony jest przez:
+A. Dwa wyrostki poprzeczne sąsiadujących kręgów.
+B. Dwa wyrostki kolczyste sąsiadujących kręgów.
+C. Wcięcia kręgowe górne i dolne.
+D. Wyrostki stawowe górne i dolne.
+E. Łuki kręgowe sąsiadujących kręgów.
+
+23 Wybierz zdanie najlepiej opisujące trzon typowego kręgu szyjnego:
+A. Trzon jest niski, kwadratowy.
+B. Trzon jest wysoki, kształtu nerki.
+C. Powierzchnia górna trzonu jest wypukła.
+D. Powierzchnia dolna trzonu jest wklęsła.
+E. Trzon jest niski, kształtu sercowatego.
+
+24 Otwór kręgowy typowego kręgu szyjnego i kręgu lędźwiowego jest kształtu:
+A. Okrągłego.
+B. Owalnego.
+C. Czworobocznego.
+D. Trójkątnego.
+E. Nerkowatego.
+
+25 Krążek międzykręgowy nie występuje pomiędzy kręgami:
+A. C1 a C2.
+B. C2 a C3.
+C. C4 a C5.
+D. Th2 a Th3.
+E. Th7 a Th8.
+
+26 Pierwszy kręg szyjny to inaczej:
+A. Atlas, kręg obrotowy.
+B. Dźwigacz, atlas.
+C. Dźwigacz, axis.
+D. Atlas, axis.
+E. Kręg obrotowy, axis.
+
+27 Drugi kręg szyjny to inaczej:
+A. Atlas, kręg obrotowy.
+B. Dźwigacz, atlas.
+C. Dźwigacz, axis.
+D. Atlas, axis.
+E. Kręg obrotowy, axis.
+
+28 Powierzchnia stawowa dla zęba kręgu obrotowego występuje na:
+A. Powierzchni przedniej łuku tylnego C1.
+B. Powierzchni tylnej łuku przedniego C1.
+C. Powierzchni tylnej trzonu C1.
+D. Powierzchni tylnej łuku przedniego C2.
+E. Powierzchni tylnej trzonu C2.
+
+29 Właściwe położenie zęba kręgu obrotowego zapewnia więzadło:
+A. Podłużne kręgu szczytowego.
+B. Podłużne przednie.
+C. Skrzydłowate.
+D. Poprzeczne kręgu szczytowego.
+E. Poprzeczne zęba.
+
+30 Wyciski więzadeł skrzydłowatych znajdują się na:
+A. Powierzchni bocznej łuku przedniego C1.
+B. Szczycie zęba C2.
+C. Powierzchni górno-bocznej zęba C2.
+D. Powierzchni tylnej łuku przedniego C1.
+E. Szczycie wyrostka kolczystego C3.
+
+31 Dołki żebrowe są charakterystyczne dla:
+A. Kręgów szyjnych.
+B. Kręgów piersiowych.
+C. Kręgów piersiowych i dwóch pierwszych kręgów lędźwiowych.
+D. Kręgów lędźwiowych.
+E. Dwóch ostatnich kręgów szyjnych i kręgów piersiowych.
+
+32 Wskaż prawidłowy kształt odpowiednio trzonu i otworu kręgowego kręgu piersiowego:
+A. Nerkowaty, okrągły.
+B. Okrągły, sercowaty.
+C. Nerkowaty, trójkątny.
+D. Trójkątny, owalny.
+E. Sercowaty, okrągły.
+
+33 Dołek żebrowy wyrostka poprzecznego kręgu piersiowego służy do połączenia z:
+A. Głową żebra leżącego niżej.
+B. Głową żebra leżącego wyżej.
+C. Głową odpowiadającego żebra.
+D. Guzkiem odpowiadającego żebra.
+E. Głową i guzkiem żebra leżącego niżej.
+
+34 Wyrostki poprzeczne którego kręgu lędźwiowego służą jako miejsce przyczepu więzadeł biodrowo-lędźwiowych?
+A. Pierwszego.
+B. Drugiego.
+C. Trzeciego.
+D. Czwartego.
+E. Piątego.
+
+35 Wskaż prawidłowy kształt odpowiednio trzonu i otworu kręgowego kręgu lędźwiowego:
+A. Nerkowaty, trójkątny.
+B. Okrągły, sercowaty.
+C. Nerkowaty, okrągły.
+D. Trójkątny, owalny.
+E. Sercowaty, okrągły.
+
+36 Wybierz prawidłowy kształt odpowiednio powierzchni przedniej i tylnej kości krzyżowej:
+A. Płaska, wklęsła.
+B. Wklęsła, płaska.
+C. Wklęsła, wypukła.
+D. Wypukła, płaska.
+E. Wypukła, wklęsła.
+
+37 Otwory krzyżowe tylne występują w ilości:
+A. 2 par.
+B. 2 par plus jeden nieparzysty otwór.
+C. 3 par.
+D. 4 par.
+E. 8 par.
+
+38 Która z części kręgosłupa nie tworzy kanału kręgowego?
+A. Dwa pierwsze kręgi szyjne.
+B. Dwa pierwsze kręgi szyjne, kość krzyżowa.
+C. Kość krzyżowa i guziczna.
+D. Trzy ostatnie kręgi krzyżowe i kość guziczna.
+E. Kość guziczna.
+
+39 Przednie ograniczenie otworów międzykręgowych jest utworzone przez:
+A. Krążki międzykręgowe i trzony sąsiadujących kręgów.
+B. Staw międzykręgowy pomiędzy wyrostkami stawowymi kręgów.
+C. Wyrostki poprzeczne sąsiadujących kręgów.
+D. Tylko przez krążki międzykręgowe.
+E. Wyrostki kolczyste i powierzchnie tylne trzonów sąsiadujących kręgów.
+
+40 W rozszczepie kręgosłupa:
+A. Występuje brak zrośnięcia się trzonów kręgów.
+B. Nie dochodzi do zrośnięcia się łuków kręgów ze sobą.
+C. Dochodzi do patologicznego zarośnięcia kanału kręgowego.
+D. Dochodzi do zrośnięcia się wyrostków kolczystych sąsiednich kręgów.
+E. Dochodzi do niewykształcenia kręgów guzicznych.
+
+41 Przepuklina zawierająca płyn mózgowo-rdzeniowy nazywa się przepukliną:
+A. Oponową.
+B. Rdzeniową.
+C. Oponowo-rdzeniową.
+D. Kręgosłupową.
+E. Mózgową.
+
+42 Technika operacyjna, w której trzon kręgu zostaje wypełniony cementem kostnym, nazywa się:
+A. Corpoplastyką.
+B. Skolioplastyką.
+C. Wertebroplastyką.
+D. Wertebroprotezą.
+E. Skolioprotezą.
+
+43 U osób cierpiących na osteoporozę dochodzi do złamań trzonów kręgów najczęściej w odcinku:
+A. Szyjnym.
+B. Szyjnym i piersiowym.
+C. Piersiowym i lędźwiowym.
+D. Lędźwiowym.
+E. Lędźwiowym i krzyżowym.
+
+44 Patologiczne boczne skrzywienie kręgosłupa to:
+A. Lordoza.
+B. Kifoza.
+C. Nadmierna kifoza.
+D. Skolioza.
+E. Wtórna lordoza.
+
+45 Wskaż zmiany w kręgosłupie zachodzące podczas skoliozy:
+A. Boczne skrzywienie kręgosłupa i spłaszczenie lordoz.
+B. Pogłębienie wypukłości kręgosłupa.
+C. Spłaszczenie lordozy lędźwiowej.
+D. Boczne skrzywienie kręgosłupa i obrót kręgów względem siebie.
+E. Obrót kręgów względem siebie i garb w odcinku piersiowym.
+
+46 W osteoporozie:
+A. Zmniejsza się liczba kości bez zmiany ich jakości.
+B. Pogarsza się jakość kości bez wpływu na ich liczbę.
+C. Liczba kości się zmniejsza i ich jakość pogarsza się.
+D. Jakość kości pozostaje bez zmian, występuje nadmierne kostnienie.
+E. Dochodzi do ognisk dodatkowego kościotworzenia.
+
+47 Do typowych zmian w przebiegu osteoporozy należą:
+A. Zmiany zwyrodnieniowe w odcinku szyjnym kręgosłupa.
+B. Zmiany w odcinku piersiowym kręgosłupa z wytworzeniem tzw. garbu piersiowego i zmiany w stawie ramiennym.
+C. Złamania trzonów kręgów piersiowych i zmniejszenie się liczby kości.
+D. Zmiany we wszystkich stawach z wyjątkiem stawów dystalnych, np. międzypaliczkowych.
+E. Złamania trzonów kręgów i złamania w obrębie stawu biodrowego.
+
+48 Annulus fibrosus:
+A. Otacza centrum ścięgniste.
+B. Wypełnia centrum krążka międzykręgowego.
+C. Przebiega pomiędzy blaszkami łuków sąsiadujących kręgów.
+D. Ogranicza rotację pomiędzy kręgami.
+E. Znajduje się tylko między IV a V kręgiem szyjnym.
+
+49 Ile powierzchni stawowych dla połączenia z sąsiadującymi kręgami posiada typowy kręg:
+A. 4 powierzchnie stawowe.
+B. 4 chrząstkozrosty.
+C. 2 powierzchnie stawowe.
+D. 2 chrząstkozrosty.
+E. A i D prawidłowe.
+
+50 Staw Luschki to:
+A. Staw hakowo-kręgowy.
+B. Staw unkowertebralny.
+C. Połączenie stawowe wyrostka hakowego kręgu z trzonem kręgu leżącego wyżej.
+D. Pojęcie kliniczne.
+E. Wszystkie powyższe.
+
+1
+B.
+
+2
+D.
+
+3
+C.
+
+4
+A.
+
+5
+E.
+
+6
+B.
+
+7
+C.
+
+8
+E.
+
+9
+A.
+
+10
+C.
+
+11
+C.
+
+12
+D.
+
+13
+C.
+
+14
+B.
+
+15
+D.
+
+16
+D.
+
+17
+B.
+
+18
+E.
+
+19
+A.
+
+20
+C.
+
+21
+D.
+
+22
+C.
+
+23
+A.
+
+24
+D.
+
+25
+A.
+
+26
+B.
+
+27
+E.
+
+28
+B.
+
+29
+D.
+
+30
+C.
+
+31
+B.
+
+32
+E.
+
+33
+D.
+
+34
+E.
+
+35
+A.
+
+36
+C.
+
+37
+D.
+
+38
+E.
+
+39
+A.
+
+40
+B.
+
+41
+A.
+
+42
+C.
+
+43
+C.
+
+44
+D.
+
+45
+D.
+
+46
+B.
+
+47
+E.
+
+48
+D.
+
+49
+E.
+
+50
+E.
+
+51 Więzadło żółte:
+A. Biegnie pomiędzy tylną powierzchnią blaszki kręgu leżącego poniżej.
+B. Biegnie pomiędzy przednią powierzchnią blaszki kręgu leżącego powyżej.
+C. Przebiega wzdłuż końców wyrostków kolczystych kręgów.
+D. Łączy się z trzonami kręgów oraz krążkami międzykręgowymi.
+E. A i B prawidłowe.
+
+52 Ligamentum nuchae:
+A. Podstawa więzadła rozciąga się od wyniosłości potylicznej zewnętrznej do otworu wielkiego.
+B. Ma kształt trójkąta, którego podstawa łączy się z wyrostkiem kolczystym kręgu CVII.
+C. Wyznacza przednią część kanału kręgowego.
+D. Przebiega wzdłuż wyrostków kolczystych od kręgu CVII do kości krzyżowej.
+E. Rozciąga się w trakcie zginania kręgosłupa.
+
+53 Spinal stenosis jest to:
+A. Kręgozmyk.
+B. Część międzykręgowa, wrażliwa na uszkodzenie, szczególnie u sportowców.
+C. Zespół wąskiego kanału kręgowego.
+D. Zespół spowodowany rozciągnięciem więzadła podłużnego przedniego.
+E. Najczęstszy punkt występowania złamań części piersiowej kręgosłupa.
+
+54 Synchondroses to:
+A. Połączenia między wyrostkami kolczystymi kręgów.
+B. Połączenia między trzonami kręgów.
+C. Połączenia między wyrostkami stawowymi kręgów.
+D. Staw hakowo-kręgowy.
+E. Pierścień włóknisty.
+
+55 Osteofit to:
+A. Narośl kostna.
+B. Miejsce przyczepu więzadła podłużnego tylnego.
+C. Przemieszczenie się kręgów względem siebie.
+D. Nowotwór kości.
+E. Przepuklina krążka międzykręgowego.
+
+56 Jakie więzadło na całej swojej długości łączy się z trzonami kręgów oraz krążkami międzykręgowymi?
+A. Ligamentum longitudinale anterius.
+B. Ligamenta flava.
+C. Ligamentum nuchae.
+D. Ligamentum longitudinale mediale.
+E. Ligamentum supraspinale.
+
+57 Na jakiej wysokości kręgosłupa więzadło nadkolcowe przechodzi w więzadło karkowe:
+A. CV.
+B. CVI.
+C. CVII.
+D. ThI.
+E. ThII.
+
+58 Jakie więzadło kręgosłupa pomaga w powrocie głowy do pozycji anatomicznej:
+A. Nadkolcowe.
+B. Międzykolcowe.
+C. Żółte.
+D. Karkowe.
+E. Więzadło podłużne tylne.
+
+59 Najczęstszym miejscem występowania złamań części międzystawowych jest poziom:
+A. LI i LII.
+B. LII i LIII.
+C. LIII i LIV.
+D. LIV i LV.
+E. SI i SII.
+
+60 Kręgozmyk to:
+A. Przesunięcie kręgu bez złamania.
+B. Przesunięcie kręgu ze złamaniem.
+C. Narośl kostna.
+D. Przepuklina krążka międzykręgowego.
+E. Żadna z powyższych odpowiedzi nie jest prawidłowa.
+
+61 Wypadnięty krążek międzykręgowy najczęściej uciska na:
+A. Rdzeń kręgowy.
+B. Worek oponowy.
+C. Korzenie nerwów rdzeniowych.
+D. Rdzeń przedłużony.
+E. Żadne z powyższych.
+
+62 Co wchodzi w skład kolumny przedniej kręgosłupa w rozumieniu klinicznym?
+A. Więzadło żółte i więzadło podłużne.
+B. Trzony kręgów i więzadło podłużne przednie.
+C. Więzadło nadkolcowe i więzadło podłużne przednie.
+D. Trzony kręgów i więzadło żółte.
+E. Trzony kręgów i więzadło nadkolcowe.
+
+63 Kwadriplegia to:
+A. Porażenie kończyn górnych.
+B. Porażenie kończyn dolnych.
+C. Tetraplegia.
+D. Porażenie kończyny dolnej i górnej po tej samej stronie.
+E. Paraplegia.
+
+64 Powierzchnia stawowa stawu międzykręgowego w odcinku szyjnym jest:
+A. Skierowana ku górze.
+B. Skierowana bocznie.
+C. Pochylona ku dołowi.
+D. Znajduje się na wysokości płaszczyzny stawu.
+E. Ustawiona w płaszczyźnie strzałkowej.
+
+65 Ruchy kręgosłupa obejmują:
+A. Zgięcie i wyprost.
+B. Zgięcie boczne i obrót.
+C. Zgięcie, wyprost i obwodzenie.
+D. Zgięcie boczne, obrót i obwodzenie.
+E. Wszystkie powyższe.
+
+66 Podaj liczbę więzadeł kręgosłupa:
+A. 3.
+B. 4.
+C. 5.
+D. 6.
+E. 7.
+
+67 U dorosłych rdzeń kręgowy kończy się na wysokości:
+A. I kręgu lędźwiowego.
+B. II kręgu lędźwiowego.
+C. Krążka międzykręgowego między LI i LII.
+D. Krążka międzykręgowego między ThXII i LI.
+E. III kręgu lędźwiowego.
+
+68 Zgrubienie szyjne rdzenia kręgowego znajduje się w odcinku, od którego odchodzą nerwy rdzeniowe:
+A. C1-C8.
+B. C3-C5.
+C. C1-C7.
+D. C5-Th1.
+E. C3-C8.
+
+69 Tętnice segmentalne rdzenia odchodzą od:
+A. Tętnicy kręgowej.
+B. Tętnicy głębokiej szyi.
+C. Tętnic międzyżebrowych tylnych.
+D. Tętnic lędźwiowych.
+E. Wszystkich wymienionych.
+
+70 Tętnica Adamkiewicza występuje:
+A. W odcinku szyjnym rdzenia kręgowego.
+B. W odcinku krzyżowym rdzenia kręgowego.
+C. Na granicy odcinka szyjnego i piersiowego rdzenia kręgowego.
+D. Na granicy odcinka piersiowego i lędźwiowego rdzenia kręgowego.
+E. Na granicy odcinka lędźwiowego i krzyżowego rdzenia kręgowego.
+
+71 Tętnica Adamkiewicza to:
+A. Tętnica rdzeniowa wielka.
+B. Tętnica segmentalna wielka.
+C. Tętnica korzeniowa wielka.
+D. Tętnica rdzeniowa przednia.
+E. Żadna z powyższych tętnic nie odpowiada tętnicy Adamkiewicza.
+
+72 Rdzeń kręgowy unaczyniony jest przez tętnice segmentalne oraz:
+A. 2 tętnice rdzeniowe przednie i 2 tętnice rdzeniowe tylne.
+B. 2 tętnice rdzeniowe przednie i pojedynczą tętnicę rdzeniową tylną.
+C. 2 tętnice rdzeniowe tylne i pojedynczą tętnicę rdzeniową przednią.
+D. Pojedynczą tętnicę rdzeniową przednią i pojedynczą tętnicę rdzeniową tylną.
+E. Liczne sploty tętnicze położone w przestrzeni nadtwardówkowej.
+
+73 Sploty żylne kręgowe wewnętrzne położone są w:
+A. Przestrzeni podtwardówkowej.
+B. Przestrzeni nadtwardówkowej.
+C. Przestrzeni podpajęczynówkowej.
+D. W obrębie rdzenia kręgowego.
+E. Żadnej z powyższych lokalizacji.
+
+74 Krew żylna odpływa z rdzenia kręgowego:
+A. Jedną żyłą rdzeniową tylną i dwiema żyłami rdzeniowymi przednimi.
+B. Dwiema żyłami rdzeniowymi tylnymi i jedną żyłą rdzeniową przednią.
+C. Parzystymi żyłami rdzeniowymi przednimi i tylnymi.
+D. Pojedynczymi żyłami rdzeniowymi przednią i tylną.
+E. Jedynie żyłami towarzyszącymi korzeniom rdzeniowym.
+
+75 Przestrzeń podpajęczynówkowa kończy się na poziomie:
+A. Dolnego brzegu kręgu SII.
+B. Dolnego brzegu kręgu SIII.
+C. Górnego brzegu kręgu SII.
+D. Górnego brzegu kręgu SIII.
+E. Dolnego brzegu kręgu SV.
+
+76 Przestrzeń podpajęczynówkowa jest największa:
+A. W okolicy podpotylicznej.
+B. W okolicy szyjnej.
+C. W okolicy piersiowej.
+D. W okolicy lędźwiowej.
+E. W okolicy krzyżowej.
+
+77 Opona, która jest delikatna i cienka oraz bezpośrednio pokrywa rdzeń kręgowy, wnikając do bruzd i szczeliny pośrodkowej przedniej, to:
+A. Opona twarda.
+B. Opona pajęcza.
+C. Opona miękka.
+D. Onerwie.
+E. Żadna z powyższych.
+
+78 Opona twarda jest:
+A. Zrośnięta z okostną kanału kręgowego.
+B. Oddzielona od ściany kanału kręgowego przestrzenią nadtwardówkową.
+C. Oddzielona od ściany kanału kręgowego przestrzenią podtwardówkową.
+D. Oddzielona od ściany kanału kręgowego przestrzenią wypełnioną płynem.
+E. Żadna z odpowiedzi nie jest poprawna.
+
+79 Beleczki pajęczynówki:
+A. Łączą rdzeń kręgowy z oponą pajęczą.
+B. Łączą rdzeń kręgowy z oponą miękką.
+C. Łączą oponę miękką z oponą pajęczą.
+D. Łączą oponę pajęczą z oponą twardą.
+E. Utworzone są wyłącznie przez oponę pajęczą.
+
+80 Przednie ograniczenie kanału kręgowego stanowią:
+A. Trzony kręgów, krążki międzykręgowe i więzadło podłużne tylne.
+B. Więzadła żółte i więzadła międzykolcowe wraz z wyrostkami kolczystymi.
+C. Trzony kręgów, krążki międzykręgowe i więzadło podłużne przednie.
+D. Nasady łuku kręgów, więzadła żółte i otwory międzykręgowe.
+E. Trzony kręgów, więzadła żółte i podłużne przednie.
+
+81 Przestrzeń nadtwardówkowa kanału kręgowego zawarta jest pomiędzy:
+A. Oponą twardą a pajęczą.
+B. Rdzeniem kręgowym a oponą twardą.
+C. Oponą twardą a miękką.
+D. Oponą miękką a rdzeniem kręgowym.
+E. Ścianą kanału kręgowego a oponą twardą.
+
+82 Wskaż prawidłową sekwencję struktur, przez jakie przechodzi igła wchodząca do kanału kręgowego podczas wykonywania punkcji lędźwiowej:
+A. Więzadło podłużne tylne - przestrzeń nadtwardówkowa - opona twarda - opona pajęcza - jama podpajęczynówkowa.
+B. Opona twarda - opona pajęcza - przestrzeń nadtwardówkowa - jama podpajęczynówkowa.
+C. Więzadła nadkolcowe - więzadła międzykolcowe - przestrzeń nadtwardówkowa - opona twarda - opona pajęcza - jama podpajęczynówkowa.
+D. Jama podpajęczynówkowa - opona pajęcza - opona twarda - więzadła nadkolcowe i międzykolcowe.
+E. Więzadła żółte, więzadła podłużne tylne - więzadło międzykolcowe - przestrzeń nadtwardówkowa - jama podpajęczynówkowa.
+
+83 Korzeń tylny nerwu rdzeniowego zawiera włókna:
+A. Mieszane.
+B. Ruchowe.
+C. Ruchowe i czuciowe.
+D. Autonomiczne.
+E. Czuciowe.
+
+84 Korzeń przedni nerwu rdzeniowego zawiera włókna:
+A. Ruchowe.
+B. Czuciowe.
+C. Mieszane.
+D. Autonomiczne.
+E. Czuciowe i autonomiczne.
+
+85 Ciała neuronów ruchowych zlokalizowane są w:
+A. Rogach tylnych rdzenia kręgowego.
+B. Zwoju rdzeniowym.
+C. Rogach bocznych rdzenia kręgowego.
+D. Rogach przednich rdzenia kręgowego.
+E. Rogach tylno-bocznych rdzenia kręgowego.
+
+86 Które z gałęzi nerwów rdzeniowych tworzą somatyczne sploty nerwowe?
+A. Gałęzie tylne.
+B. Gałęzie oponowe.
+C. Gałęzie przednie.
+D. Gałęzie grzbietowe.
+E. Gałęzie wsteczne.
+
+87 Ogon koński to końcowa grupa korzeni:
+A. Przednich nerwów rdzeniowych odcinka lędźwiowego, krzyżowego i guzicznego rdzenia kręgowego.
+B. Przednich i tylnych nerwów rdzeniowych odcinka lędźwiowego, krzyżowego i guzicznego rdzenia kręgowego.
+C. Tylnych nerwów rdzeniowych odcinka lędźwiowego, krzyżowego i guzicznego rdzenia kręgowego.
+D. Przednich i tylnych nerwów rdzeniowych odcinka krzyżowego i guzicznego rdzenia kręgowego.
+E. Tylnych nerwów rdzeniowych odcinka krzyżowego i guzicznego rdzenia kręgowego.
+
+88 Jama podpajęczynówkowa w kanale kręgowym rozciąga się do poziomu:
+A. Dolnego brzegu kręgu SII.
+B. Górnego brzegu kręgu LV.
+C. Dolnej granicy kręgu SV.
+D. Krążka międzykręgowego SIII/SIV.
+E. Granicy dolnej krawędzi trzonu kręgu SIV.
+
+89 Wskaż prawidłową liczbę nerwów rdzeniowych:
+A. 12 par.
+B. 31.
+C. 30 par.
+D. 55.
+E. 31 par.
+
+90 Wskaż miejsce, w którym pierwszy nerw rdzeniowy (C1) wychodzi z kanału kręgowego:
+A. Otwór międzykręgowy CI.
+B. Szczelina pomiędzy CI a CII.
+C. Szczelina pomiędzy czaszką a CI.
+D. Otwór międzykręgowy CII.
+E. Otwór wyrostka poprzecznego CI.
+
+91 Ósmy nerw rdzeniowy (C8) wychodzi z kanału kręgowego:
+A. Przez otwór międzykręgowy CVII.
+B. Pomiędzy CVII a CVIII.
+C. Przez otwór wyrostka poprzecznego CVII.
+D. Przez otwór międzykręgowy ThI.
+E. Pomiędzy CVII a ThI.
+
+92 Półpasiec jest chorobą wywołaną przez reaktywację wirusa, który u dzieci powoduje:
+A. Świnkę.
+B. Różyczkę.
+C. Tężec.
+D. Ospę wietrzną.
+E. Opryszczkę wargową.
+
+93 Który z poniższych terminów ogólnie określa ból dolnej części kręgosłupa?
+A. Przepuklina lędźwiowa.
+B. Rwa kulszowa.
+C. Półpasiec.
+D. Lumbalgia.
+E. Skolioza.
+
+94 Termin określający silny ból promieniujący wzdłuż nerwu kulszowego to:
+A. Rwa kulszowa.
+B. Skolioza.
+C. Lumbalgia.
+D. Półpasiec.
+E. Przepuklina lędźwiowa.
+
+95 U 50-letniego mężczyzny, który uległ wypadkowi samochodowemu, lekarz izby przyjęć stwierdził kwadriplegię oraz brak czucia w porażonym obszarze. Pacjent był wydolny oddechowo. Na podstawie obrazu klinicznego lekarz podejrzewa:
+A. Przerwanie ciągłości rdzenia kręgowego na wysokości C8 lub poniżej.
+B. Przerwanie ciągłości rdzenia kręgowego na wysokości C5 lub poniżej.
+C. Przerwanie ciągłości rdzenia kręgowego na wysokości C3.
+D. Przerwanie ciągłości rdzenia kręgowego na wysokości C1.
+E. Na podstawie opisanych objawów lekarz nie ma podstaw do podejrzewania uszkodzenia rdzenia kręgowego.
+
+96 Przerwanie ciągłości rdzenia kręgowego na wysokości C3-C4 spowoduje:
+A. Zatrzymanie oddechu i kwadriplegię.
+B. Zatrzymanie oddechu i paraplegię.
+C. Tylko zatrzymanie oddechu.
+D. Tylko kwadriplegię.
+E. Żadne z powyższych.
+
+51
+E.
+
+52
+A.
+
+53
+C.
+
+54
+B.
+
+55
+A.
+
+56
+A.
+
+57
+C.
+
+58
+D.
+
+59
+D.
+
+60
+A.
+
+61
+C.
+
+62
+B.
+
+63
+C.
+
+64
+C.
+
+65
+E.
+
+66
+D.
+
+67
+C.
+
+68
+D.
+
+69
+E.
+
+70
+D.
+
+71
+C.
+
+72
+C.
+
+73
+B.
+
+74
+D.
+
+75
+A.
+
+76
+D.
+
+77
+C.
+
+78
+B.
+
+79
+C.
+
+80
+A.
+
+81
+E.
+
+82
+C.
+
+83
+E.
+
+84
+A.
+
+85
+D.
+
+86
+C.
+
+87
+B.
+
+88
+A.
+
+89
+E.
+
+90
+C.
+
+91
+E.
+
+92
+D.
+
+93
+D.
+
+94
+A.
+
+95
+B.
+
+96
+A.
