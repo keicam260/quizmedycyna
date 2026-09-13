@@ -197,20 +197,62 @@
 
     <script src="pytania.js"></script>
     <script>
-        const quizSources = {
-            anatomiaGray: {
-                label: "Anatomia Graya",
-                description: "Zestawy z atlasu anatomii",
-                quizzes: [
-                    { key: "konczynadolna", label: "Kończyna dolna" },
-                    { key: "konczynagorna", label: "Kończyna górna" },
-                    { key: "grzbiet", label: "Grzbiet" },
-                    { key: "klatkaPiersiowa", label: "Klatka piersiowa" },
-                    { key: "jamaBrzuszna", label: "Jama brzuszna" },
-                    { key: "miednicaIKrocze", label: "Miednica i krocze" }
-                ]
+        function formatQuizLabel(key) {
+            const labels = {
+                konczynadolna: "Kończyna dolna",
+                konczynagorna: "Kończyna górna",
+                grzbiet: "Grzbiet",
+                klatkaPiersiowa: "Klatka piersiowa",
+                jamaBrzuszna: "Jama brzuszna",
+                miednicaIKrocze: "Miednica i krocze",
+                WiadomosciOgolneCzaszkaJamaCzaszki: "Wiadomości ogólne: Czaszka i Jama Czaszki"
+            };
+
+            if (labels[key]) {
+                return labels[key];
             }
-        };
+
+            return (key || "")
+                .replace(/([a-z])([A-Z])/g, "$1 $2")
+                .replace(/([A-Z]+)([A-Z][a-z])/g, "$1 $2")
+                .replace(/_/g, " ")
+                .replace(/\s+/g, " ")
+                .trim()
+                .replace(/^./, (char) => char.toUpperCase());
+        }
+
+        function getQuizSources() {
+            const sets = typeof quizSets !== "undefined" ? quizSets : {};
+            const keys = Object.keys(sets);
+
+            if (keys.length) {
+                return {
+                    anatomiaGray: {
+                        label: "Anatomia Graya",
+                        description: "Zestawy z atlasu anatomii",
+                        quizzes: keys.map((key) => ({ key, label: formatQuizLabel(key) }))
+                    }
+                };
+            }
+
+            return {
+                anatomiaGray: {
+                    label: "Anatomia Graya",
+                    description: "Zestawy z atlasu anatomii",
+                    quizzes: [
+                        { key: "konczynadolna", label: "Kończyna dolna" },
+                        { key: "konczynagorna", label: "Kończyna górna" },
+                        { key: "grzbiet", label: "Grzbiet" },
+                        { key: "klatkaPiersiowa", label: "Klatka piersiowa" },
+                        { key: "jamaBrzuszna", label: "Jama brzuszna" },
+                        { key: "miednicaIKrocze", label: "Miednica i krocze" },
+                        { key: "WiadomosciOgolneCzaszkaJamaCzaszki", label: "Wiadomości ogólne: Czaszka i Jama Czaszki" }
+                    ]
+                }
+            };
+        }
+
+        const quizSources = getQuizSources();
 
         function applyTheme(theme) {
             const selectedTheme = theme === "dark" ? "dark" : "light";

@@ -263,14 +263,34 @@
 
     <script src="pytania.js"></script>
     <script>
-        const quizLabels = {
-            konczynadolna: "Kończyna dolna",
-            konczynagorna: "Kończyna górna",
-            grzbiet: "Grzbiet",
-            klatkaPiersiowa: "Klatka piersiowa",
-            jamaBrzuszna: "Jama brzuszna",
-            miednicaIKrocze: "Miednica i krocze"
-        };
+        function formatQuizLabel(key) {
+            const labels = {
+                konczynadolna: "Kończyna dolna",
+                konczynagorna: "Kończyna górna",
+                grzbiet: "Grzbiet",
+                klatkaPiersiowa: "Klatka piersiowa",
+                jamaBrzuszna: "Jama brzuszna",
+                miednicaIKrocze: "Miednica i krocze",
+                WiadomosciOgolneCzaszkaJamaCzaszki: "Wiadomości ogólne: Czaszka i Jama Czaszki"
+            };
+
+            if (labels[key]) {
+                return labels[key];
+            }
+
+            return (key || "")
+                .replace(/([a-z])([A-Z])/g, "$1 $2")
+                .replace(/([A-Z]+)([A-Z][a-z])/g, "$1 $2")
+                .replace(/_/g, " ")
+                .replace(/\s+/g, " ")
+                .trim()
+                .replace(/^./, (char) => char.toUpperCase());
+        }
+
+        const questionSets = typeof quizSets !== "undefined" ? quizSets : {};
+        const quizLabels = Object.fromEntries(
+            Object.keys(questionSets).map((key) => [key, formatQuizLabel(key)])
+        );
 
         function applyTheme(theme) {
             const selectedTheme = theme === "dark" ? "dark" : "light";
@@ -283,8 +303,9 @@
         }
 
         const params = new URLSearchParams(window.location.search);
-        const selectedQuizKey = params.get("quiz") || "konczynadolna";
-        const questionSets = typeof quizSets !== "undefined" ? quizSets : {};
+        const availableQuizKeys = Object.keys(questionSets);
+        const fallbackQuizKey = availableQuizKeys[0] || "konczynadolna";
+        const selectedQuizKey = availableQuizKeys.includes(params.get("quiz")) ? params.get("quiz") : fallbackQuizKey;
 
         let currentQuestions = questionSets[selectedQuizKey] || [];
         let currentQuestionIndex = 0;

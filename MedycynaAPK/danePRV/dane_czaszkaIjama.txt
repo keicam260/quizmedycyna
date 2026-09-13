@@ -1,0 +1,555 @@
+1 Wierzchołek każdego z oczodołów skierowany jest:
+A. Ku tyłowi i do góry.
+B. Ku tyłowi i przyśrodkowo.
+C. Ku tyłowi i do dołu.
+D. Ku tyłowi i do boku.
+E. Ku przodowi i do boku.
+
+2 Wskaż strukturę/y, z którą/ymi nie komunikuje się dół skrzydłowo-podniebienny:
+A. Jama czaszki.
+B. Dół podskroniowy.
+C. Oczodół.
+D. Jama ucha środkowego.
+E. Jama nosowa i jama ustna.
+
+3 Ujście tylne jamy ustnej stanowi/ą:
+A. Szpara ust.
+B. Nozdrza tylne.
+C. Cieśń ust.
+D. Przestrzeń zatrzonowa.
+E. Cieśń gardzieli.
+
+4 Granica dolna szyi z tyłu może być wyznaczona poprzez linię, która przebiega przez wyrostek barkowy łopatki oraz:
+A. Wyrostek kolczysty VII kręgu szyjnego.
+B. Wyrostek kruczy łopatki strony przeciwnej.
+C. Wyrostek kolczysty I kręgu piersiowego.
+D. Wyrostek poprzeczny VI kręgu szyjnego.
+E. Dolną krawędź trzonu VII kręgu szyjnego.
+
+5 Tętnica szyjna wspólna dzieli się na tętnice szyjne zewnętrzną i wewnętrzną na poziomie pomiędzy:
+A. CI a CII.
+B. CII a CIII.
+C. CIII a CIV.
+D. CV a CVI.
+E. CVII a ThI.
+
+6 Pozioma linia przebiegająca między CV a CVI nie wyznacza:
+A. Dolnej granicy gardła.
+B. Górnej granicy przełyku.
+C. Dolnej granicy krtani.
+D. Początku tętnicy szyjnej zewnętrznej.
+E. Górnej granicy tchawicy.
+
+7 W przypadku nagłej obturacji górnych dróg oddechowych może zajść konieczność wykonania konikotomii. Właściwym miejscem jej przeprowadzenia będzie:
+A. Górny odcinek tchawicy.
+B. Więzadło pierścienno-tarczowe.
+C. Więzadło tarczowo-gnykowe przednie.
+D. Więzadło tarczowo-gnykowe boczne.
+E. Więzadło gnykowo-nagłośniowe.
+
+8 Włókna przywspółczulne w obrębie głowy nie są prowadzone przez nerw:
+A. Błędny.
+B. Okoruchowy.
+C. Twarzowy.
+D. Językowo-gardłowy.
+E. Dodatkowy.
+
+9 Splot szyjny utworzony jest przez:
+A. Gałęzie tylne nerwów rdzeniowych C1–C7.
+B. Gałęzie przednie nerwów rdzeniowych C5–Th2.
+C. Gałęzie przednie nerwów rdzeniowych C1–C4.
+D. Gałęzie tylne nerwów rdzeniowych C5–C8.
+E. Gałęzie tylne nerwów rdzeniowych C1–C4.
+
+10 Noworodek może jednocześnie ssać pierś matki i oddychać. Jest to możliwe, ponieważ:
+A. Krtań położona jest wysoko, a nagłośnia znajduje się powyżej poziomu podniebienia miękkiego.
+B. Krtań znajduje się na tym samym poziomie co u dorosłych, natomiast nagłośnia wysoko, powyżej cieśni gardzieli.
+C. Występuje przegroda skutecznie oddzielająca drogę pokarmową od oddechowej.
+D. Nagłośnia jest o wiele większa niż u dorosłych, co skutecznie chroni przed przedostaniem się pokarmu do dróg oddechowych.
+E. Nieprawdą jest, że noworodek może jednocześnie ssać pierś matki i oddychać.
+
+11 W widoku od dołu nie jest widoczny:
+A. Otwór przysieczny.
+B. Otwór poszarpany.
+C. Otwór bródkowy.
+D. Kanał skrzydłowy.
+E. Kanał kłykciowy.
+
+12 Glabella znajduje się:
+A. W miejscu połączenia kości czołowych i ciemieniowych.
+B. W miejscu połączenia szwu strzałkowego z wieńcowym.
+C. W miejscu połączenia szwu strzałkowego z węgłowym.
+D. Pomiędzy łukami brwiowymi.
+E. W miejscu połączenia kości ciemieniowej, potylicznej i skroniowej.
+
+13 Otwór szyjny zawiera wszystkie wymienione struktury, z wyjątkiem:
+A. Zatoki skalistej dolnej.
+B. Nerwu dodatkowego.
+C. Zatoki skalistej górnej.
+D. Żyły szyjnej wewnętrznej.
+E. Nerwu językowo-gardłowego.
+
+14 Uszkodzenie tętnicy oponowej środkowej może nastąpić w wyniku złamania kości czaszki w okolicy punktu kraniometrycznego:
+A. Pterion.
+B. Bregma.
+C. Asterion.
+D. Glabella.
+E. Lambda.
+
+15 Wyrostek dziobiasty znajduje się na:
+A. Kości szczękowej.
+B. Żuchwie.
+C. Kości skroniowej.
+D. Kości jarzmowej.
+E. Żadnej z powyższych kości.
+
+16 Część środkowa podstawy czaszki składa się:
+A. Z lemiesza i kości klinowej.
+B. Z lemiesza, kości klinowej, kości ciemieniowej.
+C. Z lemiesza, kości klinowej i kości skroniowej.
+D. Z lemiesza, kości klinowej, kości skroniowych i kości potylicznej.
+E. Z kości klinowej, kości skroniowych i kości potylicznej.
+
+17 Dół skrzydłowy znajduje się w obrębie:
+A. Kości skroniowej.
+B. Kości klinowej.
+C. Kości podniebiennej.
+D. Kości potylicznej.
+E. Żadnej z powyższych.
+
+18 Kanał skrzydłowy otwiera się na podstawie czaszki:
+A. Nieco powyżej dołu łódkowatego.
+B. U nasady blaszki bocznej wyrostka skrzydłowego.
+C. Ku tyłowi od wyrostka rylcowatego.
+D. Na wyrostku podniebiennym szczęki.
+E. Ku tyłowi od kłykcia potylicznego.
+
+19 Ograniczenia otworu poszarpanego tworzą wszystkie wymienione kości, z wyjątkiem kości:
+A. Skroniowej.
+B. Klinowej.
+C. Podniebiennej.
+D. Potylicznej.
+E. Wszystkie wymienione kości ograniczają otwór poszarpany.
+
+20 Skrzydło większe kości klinowej tworzy:
+A. Część podstawy czaszki.
+B. Część ściany bocznej.
+C. Część sklepienia czaszki.
+D. A i B.
+E. A, B i C.
+
+21 Kanał nerwu podjęzykowego położony jest:
+A. Do przodu i dołu od kłykci potylicznych.
+B. Do przodu i góry od kłykci potylicznych.
+C. Do tyłu od kłykci potylicznych.
+D. Do boku od kłykci potylicznych.
+E. Do tyłu od wyrostka sutkowatego.
+
+22 Wybierz prawdziwe stwierdzenie:
+A. Dół żuchwowy znajduje się w obrębie kości potylicznej.
+B. Otwór ślepy leży w obrębie kości ciemieniowej.
+C. Otwór szyjny utworzony jest przez kości: skroniową i klinową.
+D. Otwór rylcowo-sutkowy znajduje się między wyrostkiem rylcowatym a wyrostkiem sutkowatym.
+E. Prawdziwe jest C i D.
+
+23 Szew wieńcowy leży między kośćmi:
+A. Czołową i ciemieniowymi.
+B. Czołową i skroniową.
+C. Ciemieniowymi i potyliczną.
+D. Potyliczną i skroniową.
+E. Ciemieniowymi.
+
+24 Dno dołu przedniego czaszki tworzą wymienione struktury, z wyjątkiem:
+A. Skrzydeł większych kości klinowej.
+B. Części oczodołowej kości czołowej.
+C. Skrzydeł mniejszych kości klinowej.
+D. Trzonu kości klinowej.
+E. Blaszki sitowej kości sitowej.
+
+25 Która z wymienionych struktur nie przechodzi przez szczelinę oczodołową górną?
+A. Nerw odwodzący.
+B. Nerw okoruchowy.
+C. Żyły oczne.
+D. Tętnica oczna.
+E. Nerw bloczkowy.
+
+26 Otwór kolcowy zawiera:
+A. Tętnicę oponową przednią.
+B. Tętnicę oponową środkową.
+C. Nerw szczękowy.
+D. Nerw żuchwowy.
+E. Żyłę wypustową kolcową.
+
+27 Otwór owalny łączy:
+A. Środkowy dół czaszki z dołem skrzydłowo-podniebiennym.
+B. Tylny dół czaszki z dołem skrzydłowo-podniebiennym.
+C. Środkowy dół czaszki z dołem podskroniowym.
+D. Tylny dół czaszki z dołem podskroniowym.
+E. Środkowy dół czaszki z dołem skroniowym.
+
+28 Przez otwór owalny przechodzą wszystkie wymienione struktury, z wyjątkiem:
+A. Nerwu skalistego mniejszego.
+B. Nerwu żuchwowego.
+C. Tętnicy oponowej dodatkowej.
+D. Nerwu skalistego większego.
+E. A i D.
+
+29 Kość klinowa bierze udział w tworzeniu:
+A. Tylko dołu przedniego czaszki.
+B. Tylko dołu środkowego czaszki.
+C. Dołu środkowego i dołu tylnego czaszki.
+D. Dołu przedniego i dołu środkowego czaszki.
+E. Tylko dołu podskroniowego.
+
+30 Wycisk nerwu trójdzielnego wyznacza:
+A. Położenie zwoju ruchowego nerwu trójdzielnego.
+B. Położenie zwoju czuciowego nerwu trójdzielnego.
+C. Położenie zwoju przywspółczulnego nerwu trójdzielnego.
+D. Miejsce wyjścia nerwu trójdzielnego z czaszki.
+E. Miejsce wyjścia nerwu trójdzielnego z mózgowia.
+
+31 Jaka część mózgowia jest położona w tylnym dole czaszki?
+A. Śródmózgowie.
+B. Most.
+C. Rdzeń przedłużony.
+D. Móżdżek.
+E. Wszystkie wymienione.
+
+32 Tylny dół czaszki utworzony jest przez wszystkie wymienione kości, z wyjątkiem:
+A. Kości skroniowej.
+B. Kości sitowej.
+C. Kości potylicznej.
+D. Kości klinowej.
+E. Kości ciemieniowej.
+
+33 Która z wymienionych struktur przechodzi przez otwór wielki?
+A. Nerw błędny.
+B. Tętnica szyjna wewnętrzna.
+C. Korzenie mózgowe nerwu dodatkowego.
+D. Korzenie rdzeniowe nerwu dodatkowego.
+E. Nerw podjęzykowy.
+
+34 Bruzda zatoki skalistej dolnej znajduje się:
+A. Pomiędzy częścią podstawną kości potylicznej i piramidą kości skroniowej.
+B. Pomiędzy częścią boczną kości potylicznej i piramidą kości skroniowej.
+C. Pomiędzy łuską kości potylicznej i piramidą kości skroniowej.
+D. Pomiędzy łuską a trzonem kości potylicznej.
+E. Pomiędzy łuską kości potylicznej i łuską kości skroniowej.
+
+35 Wyniosłość łukowata znajduje się w obrębie:
+A. Kości ciemieniowej.
+B. Przedniej powierzchni piramidy kości skroniowej.
+C. Tylnej powierzchni kości skroniowej.
+D. Łuski kości potylicznej.
+E. Trzonu kości klinowej.
+
+36 Wyniosłość łukowata wytworzona jest przez:
+A. Kanał półkolisty tylny.
+B. Ślimak ucha wewnętrznego.
+C. Kanał półkolisty przedni.
+D. Kanał półkolisty boczny.
+E. Żaden z powyższych.
+
+37 Clivus powstaje z połączenia:
+A. Trzonu kości potylicznej i piramidy kości skroniowej.
+B. Przyśrodkowych części piramid obu kości skroniowych.
+C. Trzonu kości klinowej i łuski kości potylicznej.
+D. Siodła tureckiego i przyśrodkowych części obu kości skroniowych.
+E. Trzonu kości klinowej i części podstawnej kości potylicznej.
+
+38 Bruzda przedskrzyżowania wzrokowego znajduje się na:
+A. Trzonie kości klinowej.
+B. Skrzydłach mniejszych kości klinowej.
+C. Części oczodołowej kości czołowej.
+D. Skrzydłach większych kości klinowej.
+E. Żadnym z powyższych.
+
+39 Przewód słuchowy wewnętrzny:
+A. Otwiera się na tylnej powierzchni piramidy kości skroniowej.
+B. Zawiera jedynie struktury nerwowe.
+C. Przebiega do ucha środkowego.
+D. Przebiega do ucha wewnętrznego.
+E. A i D.
+
+40 Do struktur znajdujących się w przewodzie słuchowym wewnętrznym nie należy:
+A. Tętnica oponowa tylna.
+B. Nerw twarzowy.
+C. Nerw przedsionkowo-ślimakowy.
+D. Tętnica błędnikowa.
+E. Wszystkie powyższe znajdują się w kanale słuchowym wewnętrznym.
+
+41 W obrębie kanału nerwu podjęzykowego wraz z nerwem podjęzykowym przebiega:
+A. Żyła wypustowa.
+B. Tętnica oponowa tylna.
+C. Tętnica błędnikowa.
+D. Gałąź oponowa tętnicy gardłowej wstępującej.
+E. Gałąź oponowa tętnicy kręgowej.
+
+42 Bruzda zatoki esowatej:
+A. Znajduje się pomiędzy trzonem kości klinowej i piramidą kości skroniowej.
+B. Od strony bocznej dochodzi do otworu szyjnego.
+C. Znajduje się w obrębie tylnego dołu czaszki.
+D. Przebiega w obrębie środkowego dołu czaszki.
+E. B i C.
+
+43 Do złamań czaszki o szczególnym znaczeniu klinicznym należy:
+A. Złamanie z wgłobieniem.
+B. Pęknięcie kości czołowej w okolicy między łukami brwiowymi.
+C. Złamanie otwarte.
+D. A i C.
+E. Żadne z wymienionych.
+
+44 Uraz w okolicy pterionu może być przyczyną powstania krwiaka:
+A. Podtwardówkowego.
+B. Nadtwardówkowego.
+C. Podpajęczynówkowego.
+D. Wszystkich wymienionych.
+E. Żadnego z wymienionych.
+
+45 Które z poniższych stwierdzeń jest prawdziwe?
+A. Wyrostek kłykciowy żuchwy stanowi miejsce przyczepu mięśnia skroniowego.
+B. Wyrostek dziobiasty żuchwy stanowi przyczep mięśnia skroniowego.
+C. Wyrostek dziobiasty stanowi miejsce połączenia żuchwy z kością skroniową.
+D. Wyrostek kłykciowy żuchwy zlokalizowany jest w okolicy kąta żuchwy.
+E. Żadne z powyższych stwierdzeń nie jest prawdziwe.
+
+46 Podniebienie twarde utworzone jest przez:
+A. Parzyste wyrostki zębodołowe kości szczękowych.
+B. Parzyste wyrostki podniebienne kości szczękowych i wyrostki podniebienne kości podniebiennych.
+C. Nieparzysty wyrostek podniebienny kości szczękowej.
+D. Parzyste wyrostki podniebienne kości szczękowych i parzyste blaszki poziome kości podniebiennych.
+E. Parzyste blaszki podniebienne kości szczękowych z przodu i kości podniebiennych z tyłu.
+
+47 Otwór rylcowo-sutkowy zawiera:
+A. Nerw twarzowy.
+B. Gałąź oponową tętnicy gardłowej wstępującej.
+C. Nerw uszno-skroniowy.
+D. Nerw twarzowy i nerw uszno-skroniowy.
+E. Nerw twarzowy i żyłę rylcowo-sutkową.
+
+48 Kanały przysieczne:
+A. Otwierają się w tylnej części podniebienia twardego.
+B. Łączą jamę nosową z przednim dołem czaszki.
+C. Otwierają się na zewnętrznej powierzchni wyrostka zębodołowego szczęki.
+D. Łączą jamę nosową z jamą ustną.
+E. Łączą jamę nosową z zatoką szczękową.
+
+49 Otwory podniebienne mniejsze zlokalizowane są:
+A. W obrębie podniebienia miękkiego.
+B. W obrębie wyrostka piramidowego kości podniebiennej.
+C. W obrębie blaszki poziomej kości podniebiennej.
+D. W obrębie blaszki przyśrodkowej wyrostka skrzydłowego kości klinowej.
+E. W obrębie wyrostka piramidowego kości klinowej.
+
+50 Na górnej powierzchni czaszki widoczny/-e jest/są:
+A. Liczne otwory leżące wzdłuż szwu strzałkowego.
+B. Jeden otwór znajdujący się w obrębie kości czołowej.
+C. Jeden parzysty otwór leżący w obrębie kości ciemieniowej.
+D. Dwa parzyste otwory w tylnej i przedniej części kości ciemieniowej.
+E. Na sklepieniu czaszki nie występują żadne otwory.
+
+51 Ciemiączka występujące u małych dzieci pozwalają na wykonanie badania mózgowia metodą:
+A. Ultrasonografii.
+B. Cyfrowej angiografii subtrakcyjnej.
+C. Obrazowania rezonansu magnetycznego.
+D. Spektroskopii rezonansu magnetycznego.
+E. Tomografii komputerowej.
+
+52 Największym spośród dołów czaszki jest:
+A. Dół przedni.
+B. Dół boczny.
+C. Dół środkowy.
+D. Dół przyśrodkowy.
+E. Dół tylny.
+
+53 Bruzda nerwu skalistego większego leży na:
+A. Kości skroniowej.
+B. Kości potylicznej.
+C. Kości ciemieniowej.
+D. Kości klinowej.
+E. Kości czołowej.
+
+54 Wyrostki pochyłe środkowe (processus clinoidei medii) mogą występować na kości:
+A. Ciemieniowej.
+B. Potylicznej.
+C. Skroniowej.
+D. Klinowej.
+E. Czołowej.
+
+55 Grzebień potyliczny wewnętrzny ku górze przechodzi w:
+A. Kolec potyliczny.
+B. Guzowatość potyliczną wewnętrzną.
+C. Zatokę pośrodkową.
+D. Otwór wielki.
+E. Guzek potyliczny.
+
+
+===================
+ODPOWIEDZI
+===================
+
+1
+B.
+
+2
+D.
+
+3
+E.
+
+4
+A.
+
+5
+C.
+
+6
+D.
+
+7
+B.
+
+8
+E.
+
+9
+C.
+
+10
+A.
+
+11
+C.
+
+12
+D.
+
+13
+C.
+
+14
+A.
+
+15
+B.
+
+16
+D.
+
+17
+B.
+
+18
+A.
+
+19
+C.
+
+20
+D.
+
+21
+B.
+
+22
+D.
+
+23
+A.
+
+24
+A.
+
+25
+D.
+
+26
+B.
+
+27
+C.
+
+28
+D.
+
+29
+D.
+
+30
+B.
+
+31
+E.
+
+32
+B.
+
+33
+D.
+
+34
+B.
+
+35
+B.
+
+36
+C.
+
+37
+E.
+
+38
+A.
+
+39
+E.
+
+40
+A.
+
+41
+D.
+
+42
+E.
+
+43
+D.
+
+44
+B.
+
+45
+B.
+
+46
+D.
+
+47
+A.
+
+48
+D.
+
+49
+B.
+
+50
+C.
+
+51
+A.
+
+52
+E.
+
+53
+A.
+
+54
+D.
+
+55
+B.
+

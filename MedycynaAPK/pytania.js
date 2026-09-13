@@ -12971,5 +12971,4530 @@ const quizSets = {
         ],
         "answer": 0
     }
-    ]
+],
+    
+    "Wiadomości Ogólne, Czaszka, Jama Czaszki": [
+{
+        "question": "Wierzchołek każdego z oczodołów skierowany jest:",
+        "options": [
+            "A. Ku tyłowi i do góry.",
+            "B. Ku tyłowi i przyśrodkowo.",
+            "C. Ku tyłowi i do dołu.",
+            "D. Ku tyłowi i do boku.",
+            "E. Ku przodowi i do boku."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wskaż strukturę/y, z którą/ymi nie komunikuje się dół skrzydłowo-podniebienny:",
+        "options": [
+            "A. Jama czaszki.",
+            "B. Dół podskroniowy.",
+            "C. Oczodół.",
+            "D. Jama ucha środkowego.",
+            "E. Jama nosowa i jama ustna."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ujście tylne jamy ustnej stanowi/ą:",
+        "options": [
+            "A. Szpara ust.",
+            "B. Nozdrza tylne.",
+            "C. Cieśń ust.",
+            "D. Przestrzeń zatrzonowa.",
+            "E. Cieśń gardzieli."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Granica dolna szyi z tyłu może być wyznaczona poprzez linię, która przebiega przez wyrostek barkowy łopatki oraz:",
+        "options": [
+            "A. Wyrostek kolczysty VII kręgu szyjnego.",
+            "B. Wyrostek kruczy łopatki strony przeciwnej.",
+            "C. Wyrostek kolczysty I kręgu piersiowego.",
+            "D. Wyrostek poprzeczny VI kręgu szyjnego.",
+            "E. Dolną krawędź trzonu VII kręgu szyjnego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tętnica szyjna wspólna dzieli się na tętnice szyjne zewnętrzną i wewnętrzną na poziomie pomiędzy:",
+        "options": [
+            "A. CI a CII.",
+            "B. CII a CIII.",
+            "C. CIII a CIV.",
+            "D. CV a CVI.",
+            "E. CVII a ThI."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pozioma linia przebiegająca między CV a CVI nie wyznacza:",
+        "options": [
+            "A. Dolnej granicy gardła.",
+            "B. Górnej granicy przełyku.",
+            "C. Dolnej granicy krtani.",
+            "D. Początku tętnicy szyjnej zewnętrznej.",
+            "E. Górnej granicy tchawicy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "W przypadku nagłej obturacji górnych dróg oddechowych może zajść konieczność wykonania konikotomii. Właściwym miejscem jej przeprowadzenia będzie:",
+        "options": [
+            "A. Górny odcinek tchawicy.",
+            "B. Więzadło pierścienno-tarczowe.",
+            "C. Więzadło tarczowo-gnykowe przednie.",
+            "D. Więzadło tarczowo-gnykowe boczne.",
+            "E. Więzadło gnykowo-nagłośniowe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Włókna przywspółczulne w obrębie głowy nie są prowadzone przez nerw:",
+        "options": [
+            "A. Błędny.",
+            "B. Okoruchowy.",
+            "C. Twarzowy.",
+            "D. Językowo-gardłowy.",
+            "E. Dodatkowy."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Splot szyjny utworzony jest przez:",
+        "options": [
+            "A. Gałęzie tylne nerwów rdzeniowych C1–C7.",
+            "B. Gałęzie przednie nerwów rdzeniowych C5–Th2.",
+            "C. Gałęzie przednie nerwów rdzeniowych C1–C4.",
+            "D. Gałęzie tylne nerwów rdzeniowych C5–C8.",
+            "E. Gałęzie tylne nerwów rdzeniowych C1–C4."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Noworodek może jednocześnie ssać pierś matki i oddychać. Jest to możliwe, ponieważ:",
+        "options": [
+            "A. Krtań położona jest wysoko, a nagłośnia znajduje się powyżej poziomu podniebienia miękkiego.",
+            "B. Krtań znajduje się na tym samym poziomie co u dorosłych, natomiast nagłośnia wysoko, powyżej cieśni gardzieli.",
+            "C. Występuje przegroda skutecznie oddzielająca drogę pokarmową od oddechowej.",
+            "D. Nagłośnia jest o wiele większa niż u dorosłych, co skutecznie chroni przed przedostaniem się pokarmu do dróg oddechowych.",
+            "E. Nieprawdą jest, że noworodek może jednocześnie ssać pierś matki i oddychać."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "W widoku od dołu nie jest widoczny:",
+        "options": [
+            "A. Otwór przysieczny.",
+            "B. Otwór poszarpany.",
+            "C. Otwór bródkowy.",
+            "D. Kanał skrzydłowy.",
+            "E. Kanał kłykciowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Glabella znajduje się:",
+        "options": [
+            "A. W miejscu połączenia kości czołowych i ciemieniowych.",
+            "B. W miejscu połączenia szwu strzałkowego z wieńcowym.",
+            "C. W miejscu połączenia szwu strzałkowego z węgłowym.",
+            "D. Pomiędzy łukami brwiowymi.",
+            "E. W miejscu połączenia kości ciemieniowej, potylicznej i skroniowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Otwór szyjny zawiera wszystkie wymienione struktury, z wyjątkiem:",
+        "options": [
+            "A. Zatoki skalistej dolnej.",
+            "B. Nerwu dodatkowego.",
+            "C. Zatoki skalistej górnej.",
+            "D. Żyły szyjnej wewnętrznej.",
+            "E. Nerwu językowo-gardłowego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Uszkodzenie tętnicy oponowej środkowej może nastąpić w wyniku złamania kości czaszki w okolicy punktu kraniometrycznego:",
+        "options": [
+            "A. Pterion.",
+            "B. Bregma.",
+            "C. Asterion.",
+            "D. Glabella.",
+            "E. Lambda."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wyrostek dziobiasty znajduje się na:",
+        "options": [
+            "A. Kości szczękowej.",
+            "B. Żuchwie.",
+            "C. Kości skroniowej.",
+            "D. Kości jarzmowej.",
+            "E. Żadnej z powyższych kości."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Część środkowa podstawy czaszki składa się:",
+        "options": [
+            "A. Z lemiesza i kości klinowej.",
+            "B. Z lemiesza, kości klinowej, kości ciemieniowej.",
+            "C. Z lemiesza, kości klinowej i kości skroniowej.",
+            "D. Z lemiesza, kości klinowej, kości skroniowych i kości potylicznej.",
+            "E. Z kości klinowej, kości skroniowych i kości potylicznej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Dół skrzydłowy znajduje się w obrębie:",
+        "options": [
+            "A. Kości skroniowej.",
+            "B. Kości klinowej.",
+            "C. Kości podniebiennej.",
+            "D. Kości potylicznej.",
+            "E. Żadnej z powyższych."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kanał skrzydłowy otwiera się na podstawie czaszki:",
+        "options": [
+            "A. Nieco powyżej dołu łódkowatego.",
+            "B. U nasady blaszki bocznej wyrostka skrzydłowego.",
+            "C. Ku tyłowi od wyrostka rylcowatego.",
+            "D. Na wyrostku podniebiennym szczęki.",
+            "E. Ku tyłowi od kłykcia potylicznego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ograniczenia otworu poszarpanego tworzą wszystkie wymienione kości, z wyjątkiem kości:",
+        "options": [
+            "A. Skroniowej.",
+            "B. Klinowej.",
+            "C. Podniebiennej.",
+            "D. Potylicznej.",
+            "E. Wszystkie wymienione kości ograniczają otwór poszarpany."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Skrzydło większe kości klinowej tworzy:",
+        "options": [
+            "A. Część podstawy czaszki.",
+            "B. Część ściany bocznej.",
+            "C. Część sklepienia czaszki.",
+            "D. A i B.",
+            "E. A, B i C."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kanał nerwu podjęzykowego położony jest:",
+        "options": [
+            "A. Do przodu i dołu od kłykci potylicznych.",
+            "B. Do przodu i góry od kłykci potylicznych.",
+            "C. Do tyłu od kłykci potylicznych.",
+            "D. Do boku od kłykci potylicznych.",
+            "E. Do tyłu od wyrostka sutkowatego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz prawdziwe stwierdzenie:",
+        "options": [
+            "A. Dół żuchwowy znajduje się w obrębie kości potylicznej.",
+            "B. Otwór ślepy leży w obrębie kości ciemieniowej.",
+            "C. Otwór szyjny utworzony jest przez kości: skroniową i klinową.",
+            "D. Otwór rylcowo-sutkowy znajduje się między wyrostkiem rylcowatym a wyrostkiem sutkowatym.",
+            "E. Prawdziwe jest C i D."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Szew wieńcowy leży między kośćmi:",
+        "options": [
+            "A. Czołową i ciemieniowymi.",
+            "B. Czołową i skroniową.",
+            "C. Ciemieniowymi i potyliczną.",
+            "D. Potyliczną i skroniową.",
+            "E. Ciemieniowymi."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Dno dołu przedniego czaszki tworzą wymienione struktury, z wyjątkiem:",
+        "options": [
+            "A. Skrzydeł większych kości klinowej.",
+            "B. Części oczodołowej kości czołowej.",
+            "C. Skrzydeł mniejszych kości klinowej.",
+            "D. Trzonu kości klinowej.",
+            "E. Blaszki sitowej kości sitowej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Która z wymienionych struktur nie przechodzi przez szczelinę oczodołową górną?",
+        "options": [
+            "A. Nerw odwodzący.",
+            "B. Nerw okoruchowy.",
+            "C. Żyły oczne.",
+            "D. Tętnica oczna.",
+            "E. Nerw bloczkowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Otwór kolcowy zawiera:",
+        "options": [
+            "A. Tętnicę oponową przednią.",
+            "B. Tętnicę oponową środkową.",
+            "C. Nerw szczękowy.",
+            "D. Nerw żuchwowy.",
+            "E. Żyłę wypustową kolcową."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Otwór owalny łączy:",
+        "options": [
+            "A. Środkowy dół czaszki z dołem skrzydłowo-podniebiennym.",
+            "B. Tylny dół czaszki z dołem skrzydłowo-podniebiennym.",
+            "C. Środkowy dół czaszki z dołem podskroniowym.",
+            "D. Tylny dół czaszki z dołem podskroniowym.",
+            "E. Środkowy dół czaszki z dołem skroniowym."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Przez otwór owalny przechodzą wszystkie wymienione struktury, z wyjątkiem:",
+        "options": [
+            "A. Nerwu skalistego mniejszego.",
+            "B. Nerwu żuchwowego.",
+            "C. Tętnicy oponowej dodatkowej.",
+            "D. Nerwu skalistego większego.",
+            "E. A i D."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kość klinowa bierze udział w tworzeniu:",
+        "options": [
+            "A. Tylko dołu przedniego czaszki.",
+            "B. Tylko dołu środkowego czaszki.",
+            "C. Dołu środkowego i dołu tylnego czaszki.",
+            "D. Dołu przedniego i dołu środkowego czaszki.",
+            "E. Tylko dołu podskroniowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wycisk nerwu trójdzielnego wyznacza:",
+        "options": [
+            "A. Położenie zwoju ruchowego nerwu trójdzielnego.",
+            "B. Położenie zwoju czuciowego nerwu trójdzielnego.",
+            "C. Położenie zwoju przywspółczulnego nerwu trójdzielnego.",
+            "D. Miejsce wyjścia nerwu trójdzielnego z czaszki.",
+            "E. Miejsce wyjścia nerwu trójdzielnego z mózgowia."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Jaka część mózgowia jest położona w tylnym dole czaszki?",
+        "options": [
+            "A. Śródmózgowie.",
+            "B. Most.",
+            "C. Rdzeń przedłużony.",
+            "D. Móżdżek.",
+            "E. Wszystkie wymienione."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Tylny dół czaszki utworzony jest przez wszystkie wymienione kości, z wyjątkiem:",
+        "options": [
+            "A. Kości skroniowej.",
+            "B. Kości sitowej.",
+            "C. Kości potylicznej.",
+            "D. Kości klinowej.",
+            "E. Kości ciemieniowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Która z wymienionych struktur przechodzi przez otwór wielki?",
+        "options": [
+            "A. Nerw błędny.",
+            "B. Tętnica szyjna wewnętrzna.",
+            "C. Korzenie mózgowe nerwu dodatkowego.",
+            "D. Korzenie rdzeniowe nerwu dodatkowego.",
+            "E. Nerw podjęzykowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bruzda zatoki skalistej dolnej znajduje się:",
+        "options": [
+            "A. Pomiędzy częścią podstawną kości potylicznej i piramidą kości skroniowej.",
+            "B. Pomiędzy częścią boczną kości potylicznej i piramidą kości skroniowej.",
+            "C. Pomiędzy łuską kości potylicznej i piramidą kości skroniowej.",
+            "D. Pomiędzy łuską a trzonem kości potylicznej.",
+            "E. Pomiędzy łuską kości potylicznej i łuską kości skroniowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wyniosłość łukowata znajduje się w obrębie:",
+        "options": [
+            "A. Kości ciemieniowej.",
+            "B. Przedniej powierzchni piramidy kości skroniowej.",
+            "C. Tylnej powierzchni kości skroniowej.",
+            "D. Łuski kości potylicznej.",
+            "E. Trzonu kości klinowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wyniosłość łukowata wytworzona jest przez:",
+        "options": [
+            "A. Kanał półkolisty tylny.",
+            "B. Ślimak ucha wewnętrznego.",
+            "C. Kanał półkolisty przedni.",
+            "D. Kanał półkolisty boczny.",
+            "E. Żaden z powyższych."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Clivus powstaje z połączenia:",
+        "options": [
+            "A. Trzonu kości potylicznej i piramidy kości skroniowej.",
+            "B. Przyśrodkowych części piramid obu kości skroniowych.",
+            "C. Trzonu kości klinowej i łuski kości potylicznej.",
+            "D. Siodła tureckiego i przyśrodkowych części obu kości skroniowych.",
+            "E. Trzonu kości klinowej i części podstawnej kości potylicznej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Bruzda przedskrzyżowania wzrokowego znajduje się na:",
+        "options": [
+            "A. Trzonie kości klinowej.",
+            "B. Skrzydłach mniejszych kości klinowej.",
+            "C. Części oczodołowej kości czołowej.",
+            "D. Skrzydłach większych kości klinowej.",
+            "E. Żadnym z powyższych."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Przewód słuchowy wewnętrzny:",
+        "options": [
+            "A. Otwiera się na tylnej powierzchni piramidy kości skroniowej.",
+            "B. Zawiera jedynie struktury nerwowe.",
+            "C. Przebiega do ucha środkowego.",
+            "D. Przebiega do ucha wewnętrznego.",
+            "E. A i D."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Do struktur znajdujących się w przewodzie słuchowym wewnętrznym nie należy:",
+        "options": [
+            "A. Tętnica oponowa tylna.",
+            "B. Nerw twarzowy.",
+            "C. Nerw przedsionkowo-ślimakowy.",
+            "D. Tętnica błędnikowa.",
+            "E. Wszystkie powyższe znajdują się w kanale słuchowym wewnętrznym."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "W obrębie kanału nerwu podjęzykowego wraz z nerwem podjęzykowym przebiega:",
+        "options": [
+            "A. Żyła wypustowa.",
+            "B. Tętnica oponowa tylna.",
+            "C. Tętnica błędnikowa.",
+            "D. Gałąź oponowa tętnicy gardłowej wstępującej.",
+            "E. Gałąź oponowa tętnicy kręgowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bruzda zatoki esowatej:",
+        "options": [
+            "A. Znajduje się pomiędzy trzonem kości klinowej i piramidą kości skroniowej.",
+            "B. Od strony bocznej dochodzi do otworu szyjnego.",
+            "C. Znajduje się w obrębie tylnego dołu czaszki.",
+            "D. Przebiega w obrębie środkowego dołu czaszki.",
+            "E. B i C."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Do złamań czaszki o szczególnym znaczeniu klinicznym należy:",
+        "options": [
+            "A. Złamanie z wgłobieniem.",
+            "B. Pęknięcie kości czołowej w okolicy między łukami brwiowymi.",
+            "C. Złamanie otwarte.",
+            "D. A i C.",
+            "E. Żadne z wymienionych."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Uraz w okolicy pterionu może być przyczyną powstania krwiaka:",
+        "options": [
+            "A. Podtwardówkowego.",
+            "B. Nadtwardówkowego.",
+            "C. Podpajęczynówkowego.",
+            "D. Wszystkich wymienionych.",
+            "E. Żadnego z wymienionych."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Które z poniższych stwierdzeń jest prawdziwe?",
+        "options": [
+            "A. Wyrostek kłykciowy żuchwy stanowi miejsce przyczepu mięśnia skroniowego.",
+            "B. Wyrostek dziobiasty żuchwy stanowi przyczep mięśnia skroniowego.",
+            "C. Wyrostek dziobiasty stanowi miejsce połączenia żuchwy z kością skroniową.",
+            "D. Wyrostek kłykciowy żuchwy zlokalizowany jest w okolicy kąta żuchwy.",
+            "E. Żadne z powyższych stwierdzeń nie jest prawdziwe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Podniebienie twarde utworzone jest przez:",
+        "options": [
+            "A. Parzyste wyrostki zębodołowe kości szczękowych.",
+            "B. Parzyste wyrostki podniebienne kości szczękowych i wyrostki podniebienne kości podniebiennych.",
+            "C. Nieparzysty wyrostek podniebienny kości szczękowej.",
+            "D. Parzyste wyrostki podniebienne kości szczękowych i parzyste blaszki poziome kości podniebiennych.",
+            "E. Parzyste blaszki podniebienne kości szczękowych z przodu i kości podniebiennych z tyłu."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Otwór rylcowo-sutkowy zawiera:",
+        "options": [
+            "A. Nerw twarzowy.",
+            "B. Gałąź oponową tętnicy gardłowej wstępującej.",
+            "C. Nerw uszno-skroniowy.",
+            "D. Nerw twarzowy i nerw uszno-skroniowy.",
+            "E. Nerw twarzowy i żyłę rylcowo-sutkową."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Kanały przysieczne:",
+        "options": [
+            "A. Otwierają się w tylnej części podniebienia twardego.",
+            "B. Łączą jamę nosową z przednim dołem czaszki.",
+            "C. Otwierają się na zewnętrznej powierzchni wyrostka zębodołowego szczęki.",
+            "D. Łączą jamę nosową z jamą ustną.",
+            "E. Łączą jamę nosową z zatoką szczękową."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Otwory podniebienne mniejsze zlokalizowane są:",
+        "options": [
+            "A. W obrębie podniebienia miękkiego.",
+            "B. W obrębie wyrostka piramidowego kości podniebiennej.",
+            "C. W obrębie blaszki poziomej kości podniebiennej.",
+            "D. W obrębie blaszki przyśrodkowej wyrostka skrzydłowego kości klinowej.",
+            "E. W obrębie wyrostka piramidowego kości klinowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Na górnej powierzchni czaszki widoczny/-e jest/są:",
+        "options": [
+            "A. Liczne otwory leżące wzdłuż szwu strzałkowego.",
+            "B. Jeden otwór znajdujący się w obrębie kości czołowej.",
+            "C. Jeden parzysty otwór leżący w obrębie kości ciemieniowej.",
+            "D. Dwa parzyste otwory w tylnej i przedniej części kości ciemieniowej.",
+            "E. Na sklepieniu czaszki nie występują żadne otwory."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ciemiączka występujące u małych dzieci pozwalają na wykonanie badania mózgowia metodą:",
+        "options": [
+            "A. Ultrasonografii.",
+            "B. Cyfrowej angiografii subtrakcyjnej.",
+            "C. Obrazowania rezonansu magnetycznego.",
+            "D. Spektroskopii rezonansu magnetycznego.",
+            "E. Tomografii komputerowej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Największym spośród dołów czaszki jest:",
+        "options": [
+            "A. Dół przedni.",
+            "B. Dół boczny.",
+            "C. Dół środkowy.",
+            "D. Dół przyśrodkowy.",
+            "E. Dół tylny."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Bruzda nerwu skalistego większego leży na:",
+        "options": [
+            "A. Kości skroniowej.",
+            "B. Kości potylicznej.",
+            "C. Kości ciemieniowej.",
+            "D. Kości klinowej.",
+            "E. Kości czołowej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wyrostki pochyłe środkowe (processus clinoidei medii) mogą występować na kości:",
+        "options": [
+            "A. Ciemieniowej.",
+            "B. Potylicznej.",
+            "C. Skroniowej.",
+            "D. Klinowej.",
+            "E. Czołowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Grzebień potyliczny wewnętrzny ku górze przechodzi w:",
+        "options": [
+            "A. Kolec potyliczny.",
+            "B. Guzowatość potyliczną wewnętrzną.",
+            "C. Zatokę pośrodkową.",
+            "D. Otwór wielki.",
+            "E. Guzek potyliczny."
+        ],
+        "answer": 1
+    }
+],
+    "Mózgowie, Opony, Nerwy Czaszkowe": [
+    {
+        "question": "Ile blaszek dura mater przechodzi przez otwór wielki do kanału kręgowego?",
+        "options": [
+            "A. 1.",
+            "B. 2.",
+            "C. 3.",
+            "D. 4.",
+            "E. 5."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Które stwierdzenie nie dotyczy blaszki zewnętrznej opony twardej?",
+        "options": [
+            "A. Blaszka zewnętrzna to blaszka okostnowa.",
+            "B. Wyściela jamę czaszki.",
+            "C. Przedłuża się w oponę twardą rdzenia kręgowego.",
+            "D. Zawiera naczynia oponowe.",
+            "E. Przedłuża się w okostną zewnętrznej powierzchni czaszki."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Jakie jest prawidłowe ułożenie opon mózgowia od najbardziej zewnętrznej do położonej najbliżej mózgowia?",
+        "options": [
+            "A. Dura mater, pia mater, arachnoidea mater.",
+            "B. Pia mater, arachnoidea mater, dura mater.",
+            "C. Arachnoidea mater, dura mater, pia mater.",
+            "D. Pia mater, dura mater, arachnoidea mater.",
+            "E. Dura mater, arachnoidea mater, pia mater."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Do wypustek opony twardej nie należy:",
+        "options": [
+            "A. Grzebień koguci.",
+            "B. Sierp mózgu.",
+            "C. Namiot móżdżku.",
+            "D. Sierp móżdżku.",
+            "E. Przepona siodła."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Największym naczyniem zaopatrującym większość opony twardej jest:",
+        "options": [
+            "A. Tętnica oponowa przednia.",
+            "B. Tętnica oponowa tylna.",
+            "C. Tętnica oponowa środkowa.",
+            "D. Tętnica oponowa dodatkowa od tętnicy oponowej przedniej.",
+            "E. Tętnica oponowa dodatkowa od tętnicy oponowej tylnej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tętnica oponowa środkowa jest gałęzią tętnicy:",
+        "options": [
+            "A. Sitowej.",
+            "B. Potylicznej.",
+            "C. Szczękowej.",
+            "D. Żuchwowej.",
+            "E. Kręgowej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wybierz nieprawidłowe stwierdzenie dotyczące nazwy tętnicy i miejsca jej wejścia do czaszki:",
+        "options": [
+            "A. Tętnica oponowa dodatkowa – otwór owalny.",
+            "B. Tętnica oponowa środkowa – otwór kolcowy.",
+            "C. Gałęzie tętnicy oponowej tylnej – otwór szyjny.",
+            "D. Gałęzie tętnicy oponowej tylnej – kanał nerwu podjęzykowego.",
+            "E. Gałęzie tętnicy oponowej tylnej – otwór owalny."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Który z niżej wymienionych nerwów nie bierze udziału w unerwieniu opony twardej?",
+        "options": [
+            "A. Gałęzie V1 nerwu trójdzielnego.",
+            "B. Gałęzie V2 nerwu trójdzielnego.",
+            "C. Gałęzie V3 nerwu trójdzielnego.",
+            "D. Nerw błędny.",
+            "E. Nerwy rdzeniowe szyjne (C4–C5)."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz zdanie niedotyczące opony pajęczej:",
+        "options": [
+            "A. Nie posiada naczyń.",
+            "B. Znajduje się między oponą miękką a twardą.",
+            "C. Nie przechodzi do bruzd i szczelin mózgowia poza szczeliną podłużną.",
+            "D. Wytwarza beleczki i wypustki.",
+            "E. Posiada naczynia."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz prawidłowe stwierdzenie dotyczące krwiaka podtwardówkowego:",
+        "options": [
+            "A. Umiejscawia się pomiędzy oponą twardą a kośćmi czaszki.",
+            "B. Powstaje w wyniku krwawienia z uszkodzonej żyły w miejscu połączenia z zatokami żylnymi opony twardej.",
+            "C. Nazywany jest haematoma durale.",
+            "D. Nazywany jest haematoma epidurale.",
+            "E. Nazywany jest leptomeninx."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wskaż prawidłową kolejność, od góry ku dołowi, poszczególnych części mózgowia:",
+        "options": [
+            "A. Rdzeniomózgowie, tyłomózgowie wtórne, kresomózgowie, międzymózgowie, śródmózgowie.",
+            "B. Kresomózgowie, międzymózgowie, śródmózgowie, tyłomózgowie wtórne, rdzeniomózgowie.",
+            "C. Kresomózgowie, międzymózgowie, rdzeniomózgowie, tyłomózgowie wtórne, śródmózgowie.",
+            "D. Rdzeniomózgowie, tyłomózgowie wtórne, śródmózgowie, międzymózgowie, kresomózgowie.",
+            "E. Międzymózgowie, śródmózgowie, kresomózgowie, rdzeniomózgowie, tyłomózgowie wtórne."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Która z poniższych części pnia mózgu jest widoczna jako pierwsza podczas badania mózgowia dorosłego człowieka?",
+        "options": [
+            "A. Kresomózgowie.",
+            "B. Międzymózgowie.",
+            "C. Rdzeniomózgowie.",
+            "D. Śródmózgowie.",
+            "E. Tyłomózgowie wtórne."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kliniczny termin „pień mózgu” oznacza:",
+        "options": [
+            "A. Kresomózgowie, śródmózgowie i międzymózgowie.",
+            "B. Śródmózgowie, most i rdzeń kręgowy.",
+            "C. Międzymózgowie, most i rdzeń kręgowy.",
+            "D. Kresomózgowie, międzymózgowie i most.",
+            "E. Śródmózgowie, most i rdzeń przedłużony."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Parzyste tętnice kręgowe są gałęziami:",
+        "options": [
+            "A. Tętnic pachowych.",
+            "B. Tętnic szyjnych wspólnych.",
+            "C. Tętnic podobojczykowych.",
+            "D. Tętnic szyjnych wewnętrznych.",
+            "E. Tętnic szyjnych zewnętrznych."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wskaż najbardziej prawidłowe zakończenie zdania: Tętnice kręgowe biegną ku górze:",
+        "options": [
+            "A. Tylko w otworach wyrostków poprzecznych czterech górnych kręgów szyjnych.",
+            "B. W otworach wyrostków szyjnych sześciu górnych kręgów szyjnych.",
+            "C. W otworach wyrostków poprzecznych sześciu górnych kręgów szyjnych.",
+            "D. W otworach międzykręgowych sześciu górnych kręgów szyjnych.",
+            "E. W otworach wyrostków poprzecznych wszystkich (siedmiu) kręgów szyjnych."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Prawa i lewa tętnica kręgowa, łącząc się, tworzą:",
+        "options": [
+            "A. Tętnicę podstawną.",
+            "B. Tętnicę tylną mózgu.",
+            "C. Tętnicę rdzeniową tylną.",
+            "D. Tętnicę dolną tylną móżdżku.",
+            "E. Tętnicę środkową mózgu."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Końcowymi gałęziami tętnicy podstawnej są:",
+        "options": [
+            "A. Tętnice tylne móżdżku.",
+            "B. Tętnice środkowe mózgu.",
+            "C. Tętnice górne móżdżku.",
+            "D. Tętnice tylne mózgu.",
+            "E. Gałęzie do mostu."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tętnica oczna, tętnica łącząca tylna, tętnica środkowa i przednia mózgu to gałęzie:",
+        "options": [
+            "A. Tętnicy kręgowej.",
+            "B. Tętnicy szyjnej wewnętrznej.",
+            "C. Tętnicy podstawnej.",
+            "D. Tętnicy szyjnej zewnętrznej.",
+            "E. Tętnicy szyjnej wspólnej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Koło tętnicze Willisa jest utworzone przez gałęzie tętnic kręgowych i szyjnych wewnętrznych. Są one połączone między sobą przez:",
+        "options": [
+            "A. 2 tętnice łączące przednie i 2 tętnice łączące tylne.",
+            "B. Tętnicę łączącą przednią i łączącą tylną.",
+            "C. 2 tętnice łączące przednie, łączące środkowe i łączące tylne.",
+            "D. 2 tętnice łączące tylne, łączące środkowe i 1 tętnicę łączącą przednią.",
+            "E. Tętnicę łączącą przednią i 2 tętnice łączące tylne."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Najczęstszym typem udaru jest:",
+        "options": [
+            "A. Udar o etiologii zakrzepowej.",
+            "B. Krwotok mózgowy.",
+            "C. Krwotok podpajęczynówkowy.",
+            "D. Udar o etiologii zatorowej.",
+            "E. Pęknięty tętniak wewnątrzczaszkowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Zatoki żylne opony twardej uchodzą do:",
+        "options": [
+            "A. Żył szyjnych zewnętrznych.",
+            "B. Żył wypustowych.",
+            "C. Żył szyjnych wewnętrznych.",
+            "D. Splotu podstawnego.",
+            "E. Spływu zatok."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Żyły te nie posiadają zastawek i w związku z tym stanowią drogę szerzenia się zakażenia z zewnątrz do wnętrza jamy czaszki. Mowa o:",
+        "options": [
+            "A. Żyłach szyjnych wewnętrznych.",
+            "B. Żyłach wypustowych.",
+            "C. Żyłach śródkościa.",
+            "D. Żyłach szyjnych zewnętrznych.",
+            "E. Żyłach oponowych."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "W brzegu dolnym sierpa mózgu zlokalizowana jest zatoka:",
+        "options": [
+            "A. Strzałkowa górna.",
+            "B. Prosta.",
+            "C. Poprzeczna.",
+            "D. Strzałkowa dolna.",
+            "E. Skalista dolna."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Zatoka prosta jest utworzona przez połączenie:",
+        "options": [
+            "A. Zatoki strzałkowej dolnej i żyły wielkiej mózgu.",
+            "B. Zatoki strzałkowej górnej i zatoki esowatej.",
+            "C. Zatoki skalistej górnej i dolnej.",
+            "D. Zatoki skalistej dolnej i żyły wielkiej mózgu.",
+            "E. Żyły średniej mózgu i zatoki poprzecznej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Krew ze spływu zatok spływa do zatoki:",
+        "options": [
+            "A. Jamistej.",
+            "B. Esowatej.",
+            "C. Poprzecznej prawej i lewej.",
+            "D. Skalistej górnej i dolnej.",
+            "E. Prostej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wskaż prawidłowe zakończenie zdania: Zatoki jamiste położone są:",
+        "options": [
+            "A. Na górnych powierzchniach kości skroniowych.",
+            "B. Na powierzchni wewnętrznej kości potylicznej.",
+            "C. W dole tylnym jamy czaszki.",
+            "D. Do przodu i do tyłu od siodła tureckiego.",
+            "E. Na bocznych powierzchniach kości klinowych."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż struktury, które przebiegają przez zatokę jamistą:",
+        "options": [
+            "A. Tętnica oczna i nerw odwodzący.",
+            "B. Tętnica szyjna wewnętrzna i VI nerw czaszkowy.",
+            "C. Tętnica szyjna zewnętrzna i III nerw czaszkowy.",
+            "D. Tętnica oczna i nerw okoruchowy.",
+            "E. Nerw oczny i IX nerw czaszkowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz strukturę, która nie biegnie w ścianie bocznej zatoki jamistej:",
+        "options": [
+            "A. Nerw okoruchowy.",
+            "B. Nerw bloczkowy.",
+            "C. Nerw oczny.",
+            "D. Nerw trójdzielny.",
+            "E. Nerw szczękowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż nieprawidłowe stwierdzenie na temat krwotoku nadtwardówkowego:",
+        "options": [
+            "A. Jest spowodowany uszkodzeniem tętnic.",
+            "B. Najczęściej jest wynikiem urazu okolicy pterionalnej.",
+            "C. Krew zbiera się pomiędzy kośćmi czaszki a oponą twardą.",
+            "D. Powstaje w wyniku pęknięcia tętniaka koła tętniczego Willisa.",
+            "E. Dla tego krwotoku typowy jest tzw. intervalum lucidum."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Krwotok ten powstaje w wyniku uszkodzenia żył mózgu. Mowa o krwotoku:",
+        "options": [
+            "A. Nadtwardówkowym.",
+            "B. Z pękniętego tętniaka koła Willisa.",
+            "C. Podtwardówkowym.",
+            "D. Podpajęczynówkowym.",
+            "E. Dokomorowym."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wybierz skalę, za pomocą której ocenia się stan przytomności pacjentów z urazem głowy:",
+        "options": [
+            "A. Skala Apgar.",
+            "B. Skala Tannera.",
+            "C. Skala Bishopa.",
+            "D. Skala NYHA.",
+            "E. Skala Glasgow."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Pacjent, u którego podejrzewano uraz głowy, został przywieziony na Szpitalny Oddział Ratunkowy. Lekarz dyżurny oceniający stan przytomności pacjenta za pomocą skali Glasgow stwierdził, że pacjent uzyskał 15 punktów. Co można powiedzieć, opierając się na wyniku badania, o stanie pacjenta:",
+        "options": [
+            "A. Pacjent jest głęboko nieprzytomny.",
+            "B. Pacjent jest w pełni przytomny i zorientowany co do czasu i miejsca.",
+            "C. Pacjent jest w stanie ciężkim.",
+            "D. Pacjent jest nieprzytomny, a jego stan jest średnio ciężki.",
+            "E. Pacjent jest głęboko nieprzytomny, ale jego życiu nic nie zagraża."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Zakończenia obwodowe z neuronów czuciowych nerwu węchowego znajdują się w:",
+        "options": [
+            "A. Okolicy stropu i górnej części jamy nosowej.",
+            "B. Dolnej części jamy nosowej.",
+            "C. W okolicy przedsionka nosa.",
+            "D. W okolicy nozdrzy tylnych.",
+            "E. W okolicy przedsionka jamy nosowej i przewodu nosowego środkowego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wypustki centralne neuronów czuciowych nerwu węchowego wchodzą do jamy czaszki przez:",
+        "options": [
+            "A. Szczelinę oczodołową górną.",
+            "B. Kanał wzrokowy.",
+            "C. Blaszkę sitową kości sitowej.",
+            "D. Otwór szyjny.",
+            "E. Otwór rylcowo-sutkowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerwy wzrokowe wchodzą do czaszki przez:",
+        "options": [
+            "A. Szczeliny oczodołowe górne.",
+            "B. Otwór wzrokowy.",
+            "C. Szczeliny oczodołowe dolne.",
+            "D. Otwór szyjny.",
+            "E. Kanały wzrokowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Trzeci (III) nerw czaszkowy to nerw:",
+        "options": [
+            "A. Węchowy.",
+            "B. Wzrokowy.",
+            "C. Bloczkowy.",
+            "D. Okoruchowy.",
+            "E. Trójdzielny."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż, który z poniższych mięśni nie jest unerwiony przez nerw okoruchowy:",
+        "options": [
+            "A. Mięsień dźwigacz powieki górnej.",
+            "B. Mięsień prosty górny i dolny.",
+            "C. Mięsień skośny górny.",
+            "D. Mięsień prosty przyśrodkowy.",
+            "E. Mięsień skośny dolny."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Odśrodkowe włókna trzewne biegnące w nerwie okoruchowym unerwiają:",
+        "options": [
+            "A. Mięsień dźwigacz powieki górnej.",
+            "B. Mięsień zwieracz źrenicy i mięsień rzęskowy.",
+            "C. Mięsień skośny dolny i mięsień rzęskowy.",
+            "D. Mięsień prosty przyśrodkowy.",
+            "E. Mięsień prosty górny i dolny."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Czwarty (IV) nerw czaszkowy zaopatruje:",
+        "options": [
+            "A. Mięsień prosty górny i dolny.",
+            "B. Mięsień skośny dolny.",
+            "C. Mięsień dźwigacz powieki górnej.",
+            "D. Mięsień prosty przyśrodkowy.",
+            "E. Mięsień skośny górny."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nerw ten jako jedyny z nerwów czaszkowych – wychodzi z grzbietowej powierzchni pnia mózgu. Jest nim:",
+        "options": [
+            "A. Nerw węchowy.",
+            "B. Nerw błędny.",
+            "C. Nerw bloczkowy.",
+            "D. Nerw trójdzielny.",
+            "E. Nerw przedsionkowo-ślimakowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerw oczny nie prowadzi włókien czuciowych z:",
+        "options": [
+            "A. Gałki ocznej.",
+            "B. Zatoki czołowej i komórek sitowych przednich.",
+            "C. Opony twardej przedniego dołu czaszki.",
+            "D. Wargi górnej.",
+            "E. Grzbietu nosa."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nerw szczękowy wchodzi do... przez...:",
+        "options": [
+            "A. Dołu skrzydłowo-podniebiennego – otwór owalny.",
+            "B. Dołu skroniowego – otwór kolcowy.",
+            "C. Dołu żuchwowego – szczelinę oczodołową dolną.",
+            "D. Dołu skroniowego – otwór poszarpany.",
+            "E. Dołu skrzydłowo-podniebiennego – otwór okrągły."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Który z niżej wymienionych mięśni nie jest unerwiany przez nerw żuchwowy?",
+        "options": [
+            "A. Mięsień skroniowy.",
+            "B. Mięśnie skrzydłowe.",
+            "C. Mięsień żwacz.",
+            "D. Mięśnie napinacze: podniebienia miękkiego i błony bębenkowej.",
+            "E. Mięsień rylcowo-gnykowy."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nerw odwodzący wchodzi do oczodołu przez:",
+        "options": [
+            "A. Blaszkę graniczną.",
+            "B. Szczelinę oczodołową górną.",
+            "C. Szczelinę oczodołową dolną.",
+            "D. Otwór kolcowy.",
+            "E. Otwór poszarpany."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Włókna przywspółczulne prowadzone przez nerw twarzowy nie zaopatrują:",
+        "options": [
+            "A. Ślinianki przyusznej.",
+            "B. Ślinianki podżuchwowej.",
+            "C. Gruczołów błony śluzowej nosa.",
+            "D. Gruczołu łzowego.",
+            "E. Gruczołów błony śluzowej podniebienia."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerw twarzowy prowadzi przywspółczulne włókna przedzwojowe do następujących zwojów:",
+        "options": [
+            "A. Rzęskowego i skrzydłowo-podniebiennego.",
+            "B. Skrzydłowo-podniebiennego i usznego.",
+            "C. Rzęskowego i podżuchwowego.",
+            "D. Rzęskowego i usznego.",
+            "E. Skrzydłowo-podniebiennego i podżuchwowego."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Włókna smakowe biegnące w nerwie twarzowym wiodą czucie smaku z:",
+        "options": [
+            "A. Przedniej 1/3 języka.",
+            "B. Przednich 2/3 języka.",
+            "C. Przedniej połowy języka.",
+            "D. Okolicy pośrodkowej języka.",
+            "E. Tylnej 1/3 języka."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "W zwoju kolanka od nerwu twarzowego odchodzi:",
+        "options": [
+            "A. Nervus petrosus major.",
+            "B. Nervus petrosus minor.",
+            "C. Nervus petrosus profundus.",
+            "D. Nervus petrosus intermedius.",
+            "E. Nervus petrosus maximus."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Który z niżej wymienionych nerwów nie prowadzi włókien przywspółczulnych?",
+        "options": [
+            "A. Nerw strzemiączkowy.",
+            "B. Nerw skalisty mniejszy.",
+            "C. Nerw skalisty większy.",
+            "D. Nerw okoruchowy.",
+            "E. Struna bębenkowa."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerw przedsionkowo-ślimakowy prowadzi włókna:",
+        "options": [
+            "A. Przywspółczulne.",
+            "B. Czuciowe.",
+            "C. Odśrodkowe.",
+            "D. Smakowe.",
+            "E. Wszystkie powyższe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz nieprawidłowe stwierdzenie dotyczące nerwu językowo-gardłowego.",
+        "options": [
+            "A. Oddaje nerw bębenkowy.",
+            "B. Powstaje z korzeni wychodzących z górnej części rdzenia przedłużonego.",
+            "C. Wychodzi z czaszki przez otwór rylcowo-sutkowy.",
+            "D. Zaopatruje mięsień rylcowo-gardłowy.",
+            "E. Zaopatruje śliniankę przyuszną."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Włókna przywspółczulne pochodzące z nerwu językowo-gardłowego trafiają do zwoju usznego drogą:",
+        "options": [
+            "A. Struny bębenkowej.",
+            "B. Nerwu skalistego mniejszego.",
+            "C. Nerwu twarzowego.",
+            "D. Nerwu usznego wielkiego.",
+            "E. Nerwu szczękowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Aferentne włókna somatyczne nerwu błędnego nie zaopatrują:",
+        "options": [
+            "A. Małżowiny nosowej dolnej.",
+            "B. Części krtaniowej gardła.",
+            "C. Krtani.",
+            "D. Przewodu słuchowego zewnętrznego.",
+            "E. Opony twardej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Włókna smakowe prowadzone przez nerw błędny prowadzą czucie smaku z:",
+        "options": [
+            "A. Okolicy nagłośni i gardła.",
+            "B. Podniebienia twardego.",
+            "C. Przednich 2/3 języka.",
+            "D. Tylnej 1/3 języka.",
+            "E. Wszystkich powyższych."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Korzenie nerwu błędnego wychodzą z rdzenia przedłużonego:",
+        "options": [
+            "A. Na jego przednio-bocznej powierzchni, poniżej nerwu IX.",
+            "B. Na jego grzbietowej powierzchni, bocznie od nerwu IX.",
+            "C. Powyżej nerwu IX.",
+            "D. Przyśrodkowo od korzeni nerwu IX.",
+            "E. W linii pośrodkowej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerw dodatkowy unerwia mięśnie:",
+        "options": [
+            "A. Czworoboczny i naramienny.",
+            "B. Mostkowo-obojczykowo-sutkowy i czworoboczny.",
+            "C. Naramienny i dwugłowy ramienia.",
+            "D. Pochyły przedni i mostkowo-obojczykowo-sutkowy.",
+            "E. Wszystkie powyższe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nerw podjęzykowy nie unerwia:",
+        "options": [
+            "A. Mięśnia gnykowo-językowego.",
+            "B. Mięśnia rylcowo-językowego.",
+            "C. Mięśnia bródkowo-językowego.",
+            "D. Mięśnia rylcowo-gnykowego.",
+            "E. Mięśni wewnętrznych języka."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Porażenie mięśni mimicznych twarzy wskazuje na uszkodzenie:",
+        "options": [
+            "A. Nerwu ocznego.",
+            "B. Nerwu szczękowego.",
+            "C. Nerwu żuchwowego.",
+            "D. Nerwu twarzowego.",
+            "E. Nerwu błędnego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Stwierdzenie w badaniu klinicznym zbaczania podniebienia miękkiego i języczka na stronę lewą sugeruje uszkodzenie:",
+        "options": [
+            "A. Lewego nerwu szczękowego.",
+            "B. Lewego nerwu błędnego.",
+            "C. Prawego nerwu żuchwowego.",
+            "D. Prawego nerwu błędnego.",
+            "E. Lewego i prawego nerwu podjęzykowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Brak możliwości spojrzenia w dół, kiedy oko jest przywiedzione, wskazuje na uszkodzenie:",
+        "options": [
+            "A. Nerwu wzrokowego.",
+            "B. Nerwu bloczkowego.",
+            "C. Nerwu ocznego.",
+            "D. Nerwu okoruchowego.",
+            "E. Nerwu twarzowego."
+        ],
+        "answer": 1
+    }
+],
+    "Twarz, Czepiec ścięgnisty, Oczodół": [
+    {
+        "question": "Wybierz najlepszą odpowiedź: Mięsień okrężny oka składa się z części:",
+        "options": [
+            "A. Ocznej i powiekowej.",
+            "B. Powiekowej górnej, dolnej i nadoczodołowej.",
+            "C. Oczodołowej, powiekowej i łzowej.",
+            "D. Okrężnej i poprzecznej.",
+            "E. Poprzecznej i skrzydłowej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wskaż, która z części mięśnia okrężnego oka silnie zwiera powieki i powoduje zmarszczenie skóry czoła:",
+        "options": [
+            "A. Część powiekowa.",
+            "B. Część poprzeczna.",
+            "C. Część powiekowa i oczodołowa.",
+            "D. Część poprzeczna i skrzydłowa.",
+            "E. Część oczodołowa."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż, która z części mięśnia nosowego odpowiednio zaciska i otwiera nozdrza:",
+        "options": [
+            "A. Część poprzeczna i skośna.",
+            "B. Część poprzeczna i skrzydłowa.",
+            "C. Część skośna i podłużna.",
+            "D. Część górna i dolna.",
+            "E. Część skrzydłowa i poprzeczna."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tzw. wrzeciono (modiolus) stanowi wspólny przyczep dla mięśni:",
+        "options": [
+            "A. Okolicy oczodołu.",
+            "B. Nosa.",
+            "C. Otaczających szparę ust.",
+            "D. Usznych.",
+            "E. Szerokiego szyi oraz potyliczno-czołowego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Szew skrzydłowo-żuchwowy stanowi przyczep dla:",
+        "options": [
+            "A. Mięśnia policzkowego i zwieracza górnego gardła.",
+            "B. Mięśnia żwacza i policzkowego.",
+            "C. Mięśnia okrężnego ust.",
+            "D. Mięśnia szerokiego szyi.",
+            "E. Mięśnia śmiechowego i żwacza."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "W skład grupy mięśni usznych wchodzą mięśnie:",
+        "options": [
+            "A. Uszny górny i dolny.",
+            "B. Uszny boczny, przyśrodkowy i górny.",
+            "C. Uszny przedni, górny i tylny.",
+            "D. Uszny przedni, dolny i tylny.",
+            "E. Uszny boczny, dolny i przyśrodkowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Przewód ślinianki przyusznej otwiera się do jamy ustnej na wysokości:",
+        "options": [
+            "A. Drugiego górnego zęba trzonowego.",
+            "B. Pierwszego górnego przedtrzonowca.",
+            "C. Pierwszego dolnego zęba trzonowego.",
+            "D. Kła górnego.",
+            "E. Drugiego dolnego przedtrzonowca."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chirurgiczne usunięcie ślinianki przyusznej jest skomplikowanym zabiegiem, ponieważ przez jej miąższ przebiegają ważne struktury. Są to:",
+        "options": [
+            "A. Nerw trójdzielny, tętnica szyjna wewnętrzna.",
+            "B. Żyła szyjna wewnętrzna, nerw twarzowy.",
+            "C. Żyła zażuchwowa, tętnica twarzowa i nerw trójdzielny.",
+            "D. Nerw twarzowy, żyła zażuchwowa, tętnica szyjna zewnętrzna.",
+            "E. Tętnica szyjna wewnętrzna i zewnętrzna oraz żyła zażuchwowa."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nerw twarzowy, przebiegając w śliniance przyusznej, dzieli się na pień górny i dolny. Z pnia górnego powstają gałęzie:",
+        "options": [
+            "A. Czołowe i policzkowe.",
+            "B. Szyjne i skroniowe.",
+            "C. Policzkowe i brzeżne żuchwy.",
+            "D. Jarzmowe i brzeżne żuchwy.",
+            "E. Skroniowe i jarzmowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Gałęziami końcowymi tętnicy szyjnej zewnętrznej są tętnice:",
+        "options": [
+            "A. Szczękowa i skroniowa powierzchowna.",
+            "B. Poprzeczna szyi i uszna tylna.",
+            "C. Szczękowa i poprzeczna twarzy.",
+            "D. Żuchwowa i szczękowa.",
+            "E. Poprzeczna szyi i poprzeczna twarzy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wskaż żyły, w wyniku połączenia których powstaje żyła zażuchwowa:",
+        "options": [
+            "A. Żyła twarzowa i szczękowa.",
+            "B. Żyła szyjna zewnętrzna i wewnętrzna.",
+            "C. Żyła skroniowa powierzchowna i szczękowa.",
+            "D. Żyła poprzeczna twarzy i żuchwowa.",
+            "E. Żyła uszna tylna i szczękowa."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Włókna wydzielnicze dochodzą do ślinianki przyusznej przez nerw:",
+        "options": [
+            "A. Uszno-skroniowy, gałąź nerwu szczękowego (V2).",
+            "B. Twarzowy (VII).",
+            "C. Językowo-gardłowy (IX).",
+            "D. Uszno-skroniowy, gałąź nerwu żuchwowego (V3).",
+            "E. Uszno-twarzowy, gałąź nerwu szczękowego (V2)."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż nerw/y, który/e głównie zaopatruje/ą struktury twarzy pochodzące z pierwszego łuku gardłowego:",
+        "options": [
+            "A. Nerw twarzowy (VII).",
+            "B. Nerw błędny (X).",
+            "C. Nerwy rdzeniowe szyjne.",
+            "D. Nerw językowo-gardłowy (IX).",
+            "E. Nerw trójdzielny (V)."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż, który z niżej wymienionych nerwów nie jest gałęzią nerwu ocznego (V1):",
+        "options": [
+            "A. Nerw nadoczodołowy.",
+            "B. Nerw podoczodołowy.",
+            "C. Nerw podbloczkowy.",
+            "D. Nerw nadbloczkowy.",
+            "E. Nerw łzowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wskaż miejsce, przez które nerw szczękowy (V2) opuszcza jamę czaszki:",
+        "options": [
+            "A. Otwór okrągły.",
+            "B. Otwór rylcowo-sutkowy.",
+            "C. Otwór owalny.",
+            "D. Szczelina oczodołowa górna.",
+            "E. Szczelina oczodołowa dolna."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Które z gałęzi nerwu twarzowego unerwiają mięśnie wargi dolnej oraz bródki?",
+        "options": [
+            "A. Gałęzie skroniowe.",
+            "B. Gałęzie jarzmowe.",
+            "C. Gałęzie policzkowe.",
+            "D. Gałęzie brzeżne żuchwy.",
+            "E. Gałąź szyjna."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tętno na tętnicy twarzowej można wyczuć:",
+        "options": [
+            "A. Wzdłuż brzegu mięśnia mostkowo-obojczykowo-sutkowego.",
+            "B. Na dolnym brzegu żuchwy do przodu od mięśnia żwacza.",
+            "C. Na dolnym brzegu łuku jarzmowego.",
+            "D. Do przodu od przewodu słuchowego zewnętrznego na wysokości łuku jarzmowego.",
+            "E. W linii pośrodkowej w połowie odległości pomiędzy wargą dolną a bródką."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Która z poniższych gałęzi/tętnic nie pochodzi od tętnicy twarzowej?",
+        "options": [
+            "A. Tętnica kątowa.",
+            "B. Gałąź wargowa dolna.",
+            "C. Gałąź boczna nosa.",
+            "D. Gałąź wargowa górna.",
+            "E. Tętnica grzbietowa nosa."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Tętnica jarzmowo-twarzowa oraz tętnica jarzmowo-skroniowa pochodzą od:",
+        "options": [
+            "A. Gałęzi łzowej tętnicy ocznej.",
+            "B. Tętnicy poprzecznej twarzy.",
+            "C. Tętnicy grzbietowej nosa.",
+            "D. Tętnicy podoczodołowej.",
+            "E. Tętnicy twarzowej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Żyła kątowa utworzona jest przez żyły:",
+        "options": [
+            "A. Oczną i grzbietową nosa.",
+            "B. Nadbloczkową i nadoczodołową.",
+            "C. Twarzową i podoczodołową.",
+            "D. Nadoczodołową i podoczodołową.",
+            "E. Oczną i nadbloczkową."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Która grupa węzłów chłonnych nie drenuje twarzy?",
+        "options": [
+            "A. Węzły chłonne podbródkowe.",
+            "B. Węzły chłonne podżuchwowe.",
+            "C. Węzły chłonne sutkowe.",
+            "D. Węzły chłonne przedmałżowinowe.",
+            "E. Węzły chłonne przyuszne."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Upośledzenie czuciowej i ruchowej funkcji nerwu twarzowego (VII) jest charakterystyczne dla uszkodzenia:",
+        "options": [
+            "A. W okolicy zwoju kolanka.",
+            "B. W okolicy otworu rylcowo-sutkowego.",
+            "C. Poniżej odejścia nerwu skalistego większego.",
+            "D. Poniżej odejścia struny bębenkowej.",
+            "E. Ośrodkowego."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "W wyniku uszkodzenia nerwu twarzowego (VII) w okolicy zwoju kolanka dochodzi do:",
+        "options": [
+            "A. Upośledzenia czucia smaku na bocznych stronach języka.",
+            "B. Utraty funkcji ruchowej na całej połowie twarzy po stronie uszkodzenia.",
+            "C. Upośledzenia czucia na tylnej 1/3 części języka.",
+            "D. Utraty funkcji ruchowej na całej połowie twarzy po stronie przeciwnej do uszkodzenia.",
+            "E. W tym uszkodzeniu funkcje ruchowe i czuciowe nie są zaburzone."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pomiędzy brzuścem czołowym a potylicznym mięśnia potyliczno-czołowego rozciąga się:",
+        "options": [
+            "A. Okostna czaszki.",
+            "B. Rozcięgno ścięgniste.",
+            "C. Tkanka łączna luźna.",
+            "D. Czepiec ścięgnisty.",
+            "E. Tkanka łączna zbita."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Brzusiec potyliczny mięśnia potyliczno-czołowego unerwiony jest przez nerw twarzowy, a dokładniej przez jego:",
+        "options": [
+            "A. Gałąź uszną tylną.",
+            "B. Gałęzie skroniowe.",
+            "C. Gałęzie sutkowe.",
+            "D. Gałęzie potyliczne.",
+            "E. Gałęzie czołowe."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wskaż błędne stwierdzenie dotyczące nerwu potylicznego mniejszego:",
+        "options": [
+            "A. Jest gałęzią splotu szyjnego.",
+            "B. Biegnie do góry wzdłuż tylnego brzegu mięśnia mostkowo-obojczykowo-sutkowego.",
+            "C. Powstaje z gałęzi przedniej nerwu rdzeniowego C2.",
+            "D. Przebija mięsień półkolcowy głowy.",
+            "E. Zaopatruje okolicę do tyłu i góry od małżowiny usznej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż, która z dużych tętnic bierze udział w unaczynieniu sklepienia głowy poprzez tętnice nadbloczkową i nadoczodołową:",
+        "options": [
+            "A. Tętnica podobojczykowa.",
+            "B. Tętnica szyjna wspólna.",
+            "C. Tętnica szyjna zewnętrzna.",
+            "D. Tętnica kręgowa.",
+            "E. Tętnica szyjna wewnętrzna."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Tętnica ta jest gałęzią tętnicy szyjnej zewnętrznej i zaopatruje przez swoje gałęzie przednie i tylne prawie całą powierzchnię boczną głowy. Powyższy opis dotyczy tętnicy:",
+        "options": [
+            "A. Usznej tylnej.",
+            "B. Skroniowej powierzchownej.",
+            "C. Potylicznej.",
+            "D. Nadbloczkowej.",
+            "E. Nadoczodołowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Naczynia odprowadzające chłonkę z węzłów chłonnych sutkowych drenują do węzłów chłonnych:",
+        "options": [
+            "A. Potylicznych.",
+            "B. Szyjnych powierzchownych.",
+            "C. Podżuchwowych.",
+            "D. Szyjnych głębokich.",
+            "E. Nadobojczykowych."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż prawidłową drogę odpływu chłonki:",
+        "options": [
+            "A. Węzły chłonne sutkowe – węzły chłonne szyjne powierzchowne.",
+            "B. Węzły chłonne uszne tylne – węzły chłonne potyliczne.",
+            "C. Węzły chłonne potyliczne – węzły chłonne szyjne głębokie.",
+            "D. Węzły chłonne potyliczne – węzły chłonne uszne tylne.",
+            "E. Węzły chłonne potyliczne – węzły chłonne sutkowe."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Oczodół kostny jest utworzony przez:",
+        "options": [
+            "A. 5 kości.",
+            "B. 5 kości i 2 chrząstki.",
+            "C. 6 kości.",
+            "D. 7 kości.",
+            "E. 7 kości i 2 chrząstki."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wybierz prawidłowe stwierdzenie:",
+        "options": [
+            "A. Wyrostek piramidowy kości podniebiennej współtworzy ścianę przyśrodkową oczodołu.",
+            "B. Wyrostek piramidowy kości podniebiennej współtworzy ścianę dolną oczodołu.",
+            "C. Wyrostek oczodołowy kości podniebiennej współtworzy ścianę przyśrodkową oczodołu.",
+            "D. Wyrostek oczodołowy kości podniebiennej współtworzy ścianę dolną oczodołu.",
+            "E. Blaszka pionowa kości podniebiennej wchodzi w skład ściany przyśrodkowej oczodołu."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ścianę przyśrodkową oczodołu kostnego tworzą wszystkie wymienione struktury, z wyjątkiem:",
+        "options": [
+            "A. Kości podniebiennej.",
+            "B. Kości klinowej.",
+            "C. Kości sitowej.",
+            "D. Kości łzowej.",
+            "E. Szczęki."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Która z wymienionych struktur nie znajduje się na ścianie przyśrodkowej oczodołu?",
+        "options": [
+            "A. Dół woreczka łzowego.",
+            "B. Bruzda łzowa.",
+            "C. Otwór sitowy przedni.",
+            "D. Grzebień łzowy tylny.",
+            "E. Wszystkie wymienione leżą w obrębie ściany przyśrodkowej oczodołu."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Która część kości klinowej nie bierze udziału w budowie oczodołu kostnego?",
+        "options": [
+            "A. Skrzydło mniejsze.",
+            "B. Skrzydło większe.",
+            "C. Trzon.",
+            "D. Wyrostek skrzydłowaty.",
+            "E. Wszystkie wymienione części kości klinowej biorą udział w tworzeniu oczodołu kostnego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Szczęka wchodzi w skład:",
+        "options": [
+            "A. Ściany bocznej i przyśrodkowej oczodołu.",
+            "B. Ściany bocznej i dolnej oczodołu.",
+            "C. Ściany przyśrodkowej i dolnej oczodołu.",
+            "D. Tylko ściany dolnej oczodołu.",
+            "E. Tylko ściany bocznej oczodołu."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Powieki zbudowane są ze wszystkich wymienionych struktur, z wyjątkiem:",
+        "options": [
+            "A. Skóry.",
+            "B. Tkanki podskórnej.",
+            "C. Przegrody oczodołowej.",
+            "D. Mięśnia gładkiego.",
+            "E. Tarczki."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Przegroda oczodołowa przyczepia się do:",
+        "options": [
+            "A. Ścięgna dźwigacza powieki w powiece dolnej.",
+            "B. Do tarczki w powiece dolnej.",
+            "C. Do tarczki w powiece górnej.",
+            "D. A i C są prawidłowe.",
+            "E. Żadna z odpowiedzi nie jest prawidłowa."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ptoza może być spowodowana:",
+        "options": [
+            "A. Upośledzeniem funkcji mięśnia dźwigacza powieki.",
+            "B. Upośledzeniem funkcji mięśnia tarczkowego górnego.",
+            "C. Uszkodzeniem zwoju szyjnego górnego.",
+            "D. Uszkodzeniem nerwu okoruchowego.",
+            "E. Wszystkimi wymienionymi stanami."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz stwierdzenie/-a prawidłowo opisujące gruczoły tarczkowe:",
+        "options": [
+            "A. Są to zmodyfikowane gruczoły łojowe.",
+            "B. Znajdują się w brzegach wolnych powiek w pobliżu mieszków rzęs.",
+            "C. Są jedynymi gruczołami występującymi w obrębie powiek.",
+            "D. Ich zablokowanie i stan zapalny powoduje powstanie jęczmienia na brzegu powiek.",
+            "E. Wszystkie stwierdzenia prawidłowo opisują gruczoły tarczkowe."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Unaczynienie powieki pochodzi od wymienionych naczyń, z wyjątkiem gałęzi odchodzących:",
+        "options": [
+            "A. Bezpośrednio od tętnicy łzowej.",
+            "B. Bezpośrednio od tętnicy szyjnej wewnętrznej.",
+            "C. Bezpośrednio od tętnicy skroniowej powierzchownej.",
+            "D. Pośrednio od tętnicy skroniowej powierzchownej.",
+            "E. Bezpośrednio od tętnicy kątowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Opadanie powieki dolnej związane jest z:",
+        "options": [
+            "A. Uszkodzeniem zwoju szyjnego.",
+            "B. Uszkodzeniem nerwu twarzowego.",
+            "C. Uszkodzeniem nerwu szczękowego.",
+            "D. Uszkodzeniem nerwu okoruchowego.",
+            "E. Żadnym z wymienionych."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Zespół Hornera:",
+        "options": [
+            "A. Wynika z uszkodzenia neuronów przywspółczulnych unerwiających okolicę oczodołu.",
+            "B. Charakteryzuje się całkowitym opadnięciem powieki.",
+            "C. Charakteryzuje się porażeniem mięśnia tarczkowego górnego.",
+            "D. B i C są prawdziwe.",
+            "E. Wszystkie stwierdzenia prawidłowo charakteryzują zespół Hornera."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Które stwierdzenie w sposób prawidłowy opisuje unerwienie gruczołu łzowego?",
+        "options": [
+            "A. Przedzwojowe włókna przywspółczulne biegną w nerwie ocznym.",
+            "B. Zazwojowe włókna przywspółczulne docierają do gruczołu drogą nerwu łzowego.",
+            "C. Zazwojowe włókna współczulne przebiegają na pewnym odcinku w nerwie skalistym większym.",
+            "D. Ciała zazwojowych neuronów przywspółczulnych unerwiających gruczoł znajdują się w zwoju rzęskowym.",
+            "E. Wszystkie stwierdzenia w sposób prawidłowy opisują unerwienie gruczołu łzowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Które stwierdzenie jest błędne?",
+        "options": [
+            "A. Włókna czuciowe z gruczołu łzowego biegną w obrębie nerwu twarzowego.",
+            "B. Ciała zazwojowych neuronów współczulnych unerwiających gruczoł łzowy znajdują się w zwoju szyjnym dolnym.",
+            "C. Nerw skalisty głęboki prowadzi przedzwojowe włókna współczulne.",
+            "D. Nerw kanału skrzydłowego prowadzi włókna zazwojowe przywspółczulne i współczulne.",
+            "E. Wszystkie powyższe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Szczelina oczodołowa dolna pozwala na komunikację pomiędzy oczodołem a:",
+        "options": [
+            "A. Dołem skroniowym.",
+            "B. Dołem podskroniowym.",
+            "C. Dołem skrzydłowo-podniebiennym.",
+            "D. Tylko B i C.",
+            "E. Wszystkimi wymienionymi."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Do objawów zespołu Hornera nie należy:",
+        "options": [
+            "A. Exophthalmos.",
+            "B. Zwężenie źrenicy.",
+            "C. Brak wydzielania potu w obrębie szyi.",
+            "D. Ipsilateralne rozszerzenie naczyń krwionośnych w obrębie twarzy.",
+            "E. Porażenie mięśnia oczodołowego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Przez szczelinę oczodołową górną przechodzą wszystkie wymienione struktury, z wyjątkiem:",
+        "options": [
+            "A. Gałęzi dolnej nerwu okoruchowego.",
+            "B. Żyły łączącej ze splotem skrzydłowym.",
+            "C. Nerwu czołowego.",
+            "D. Nerwu nosowo-rzęskowego.",
+            "E. Żyły ocznej górnej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "W celu zbadania mięśnia skośnego dolnego należy poprosić pacjenta, aby śledził palec badającego, przesuwany:",
+        "options": [
+            "A. Do dołu.",
+            "B. Do góry.",
+            "C. Przyśrodkowo, a następnie do dołu.",
+            "D. Przyśrodkowo, a następnie do góry.",
+            "E. Bocznie, a następnie do góry."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Skurcz mięśnia skośnego górnego kieruje źrenicę:",
+        "options": [
+            "A. Do dołu i przyśrodkowo.",
+            "B. Do dołu i na zewnątrz.",
+            "C. Do góry.",
+            "D. Do góry i przyśrodkowo.",
+            "E. Do góry i na zewnątrz."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Która z wymienionych tętnic zaopatruje struktury położone wewnątrz gałki ocznej?",
+        "options": [
+            "A. Tętnica łzowa.",
+            "B. Tętnica środkowa siatkówki.",
+            "C. Tętnice rzęskowe tylne długie.",
+            "D. B i C.",
+            "E. Wszystkie wymienione."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wybierz błędne stwierdzenie opisujące żyłę oczodołową dolną:",
+        "options": [
+            "A. Może łączyć się z żyłą oczodołową górną.",
+            "B. Może wychodzić z oczodołu przez szczelinę oczodołową górną.",
+            "C. Wychodząc przez szczelinę oczodołową dolną, łączy się ze splotami żylnymi w dole skrzydłowo-podniebiennym.",
+            "D. Po wyjściu z oczodołu wchodzi do dołu podskroniowego.",
+            "E. Wszystkie stwierdzenia są prawdziwe."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Przedzwojowe włókna unerwiające mięsień rzęskowy przebiegają w obrębie:",
+        "options": [
+            "A. Gałęzi górnej nerwu okoruchowego.",
+            "B. Gałązki odchodzącej od gałęzi dolnej nerwu okoruchowego.",
+            "C. Nerwu nosowo-rzęskowego.",
+            "D. Nerwów rzęskowych krótkich.",
+            "E. Nerwu łzowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Włókna współczulne unerwiające struktury oczodołu:",
+        "options": [
+            "A. Przedzwojowe pochodzą głównie z segmentu Th1 rdzenia kręgowego.",
+            "B. Zazwojowe pochodzą ze wszystkich zwojów szyjnych pnia współczulnego.",
+            "C. Przedzwojowe pochodzą z segmentów szyjnych rdzenia kręgowego.",
+            "D. Zazwojowe pochodzą ze zwoju rzęskowego.",
+            "E. Biegną w pobliżu tętnicy szyjnej zewnętrznej i jej gałęzi."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Który/e z wymienionych nerwów unerwia/ją zatokę klinową?",
+        "options": [
+            "A. Nerwy rzęskowe długie.",
+            "B. Nerwy rzęskowe krótkie.",
+            "C. Nerw sitowy tylny.",
+            "D. Nerw sitowy przedni.",
+            "E. Nerw podbloczkowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Korzeń czuciowy zwoju rzęskowego stanowi:",
+        "options": [
+            "A. Gałąź nerwu łzowego.",
+            "B. Gałąź nerwu nosowo-rzęskowego.",
+            "C. Gałąź nerwu czołowego.",
+            "D. Gałąź nerwu podoczodołowego.",
+            "E. Gałąź nerwu jarzmowo-skroniowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Komora tylna gałki ocznej znajduje się:",
+        "options": [
+            "A. Między tęczówką i soczewką.",
+            "B. Do tyłu od rogówki.",
+            "C. Do tyłu od soczewki.",
+            "D. Między tęczówką i źrenicą.",
+            "E. Między ciałem szklistym i siatkówką."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Soczewka oddziela:",
+        "options": [
+            "A. Przednią 1/3 część gałki ocznej od tylnych 2/3.",
+            "B. Przednią 1/4 część gałki ocznej od tylnych 3/4.",
+            "C. Przednią 1/5 część gałki ocznej od tylnych 4/5.",
+            "D. Przednią 1/6 część gałki ocznej od tylnych 5/6.",
+            "E. Soczewka dzieli gałkę oczną na dwie równe połowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wybierz błędne stwierdzenie:",
+        "options": [
+            "A. Oftalmoskopia pozwala na uwidocznienie gałęzi tętnicy środkowej siatkówki.",
+            "B. Zmętnienie soczewki zwane jest jaskrą.",
+            "C. Żyły wirowate uchodzą do żył ocznych.",
+            "D. Tętnice rzęskowe przednie są gałęziami tętnicy ocznej.",
+            "E. B i D."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "W odwarstwieniu siatkówki oddzieleniu ulega:",
+        "options": [
+            "A. Warstwa nerwowa od barwnikowej.",
+            "B. Warstwa barwnikowa od naczyniówki.",
+            "C. Część wzrokowa od części ślepej.",
+            "D. Tarcza nerwu wzrokowego.",
+            "E. Żadne z powyższych nie jest prawidłowe."
+        ],
+        "answer": 0
+    }
+],
+    "Ucho, Dół Skroniowy, Podskroniowy i Skrzydłowo-Podniebienny": [
+    {
+        "question": "Częścią małżowiny nieposiadającą rusztowania chrzęstnego jest..., stanowiący zakończenie...:",
+        "options": [
+            "A. Płatek – obrąbka.",
+            "B. Obrąbek – muszli małżowiny.",
+            "C. Przeciwskrawek – grobelki.",
+            "D. Obrąbek – skrawka.",
+            "E. Skrawek – przeciwskrawka."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Grobelka leży równolegle do:",
+        "options": [
+            "A. Skrawka.",
+            "B. Przeciwskrawka.",
+            "C. Obrąbka.",
+            "D. Płatka.",
+            "E. Muszli małżowiny."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerw uszno-skroniowy jest gałęzią:",
+        "options": [
+            "A. Nerwu szczękowego.",
+            "B. Nerwu żuchwowego.",
+            "C. Nerwu błędnego.",
+            "D. Nerwu potylicznego mniejszego.",
+            "E. Nerwu potylicznego wielkiego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Uwidocznienie błony bębenkowej jest łatwiejsze przy pociągnięciu małżowiny usznej:",
+        "options": [
+            "A. Do przodu i dołu.",
+            "B. Do tyłu i dołu.",
+            "C. Do przodu i góry.",
+            "D. Do tyłu i góry.",
+            "E. Żadne z powyższych."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Paracenteza – nacięcie błony bębenkowej – jest wykonywana w jej części:",
+        "options": [
+            "A. Górnej.",
+            "B. Górno-przedniej.",
+            "C. Dolnej.",
+            "D. Tylno-dolnej.",
+            "E. Tylnej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Część wiotka błony bębenkowej:",
+        "options": [
+            "A. Stanowi większą część błony bębenkowej.",
+            "B. Jest miejscem występowania stożka świetlnego.",
+            "C. Leży powyżej fałdów młoteczkowych: przedniego i tylnego.",
+            "D. Leży poniżej pępka błony bębenkowej.",
+            "E. Żadne z powyższych."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wybierz nieprawidłowe zestawienie ściany jamy bębenkowej i jej nazwy.",
+        "options": [
+            "A. Ściana górna – pokrywkowa.",
+            "B. Ściana dolna – żylna.",
+            "C. Ściana przyśrodkowa – błoniasta.",
+            "D. Ściana tylna – sutkowa.",
+            "E. Ściana przednia – tętnicza."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Która z niżej wymienionych struktur nie znajduje się na ścianie przyśrodkowej (błędnikowej) jamy bębenkowej?",
+        "options": [
+            "A. Okienko owalne.",
+            "B. Wyniosłość piramidowa.",
+            "C. Okienko okrągłe.",
+            "D. Wyniosłość kanału nerwu twarzowego.",
+            "E. Wyniosłość kanału półkolistego bocznego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Struna bębenkowa, odchodząca od nerwu twarzowego, przechodzi przez następujące ściany jamy bębenkowej:",
+        "options": [
+            "A. Sutkową i tętniczą.",
+            "B. Błoniastą i błędnikową.",
+            "C. Błoniastą i żylną.",
+            "D. Pokrywkową i tętniczą.",
+            "E. Błędnikową i sutkową."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ujście trąbki słuchowej znajduje się w:",
+        "options": [
+            "A. Tylnej części ściany żylnej.",
+            "B. Bocznej części ściany sutkowej.",
+            "C. Dolnej części ściany błoniastej.",
+            "D. Przedniej części ściany pokrywkowej.",
+            "E. Górnej części ściany tętniczej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Która z niżej wymienionych struktur jest częścią młoteczka?",
+        "options": [
+            "A. Odnoga przednia.",
+            "B. Odnoga tylna.",
+            "C. Wyrostek przedni.",
+            "D. Odnoga długa.",
+            "E. Odnoga krótka."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mięsień napinacz błony bębenkowej przyczepia się do:",
+        "options": [
+            "A. Rękojeści młoteczka.",
+            "B. Trzonu kowadełka.",
+            "C. Części wiotkiej błony bębenkowej.",
+            "D. Głowy strzemiączka.",
+            "E. Struny bębenkowej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Splot bębenkowy jest położony na:",
+        "options": [
+            "A. Ścianie błoniastej jamy bębenkowej.",
+            "B. Ścianie sutkowej jamy bębenkowej.",
+            "C. Ścianie tętniczej jamy bębenkowej.",
+            "D. Ścianie błędnikowej jamy bębenkowej.",
+            "E. Ścianie żylnej jamy bębenkowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Który z niżej wymienionych nerwów powstaje ze splotu bębenkowego?",
+        "options": [
+            "A. Nerw twarzowy.",
+            "B. Struna bębenkowa.",
+            "C. Nerw skalisty mniejszy.",
+            "D. Nerw trąbkowo-sutkowy.",
+            "E. Nerw strzemiączkowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Która z niżej wymienionych struktur jest wypełniona śródchłonką?",
+        "options": [
+            "A. Kanał półkolisty przedni.",
+            "B. Przedsionek.",
+            "C. Ślimak.",
+            "D. Łagiewka.",
+            "E. Błona bębenkowa wtórna."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Schody przedsionka łączą się ze schodami bębenka poprzez:",
+        "options": [
+            "A. Wrzecionko.",
+            "B. Szparę osklepka.",
+            "C. Blaszkę wrzecionka.",
+            "D. Podstawę ślimaka.",
+            "E. Łagiewkę."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Przewód śródchłonkowy rozpoczyna się w:",
+        "options": [
+            "A. Woreczku.",
+            "B. Kanale półkolistym bocznym.",
+            "C. Przewodzie ślimakowym.",
+            "D. Przewodzie łagiewkowo-woreczkowym.",
+            "E. Przewodzie półkolistym przednim."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Przewód ślimakowy otwiera się do:",
+        "options": [
+            "A. Woreczka.",
+            "B. Łagiewki.",
+            "C. Przewodu śródchłonkowego.",
+            "D. Przewodu łagiewkowo-woreczkowego.",
+            "E. Przewodu półkolistego przedniego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ujście wodociągu przedsionka leży:",
+        "options": [
+            "A. W środkowym dole czaszki.",
+            "B. Na tylnej powierzchni części skalistej kości skroniowej.",
+            "C. Powyżej otworu poszarpanego.",
+            "D. Bocznie od zatoki esowatej.",
+            "E. W obrębie zatoki jamistej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Narząd spiralny Cortiego leży na:",
+        "options": [
+            "A. Więzadle spiralnym.",
+            "B. Wrzecionku.",
+            "C. Błonie bębenkowej wtórnej.",
+            "D. Błonie podstawnej.",
+            "E. Błonie przedsionkowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ściana zewnętrzna przewodu ślimaka jest utworzona przez:",
+        "options": [
+            "A. Więzadło spiralne.",
+            "B. Błonę przedsionkową.",
+            "C. Woreczek śródchłonkowy.",
+            "D. Błonę podstawną.",
+            "E. Wrzecionko."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Zwój spiralny leży:",
+        "options": [
+            "A. W osi wrzecionka.",
+            "B. W obrębie więzadła spiralnego.",
+            "C. U podstawy blaszki wrzecionka.",
+            "D. W bocznej ścianie łagiewki.",
+            "E. Żadne z powyższych."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tętnica błędnikowa jest gałęzią:",
+        "options": [
+            "A. Tętnicy szyjnej wewnętrznej.",
+            "B. Tętnicy łączącej przedniej.",
+            "C. Tętnicy kręgowej.",
+            "D. Tętnicy tylnej dolnej móżdżku.",
+            "E. Tętnicy przedniej dolnej móżdżku."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Struna bębenkowa wychodzi z czaszki przez:",
+        "options": [
+            "A. Otwór poszarpany.",
+            "B. Otwór owalny.",
+            "C. Szczelinę kolcową.",
+            "D. Szczelinę uszną dolną.",
+            "E. Szczelinę skalisto-bębenkową."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Pierwszą gałęzią nerwu twarzowego, odchodzącą ze zwoju kolanka, jest:",
+        "options": [
+            "A. Nerw bębenkowy.",
+            "B. Nerw skalisty większy.",
+            "C. Nerw strzemiączkowy.",
+            "D. Struna bębenkowa.",
+            "E. Nerw jarzmowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Do mięśni żucia nie zalicza się:",
+        "options": [
+            "A. Mięśnia żwacza.",
+            "B. Mięśnia skroniowego.",
+            "C. Mięśnia skrzydłowego bocznego.",
+            "D. Mięśnia jarzmowego.",
+            "E. Mięśnia skrzydłowego przyśrodkowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wybierz zdanie nieprawdziwe:",
+        "options": [
+            "A. Nerw żuchwowo-gnykowy znajduje się w bruździe o tej samej nazwie.",
+            "B. Nerw zębodołowy dolny przechodzi przez bruzdę żuchwowo-gnykową.",
+            "C. Koniec żuchwowy więzadła klinowo-żuchwowego przyczepia się w okolicy języczka żuchwy.",
+            "D. Mięsień skrzydłowy przyśrodkowy przyczepia się do tyłu od otworu żuchwowego.",
+            "E. Mięsień skrzydłowy przyśrodkowy przyczepia się do tyłu i dołu od bruzdy żuchwowo-gnykowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz zdanie/a prawdziwe:",
+        "options": [
+            "A. Środkowy dół czaszki komunikuje się z dołem podskroniowym przez otwór owalny i kolcowy u podstawy skrzydła większego kości klinowej.",
+            "B. Przez otwór owalny przechodzi nerw żuchwowy V3.",
+            "C. Żyły wypustowe łączą zatokę jamistą ze splotem żylnym skrzydłowym w dole podskroniowym.",
+            "D. Przez otwór kolcowy przechodzi tętnica oponowa środkowa.",
+            "E. Wszystkie odpowiedzi są prawidłowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz prawidłowy przyczep więzadła w stawie skroniowo-żuchwowym.",
+        "options": [
+            "A. Ligamentum stylomandibulare – wyrostek kolcowy.",
+            "B. Ligamentum laterale – guzek stawowy szyjki żuchwy.",
+            "C. Ligamentum sphenomandibulare – tylny brzeg kąta żuchwy.",
+            "D. Ligamentum laterale – kolec klinowy.",
+            "E. Ligamentum sphenomandibulare – wyrostek rylcowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mięsień bródkowo-gnykowy jest unerwiony przez:",
+        "options": [
+            "A. Nerw szyjny C1.",
+            "B. Nerw szyjny C3.",
+            "C. Nerw żuchwowy V3.",
+            "D. Nerw skroniowy.",
+            "E. Nerw szczękowy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wybierz nieprawdziwe twierdzenie dotyczące mięśnia żwacza:",
+        "options": [
+            "A. Dzieli się na część głęboką i powierzchowną.",
+            "B. Jest unerwiony przez nerw żwaczowy.",
+            "C. Jest unerwiony przez gałęzie od nerwu żuchwowego.",
+            "D. Zaopatruje go tętnica żwaczowa.",
+            "E. Bierze udział w unoszeniu żuchwy."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Główną zawartością dołu skroniowego jest:",
+        "options": [
+            "A. Mięsień żwacz.",
+            "B. Mięsień skroniowy.",
+            "C. Gałąź jarzmowo-skroniowa.",
+            "D. Gałąź żwaczowa.",
+            "E. Mięsień skrzydłowy boczny."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz prawidłowe stwierdzenie dotyczące tętnic skroniowych:",
+        "options": [
+            "A. Gałęzie od tętnic skroniowych głębokich i środkowych łączą się.",
+            "B. Gałęzie skroniowe głębokie odchodzą od tętnicy szczękowej.",
+            "C. Gałęzie skroniowe środkowe przebijają powięź skroniową i biegną pod mięśniem skroniowym.",
+            "D. A i C są prawidłowe.",
+            "E. A, B i C są prawidłowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Do zawartości dołu podskroniowego nie należy/należą:",
+        "options": [
+            "A. Mięśnie skrzydłowe.",
+            "B. Więzadło klinowo-żuchwowe.",
+            "C. Nerw żuchwowy.",
+            "D. Tętnica szczękowa.",
+            "E. Nerw szczękowy."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz nieprawidłowe stwierdzenie:",
+        "options": [
+            "A. Nerw żuchwowy zawiera włókna ruchowo-czuciowe.",
+            "B. Nerw oczny zawiera włókna czuciowe.",
+            "C. Nerw szczękowy zawiera włókna czuciowo-ruchowe.",
+            "D. Część czuciowa nerwu żuchwowego pochodzi ze zwoju nerwu trójdzielnego.",
+            "E. Nerw żuchwowy unerwia czuciowo 2/3 przednie języka."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Włókna zazwojowe przywspółczulne z nerwu językowo-gardłowego do ślinianki przyusznej dostarczane są przez:",
+        "options": [
+            "A. Nerw skrzydłowy przyśrodkowy.",
+            "B. Nerw żwaczowy.",
+            "C. Nerwy skroniowe głębokie.",
+            "D. Nerw uszno-skroniowy.",
+            "E. Nerw policzkowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wybierz twierdzenie nieprawidłowe dotyczące gałęzi oponowej nerwu żuchwowego:",
+        "options": [
+            "A. Rozpoczyna się w dole podskroniowym.",
+            "B. Unerwia komórki sutkowe łączące się z uchem środkowym.",
+            "C. Towarzyszy tętnicy oponowej środkowej.",
+            "D. Wchodzi do czaszki przez otwór rylcowy.",
+            "E. Prowadzi włókna czuciowe dla opony twardej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nerw językowy:",
+        "options": [
+            "A. Unerwia czuciowo 1/3 tylną języka.",
+            "B. Unerwia tylko czuciowo 1/3 przednią języka.",
+            "C. Unerwia ruchowo 2/3 przednie języka.",
+            "D. Przez strunę bębenkową prowadzi włókna przywspółczulne do wszystkich gruczołów ślinowych jamy ustnej.",
+            "E. Może zostać uszkodzony w czasie operacji dziąseł i zębów trzonowych."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nerw zębodołowy dolny bezpośrednio unerwia:",
+        "options": [
+            "A. Trzy zęby trzonowe i drugi ząb przedtrzonowy.",
+            "B. Tylko trzy zęby trzonowe.",
+            "C. Trzy zęby trzonowe i dwa zęby przedtrzonowe.",
+            "D. Pierwszy ząb przedtrzonowy.",
+            "E. Siekacze i kły."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Struna bębenkowa:",
+        "options": [
+            "A. Jest gałęzią nerwu twarzowego.",
+            "B. Prowadzi włókna smakowe z przednich 2/3 języka.",
+            "C. Wychodzi z jamy bębenkowej przez przyśrodkową część szczeliny skalisto-bębenkowej.",
+            "D. Łączy się z nerwem językowym.",
+            "E. Wszystkie stwierdzenia są prawdziwe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz twierdzenie nieprawdziwe:",
+        "options": [
+            "A. Nerw skalisty mniejszy prowadzi włókna przywspółczulne dla ślinianki przyusznej.",
+            "B. Nerw językowo-gardłowy (IX) przechodzi przez otwór szyjny.",
+            "C. Nerw skalisty mniejszy opuszcza jamę bębenkową i wchodzi do przedniego dołu czaszki.",
+            "D. Nerw skalisty mniejszy jest gałęzią splotu bębenkowego.",
+            "E. Nerw skalisty mniejszy zawiera w przewadze włókna przywspółczulne przedzwojowe."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Żyły wypustowe:",
+        "options": [
+            "A. Łączą się z zatoką jamistą.",
+            "B. Przechodzą przez otwór owalny.",
+            "C. Przechodzą przez otwór klinowy.",
+            "D. Łączą splot skrzydłowy w dole podskroniowym z zatoką jamistą w jamie czaszki.",
+            "E. Wszystkie odpowiedzi są prawidłowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Splot skrzydłowy:",
+        "options": [
+            "A. Znajduje się między mięśniem skrzydłowym bocznym i przyśrodkowym.",
+            "B. Zbiera krew z jamy nosowej, ścian jamy ustnej, zębów, zatok przynosowych.",
+            "C. Zbiera krew z obszaru drenowanego przez żyły oczne górne.",
+            "D. A i B są prawdziwe.",
+            "E. A, B i C są prawdziwe."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Splot skrzydłowy nie łączy się z:",
+        "options": [
+            "A. Żyłą szczękową.",
+            "B. Żyłą skroniową.",
+            "C. Żyłą zażuchwową.",
+            "D. Żyłą twarzową głęboką.",
+            "E. Żyłą twarzową."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz miejsce nieprawidłowego odejścia gałęzi tętnicy szczękowej:",
+        "options": [
+            "A. Pierwszy odcinek – tętnica oponowa środkowa.",
+            "B. Pierwszy odcinek – tętnica zębodołowa dolna.",
+            "C. Pierwszy odcinek – tętnica skroniowa głęboka.",
+            "D. Drugi odcinek – tętnica żwaczowa.",
+            "E. Trzeci odcinek – tętnica podoczodołowa."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ściana przyśrodkowa dołu skrzydłowo-podniebiennego utworzona jest przez:",
+        "options": [
+            "A. Tylną powierzchnię szczęki.",
+            "B. Powierzchnię boczną kości podniebiennej.",
+            "C. Kość klinowatą.",
+            "D. Przednią powierzchnię szczęki.",
+            "E. Wyrostek podniebienny szczęki."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nerw kanału skrzydłowego po przejściu przez kanał skrzydłowy wchodzi do:",
+        "options": [
+            "A. Dołu skroniowego.",
+            "B. Oczodołu.",
+            "C. Jamy nosowej.",
+            "D. Dołu skrzydłowo-podniebiennego.",
+            "E. Kanału podniebienno-pochwowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Dół skrzydłowo-podniebienny łączy się z częścią nosową gardła poprzez:",
+        "options": [
+            "A. Otwór klinowo-podniebienny.",
+            "B. Kanał podniebienny większy.",
+            "C. Kanał podniebienno-pochwowy.",
+            "D. Szczelinę oczodołową dolną.",
+            "E. Otwór okrągły."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Przez szczelinę skrzydłowo-szczękową dół skrzydłowo-podniebienny komunikuje się z:",
+        "options": [
+            "A. Dołem środkowym czaszki.",
+            "B. Dnem oczodołu.",
+            "C. Ścianą boczną jamy nosowej.",
+            "D. Częścią nosową gardła.",
+            "E. Dołem podskroniowym."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nerwy podniebienne większy i mniejszy odchodzą od:",
+        "options": [
+            "A. Zwoju kolanka.",
+            "B. Zwoju nerwu trójdzielnego.",
+            "C. Zwoju skrzydłowo-podniebiennego.",
+            "D. Splotu przyusznego.",
+            "E. Splotu szyjno-tętniczego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerw kanału skrzydłowego powstaje w wyniku połączenia:",
+        "options": [
+            "A. Nerwu skalistego większego z nerwem skalistym głębokim.",
+            "B. Nerwu podoczodołowego z gałęzią jarzmowo-twarzową.",
+            "C. Nerwu nosowo-podniebiennego z nerwem skalistym większym.",
+            "D. Nerwu podniebiennego większego z nerwem skalistym głębokim.",
+            "E. Nerwu podniebiennego mniejszego z nerwem skalistym większym."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerw łzowy:",
+        "options": [
+            "A. Jest gałęzią ruchową nerwu trójdzielnego (V).",
+            "B. Jest gałęzią nerwu twarzowego (VII).",
+            "C. Jest gałęzią czuciową nerwu ocznego (V1).",
+            "D. Jest gałęzią czuciową nerwu szczękowego (V2).",
+            "E. Jest gałęzią nerwu skalistego większego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Uszkodzenie drogi przebiegu włókien przywspółczulnych dochodzących do gruczołu łzowego drogą gałązek nerwu ocznego skutkuje:",
+        "options": [
+            "A. Zaburzeniem akomodacji.",
+            "B. Utratą zdolności zamykania powiek.",
+            "C. Nadmiernym wydzielaniem łez.",
+            "D. Tzw. zespołem suchego oka.",
+            "E. Nadmiernym zwężeniem źrenicy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż struktury, które są zaopatrywane przez tętnice zębodołowe górne przednie:",
+        "options": [
+            "A. Kły, przedtrzonowe.",
+            "B. Siekacze, kły, zatoka szczękowa.",
+            "C. Siekacze, podniebienie twarde.",
+            "D. Podniebienie twarde i miękkie.",
+            "E. Siekacze, zatoka szczękowa, zatoka klinowa."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gałęzie nosowe tylne boczne i przyśrodkowe odchodzą od tętnicy:",
+        "options": [
+            "A. Klinowo-podniebiennej.",
+            "B. Podniebiennej większej.",
+            "C. Zębodołowej górnej tylnej.",
+            "D. Podoczodołowej.",
+            "E. Kanału skrzydłowego."
+        ],
+        "answer": 0
+    }
+],
+    "Szyja, Gardło i Krtań": [
+    {
+        "question": "Przestrzeń zagardłowa leży między powięzią policzkowo-gardłową a:",
+        "options": [
+            "A. Blaszką powierzchowną powięzi szyi.",
+            "B. Mięśniem szerokim szyi.",
+            "C. Blaszką przedkręgową powięzi szyi.",
+            "D. Blaszką przedtchawiczą powięzi szyi.",
+            "E. Mięśniami podgnykowymi."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "W wyniku połączenia żyły skroniowej powierzchownej z żyłą szczękową powstaje:",
+        "options": [
+            "A. Żyła twarzowa.",
+            "B. Żyła szyjna zewnętrzna.",
+            "C. Łuk żylny szyjny.",
+            "D. Żyła zażuchwowa.",
+            "E. Żyła szyjna wewnętrzna."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Łuk żylny szyjny położony powyżej wcięcia szyjnego mostka powstaje w wyniku połączenia się:",
+        "options": [
+            "A. Żyły twarzowej z żyłą szczękową.",
+            "B. Żyły skroniowej powierzchownej z żyłą szczękową.",
+            "C. Żył szyjnych przednich.",
+            "D. Żyły twarzowej z żyłą zażuchwową.",
+            "E. Żyły usznej tylnej z żyłą zażuchwową."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trójkąt tętnicy szyjnej ograniczony jest od góry przez mięsień rylcowo-gnykowy oraz:",
+        "options": [
+            "A. Brzusiec górny mięśnia łopatkowo-gnykowego.",
+            "B. Brzeg przedni mięśnia mostkowo-obojczykowo-sutkowego.",
+            "C. Mięsień żuchwowo-gnykowy.",
+            "D. Brzusiec dolny mięśnia łopatkowo-gnykowego.",
+            "E. Tylny brzusiec mięśnia dwubrzuścowego."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Student pierwszego roku na zajęciach z anatomii człowieka miał za zadanie wymienić mięśnie taśmowe. Aby zaliczyć to zadanie, powinien wymienić:",
+        "options": [
+            "A. Mięśnie podgnykowe.",
+            "B. Mięśnie głębokie szyi.",
+            "C. Mięśnie nadgnykowe.",
+            "D. Mięśnie głębokie szyi i mięsień szeroki szyi.",
+            "E. Mięśnie nadgnykowe i podgnykowe."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Podział tętnicy szyjnej wspólnej na tętnicę szyjną zewnętrzną i wewnętrzną następuje na wysokości:",
+        "options": [
+            "A. Kości gnykowej.",
+            "B. Siódmego kręgu szyjnego.",
+            "C. Górnego brzegu chrząstki tarczowatej krtani.",
+            "D. Pierwszej chrząstki tchawiczej.",
+            "E. Chrząstki pierścieniowatej krtani."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Zatoka tętnicy szyjnej jest unerwiona przez gałąź nerwu językowo-gardłowego. Kłębek szyjny analizuje zmiany ciśnienia krwi i jest unerwiony przez nerw błędny.",
+        "options": [
+            "A. Oba zdania są prawdziwe.",
+            "B. Pierwsze zdanie jest fałszywe, drugie prawdziwe.",
+            "C. Oba zdania są fałszywe.",
+            "D. Pierwsze zdanie jest prawdziwe, drugie fałszywe.",
+            "E. Pierwsze zdanie i część początkowa zdania drugiego są prawdziwe, natomiast dalsza część zdania drugiego jest fałszywa."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Żyła szyjna wewnętrzna rozpoczyna się jako przedłużenie:",
+        "options": [
+            "A. Zatoki strzałkowej górnej.",
+            "B. Żyły środkowej mózgu.",
+            "C. Spływu zatok.",
+            "D. Zatoki strzałkowej dolnej.",
+            "E. Zatoki esowatej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż prawidłowe miejsce wyjścia z czaszki odpowiednio nerwu twarzowego i nerwu językowo-gardłowego:",
+        "options": [
+            "A. Otwór rylcowo-sutkowy; otwór szyjny.",
+            "B. Oba wychodzą przez otwór szyjny.",
+            "C. Otwór rylcowo-sutkowy; otwór jarzmowo-twarzowy.",
+            "D. Otwór jarzmowo-twarzowy; dół łódkowaty.",
+            "E. Dół kłykciowy; kanał kłykciowy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerwem położonym najbardziej z tyłu w otworze szyjnym jest nerw:",
+        "options": [
+            "A. Twarzowy (VII).",
+            "B. Błędny (X).",
+            "C. Językowo-gardłowy (IX).",
+            "D. Dodatkowy (XI).",
+            "E. Podjęzykowy (XII)."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tętnica tarczowa górna i tętnica tarczowa dolna są gałęziami odpowiednio:",
+        "options": [
+            "A. Tętnicy szyjnej wewnętrznej i tętnicy podobojczykowej.",
+            "B. Tętnicy podobojczykowej i tętnicy szczękowej.",
+            "C. Tętnicy szyjnej zewnętrznej i tętnicy podobojczykowej.",
+            "D. Tętnicy twarzowej i tętnicy przedniej szyi.",
+            "E. Tętnicy szyjnej zewnętrznej i tętnicy twarzowej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pierwszy odcinek tętnicy podobojczykowej lewej rozciąga się od:",
+        "options": [
+            "A. Jej początku – łuku aorty do brzegu bocznego mięśnia pochyłego środkowego.",
+            "B. Jej początku - pnia ramienno-głowowego do bocznego brzegu I żebra.",
+            "C. Jej początku – łuku aorty do bocznego brzegu I żebra.",
+            "D. Jej początku - łuku aorty do brzegu przyśrodkowego mięśnia pochyłego przedniego.",
+            "E. Jej początku - pnia ramienno-głowowego do brzegu bocznego mięśnia pochyłego środkowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Do gałęzi skórnych splotu szyjnego nie należy/ą:",
+        "options": [
+            "A. Nerw potyliczny mniejszy.",
+            "B. Pętla szyjna.",
+            "C. Nerw uszny wielki.",
+            "D. Nerw poprzeczny szyi.",
+            "E. Nerwy nadłopatkowe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pień środkowy splotu ramiennego powstaje z:",
+        "options": [
+            "A. Gałęzi przednich nerwów C5 i C6.",
+            "B. Gałęzi tylnej nerwu C7.",
+            "C. Gałęzi tylnych nerwów C8 i Th1.",
+            "D. Gałęzi przednich nerwów C7, C8 i Th1.",
+            "E. Gałęzi przedniej nerwu C7."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Tętnica kręgowa, pierwsza gałąź tętnicy podobojczykowej, wstępuje do otworów wyrostków poprzecznych kręgów szyjnych, począwszy od kręgu:",
+        "options": [
+            "A. CVII.",
+            "B. CVI.",
+            "C. CV.",
+            "D. CIV.",
+            "E. CII."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "W obrębie powrózka naczyniowo-nerwowego szyi obok tętnicy szyjnej wspólnej i żyły szyjnej wewnętrznej znajduje/ą się:",
+        "options": [
+            "A. Nerw błędny.",
+            "B. Nerw językowo-gardłowy.",
+            "C. Nerwy krtaniowe wsteczne.",
+            "D. Pętla szyjna.",
+            "E. Część szyjna pnia współczulnego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Częścią zwoju gwiaździstego oprócz pierwszego zwoju współczulnego części piersiowej jest/są:",
+        "options": [
+            "A. Zwój szyjny górny.",
+            "B. Nerwy sercowe szyjne środkowe.",
+            "C. Zwój szyjny najniższy.",
+            "D. Nerwy sercowe dolne.",
+            "E. Zwój szyjny dolny."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Przewód piersiowy uchodzi do tzw. kąta żylnego, który utworzony jest przez:",
+        "options": [
+            "A. Żyłę główną górną i dolną.",
+            "B. Żyłę podobojczykową i żyłę szyjną wewnętrzną.",
+            "C. Żyłę szyjną zewnętrzną i wewnętrzną.",
+            "D. Żyłę szyjną wewnętrzną i pień ramienno-głowowy.",
+            "E. Żyłę ramienno-głowową i żyłę główną górną."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Węzły szyjne głębokie układają się wzdłuż:",
+        "options": [
+            "A. Tętnicy szyjnej wewnętrznej.",
+            "B. Nerwu błędnego.",
+            "C. Tętnicy szyjnej wspólnej.",
+            "D. Żyły szyjnej wewnętrznej.",
+            "E. Żyły szyjnej zewnętrznej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż nieprawidłowe twierdzenie. Limfadenopatia szyjna:",
+        "options": [
+            "A. Towarzyszy ostremu zapaleniu struktur szyi i głowy.",
+            "B. Może towarzyszyć chłoniakowi.",
+            "C. Może towarzyszyć zakażeniu wirusowemu, np. zakażeniu HIV.",
+            "D. Może towarzyszyć sarkoidozie.",
+            "E. Nigdy nie towarzyszy infekcji bakteryjnej toczącej się w obrębie szyi lub głowy."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wybierz stwierdzenie prawidłowo opisujące umocowanie kostne gardła.",
+        "options": [
+            "A. Drugi odcinek linii przyczepu bocznej ściany gardła jest związany z kością klinową.",
+            "B. Linia przyczepu gardła do podstawy czaszki na kości skroniowej przebiega bocznie od przyczepu dźwigacza podniebienia miękkiego.",
+            "C. Pierwszy odcinek linii przyczepu bocznej ściany gardła przebiega wzdłuż blaszki przyśrodkowej wyrostka skrzydłowatego.",
+            "D. Linia przyczepu bocznej ściany gardła kończy się na chrząstce tarczowatej krtani.",
+            "E. Wszystkie stwierdzenia są prawdziwe."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Szew skrzydłowo-podniebienny to:",
+        "options": [
+            "A. Typowy szew znajdujący się między blaszką przyśrodkową wyrostka skrzydłowatego i blaszką pionową kości podniebiennej.",
+            "B. Więzadło łączące haczyk skrzydłowy z wyrostkiem dziobiastym żuchwy.",
+            "C. Struktura łącznotkankowa łącząca kość podniebienną z wyrostkiem skrzydłowatym kości klinowej.",
+            "D. Struktura łącznotkankowa łącząca haczyk skrzydłowy ze zgrubieniem położonym do tyłu od trzeciego zęba trzonowego żuchwy.",
+            "E. Żadna z powyższych struktur."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Które stwierdzenie/-a prawidłowo opisuje/-ą mięśnie gardła?",
+        "options": [
+            "A. Mięśnie zwieracze przesuwają kęs pokarmowy i unoszą gardło podczas połykania.",
+            "B. Wszystkie mięśnie gardła, kurcząc się, przesuwają kęs pokarmowy.",
+            "C. Wszystkie mięśnie gardła unerwione są przez nerw błędny.",
+            "D. Zwieracze gardła mają wspólny przyczep tylny.",
+            "E. Wszystkie stwierdzenia prawidłowo opisują mięśnie gardła."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Który z poniższych mięśni unerwiony jest przez nerw językowo-gardłowy?",
+        "options": [
+            "A. Zwieracz dolny gardła.",
+            "B. Zwieracz górny gardła.",
+            "C. Mięsień rylcowo-gardłowy.",
+            "D. Mięsień trąbkowo-gardłowy.",
+            "E. Mięsień podniebienno-gardłowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Powięź gardłowa:",
+        "options": [
+            "A. Zbudowana jest z trzech warstw.",
+            "B. Jest delikatną powięziową strukturą niemającą znaczenia we wzmacnianiu ściany gardła.",
+            "C. Jej obecność jest szczególnie istotna powyżej zwieracza górnego gardła.",
+            "D. Swą grubą warstwą zwaną powięzią policzkowo-gardłową wyścieła powierzchnię wewnętrzną gardła.",
+            "E. W całości pochodzi od blaszki przedtchawiczej powięzi szyi."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerwy i naczynia krtaniowe górne przechodzą:",
+        "options": [
+            "A. Przez szczelinę powyżej zwieracza górnego gardła.",
+            "B. Przez szczelinę między zwieraczem górnym i środkowym gardła.",
+            "C. Przez szczelinę między zwieraczem środkowym i dolnym gardła.",
+            "D. Poniżej dolnego brzegu zwieracza dolnego gardła.",
+            "E. Przez kanał leżący w obrębie mięśnia zwieracza środkowego gardła."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Przez szczelinę leżącą poniżej zwieracza dolnego gardła wchodzi:",
+        "options": [
+            "A. Nerw krtaniowy dolny.",
+            "B. Nerw krtaniowy górny.",
+            "C. Nerw krtaniowy wsteczny.",
+            "D. Tętnica krtaniowa dolna.",
+            "E. C i D."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Do struktur części nosowej gardła nie należy:",
+        "options": [
+            "A. Wał trąbkowy.",
+            "B. Migdałek językowy.",
+            "C. Zachyłek gardłowy.",
+            "D. Fałd trąbkowo-gardłowy.",
+            "E. Migdałek gardłowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Migdałek gardłowy położony jest:",
+        "options": [
+            "A. Do tyłu od łuku podniebienno-językowego.",
+            "B. Do przodu od łuku podniebienno-językowego.",
+            "C. Na bocznej ścianie części nosowej gardła.",
+            "D. Ku tyłowi od wału trąbkowego.",
+            "E. Na górnej ścianie części nosowej gardła."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Ujście trąbki słuchowej leży:",
+        "options": [
+            "A. Na bocznej ścianie nosogardła.",
+            "B. W obrębie stropu nosogardła.",
+            "C. Na tylnej ścianie nosogardła.",
+            "D. Na bocznej ścianie części ustnej gardła.",
+            "E. Na tylnej ścianie części ustnej gardła."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Zachyłki gruszkowate:",
+        "options": [
+            "A. Leżą między nasadą języka a nagłośnią.",
+            "B. Znajdują się w części nosowej gardła.",
+            "C. Znajdują się w części ustnej gardła.",
+            "D. Znajdują się w części krtaniowej gardła.",
+            "E. Zawierają migdałek językowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Unaczynienie górnej części gardła pochodzi od wszystkich wymienionych tętnic, z wyjątkiem:",
+        "options": [
+            "A. Tętnicy twarzowej.",
+            "B. Tętnicy gardłowej wstępującej.",
+            "C. Tętnicy szczękowej.",
+            "D. Tętnicy szyjnej wewnętrznej.",
+            "E. Tętnicy językowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Unaczynienie dolnej części gardła pochodzi od:",
+        "options": [
+            "A. Tętnicy tarczowej dolnej.",
+            "B. Tętnicy tarczowej górnej.",
+            "C. Tętnicy gardłowej wstępującej.",
+            "D. Tętnicy językowej.",
+            "E. Wszystkich wymienionych."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Krew żylna z gardła odpływa:",
+        "options": [
+            "A. W całości do splotów żylnych leżących w kanale kręgowym.",
+            "B. Do splotu skrzydłowego w dole podskroniowym.",
+            "C. Bezpośrednio do żyły szyjnej zewnętrznej.",
+            "D. Do żyły twarzowej.",
+            "E. B i D."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Chłonka odpływa z gardła do wszystkich wymienionych węzłów, z wyjątkiem:",
+        "options": [
+            "A. Węzłów zagardłowych.",
+            "B. Węzłów podgnykowych.",
+            "C. Węzłów okołotchawiczych.",
+            "D. Węzłów szyjno-dwubrzuścowych.",
+            "E. Węzłów podobojczykowych."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Główne naczynie/-a zaopatrujące migdałek podniebienny to:",
+        "options": [
+            "A. Gałąź migdałkowa tętnicy szyjnej zewnętrznej.",
+            "B. Gałązki odchodzące bezpośrednio od tętnicy szyjnej wewnętrznej.",
+            "C. Gałąź migdałkowa tętnicy twarzowej.",
+            "D. Gałąź tętnicy gardłowej wstępującej.",
+            "E. Gałąź migdałkowa tętnicy szczękowej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "U pacjenta po otwarciu jamy ustnej widoczny/-e jest/są:",
+        "options": [
+            "A. Migdałek językowy.",
+            "B. Migdałki podniebienne.",
+            "C. Migdałek gardłowy.",
+            "D. Skupiska tkanki limfatycznej w okolicy ujścia trąbki słuchowej.",
+            "E. Wszystkie wymienione."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gałęzie nerwu błędnego i nerwu językowo-gardłowego tworzą splot położony:",
+        "options": [
+            "A. W obrębie mięśni zwieraczy gardła.",
+            "B. Pod błoną śluzową gardła.",
+            "C. W wewnętrznej warstwie powięzi gardłowej.",
+            "D. W zewnętrznej warstwie powięzi gardłowej.",
+            "E. W tkance łącznej przestrzeni zagardłowej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Włókna nerwu językowo-gardłowego:",
+        "options": [
+            "A. Zaopatrują czuciowo ustną część gardła.",
+            "B. Unerwiają migdałek podniebienny.",
+            "C. Unerwiają mięsień rylcowo-gnykowy.",
+            "D. Stanowią ramię dośrodkowe odruchu wymiotnego.",
+            "E. Wszystkie powyższe są prawdziwe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nosowa część gardła zaopatrywana jest przez:",
+        "options": [
+            "A. Gałęzie splotu gardłowego.",
+            "B. Gałęzie nerwu szczękowego.",
+            "C. Nerw krtaniowy wsteczny.",
+            "D. Gałąź zewnętrzną nerwu krtaniowego górnego.",
+            "E. Żadną z powyższych struktur."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Najniżej położoną/ymi chrząstką/ami krtani jest/są chrząstka/i:",
+        "options": [
+            "A. Tarczowata.",
+            "B. Nagłośniowa.",
+            "C. Pierścieniowata.",
+            "D. Nalewkowate.",
+            "E. Klinowate."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Więzadło tarczowo-gnykowe boczne łączy tylny koniec rogu większego kości gnykowej z:",
+        "options": [
+            "A. Rogiem dolnym chrząstki tarczowatej.",
+            "B. Wcięciem tarczowym górnym.",
+            "C. Wyniosłością krtaniową.",
+            "D. Guzkiem tarczowym górnym.",
+            "E. Rogiem górnym chrząstki tarczowatej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Dołek trójkątny i dołek podłużny występują na chrząstce:",
+        "options": [
+            "A. Klinowatej.",
+            "B. Nalewkowatej.",
+            "C. Nagłośniowej.",
+            "D. Różkowatej.",
+            "E. Tarczowatej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wskaż strukturę na chrząstce nalewkowatej, która służy za miejsce przyczepu mięśnia pierścienno-nalewkowatego tylnego i bocznego.",
+        "options": [
+            "A. Dołek trójkątny.",
+            "B. Wyrostek głosowy.",
+            "C. Dołek podłużny.",
+            "D. Wyrostek mięśniowy.",
+            "E. Wierzchołek chrząstki."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Zgrubienie błony tarczowo-gnykowej w linii pośrodkowej wytwarza:",
+        "options": [
+            "A. Więzadło tarczowo-gnykowe boczne.",
+            "B. Więzadło gnykowo-nagłośniowe.",
+            "C. Więzadło głosowe.",
+            "D. Więzadło tarczowo-gnykowe przednie.",
+            "E. Fałd głosowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chrząstka ziarnowata jest niestałym elementem występującym w więzadle/łach:",
+        "options": [
+            "A. Tarczowo-gnykowym środkowym.",
+            "B. Pierścienno-tchawiczym.",
+            "C. Tarczowo-gnykowych bocznych.",
+            "D. Gnykowo-nagłośniowym.",
+            "E. Głosowym."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "W przypadku wykonania konikotomii przecina się więzadło:",
+        "options": [
+            "A. Tarczowo-gnykowe przednie.",
+            "B. Pierścienno-tchawicze.",
+            "C. Gnykowo-nagłośniowe.",
+            "D. Pierścienno-tarczowe.",
+            "E. Tarczowo-gnykowe boczne."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Podłoże dla fałdu przedsionkowego stanowi:",
+        "options": [
+            "A. Fałd głosowy.",
+            "B. Więzadło przedsionkowe.",
+            "C. Wolny brzeg stożka sprężystego.",
+            "D. Więzadło głosowe.",
+            "E. Fałd międzynalewkowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Boczna krawędź otworu górnego jamy krtani utworzona jest przez:",
+        "options": [
+            "A. Fałd głosowy.",
+            "B. Fałd przedsionkowy.",
+            "C. Fałd nalewkowo-nagłośniowy.",
+            "D. Fałd międzynalewkowy.",
+            "E. Kieszonkę krtaniową."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Między fałdami przedsionkowymi a fałdami głosowymi znajduje się:",
+        "options": [
+            "A. Przedsionek krtani.",
+            "B. Jama podgłośniowa.",
+            "C. Dolny otwór jamy krtani.",
+            "D. Wejście do krtani.",
+            "E. Jama pośrednia krtani."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż błędne twierdzenie dotyczące woreczka krtaniowego:",
+        "options": [
+            "A. Znajduje się w jamie pośredniej krtani.",
+            "B. W jego ścianie znajdują się gruczoły śluzowe.",
+            "C. Może sięgać do górnej krawędzi chrząstki tarczowatej.",
+            "D. Jest wydłużoną wypustką kieszonki krtaniowej położonej poniżej fałdów głosowych.",
+            "E. Wydzielina gruczołów śluzowych znajdujących się w jego ścianie zwilża fałdy głosowe."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż mięśnie, które jako jedyne spośród mięśni właściwych krtani są unerwione ruchowo przez gałąź nerwu błędnego (X) - nerw krtaniowy górny:",
+        "options": [
+            "A. Mięśnie pierścienno-nalewkowe tylne.",
+            "B. Mięśnie pierścienno-tarczowe.",
+            "C. Mięśnie pierścienno-nalewkowe boczne.",
+            "D. Mięśnie nalewkowe skośne.",
+            "E. Mięśnie tarczowo-nalewkowe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Który z poniższych mięśni jako jedyny odwodzi fałdy głosowe?",
+        "options": [
+            "A. Mięsień pierścienno-tarczowy.",
+            "B. Mięsień nalewkowy poprzeczny.",
+            "C. Mięsień pierścienno-nalewkowy boczny.",
+            "D. Mięsień pierścienno-nalewkowy tylny.",
+            "E. Mięsień głosowy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Za regulację napięcia fałdów głosowych odpowiedzialny jest mięsień:",
+        "options": [
+            "A. Głosowy.",
+            "B. Tarczowo-nalewkowy.",
+            "C. Nalewkowy poprzeczny.",
+            "D. Pierścienno-tarczowy.",
+            "E. Nalewkowy skośny."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Podczas połykania:",
+        "options": [
+            "A. Szpara głośni pozostaje otwarta.",
+            "B. Szpara przedsionka jest otwarta.",
+            "C. Szpara głośni zostaje zamknięta.",
+            "D. Wejście do krtani jest szerokie.",
+            "E. Krtań przesuwa się ku dołowi i do tyłu."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tętnica krtaniowa górna jest gałęzią tętnicy:",
+        "options": [
+            "A. Szyjnej wewnętrznej.",
+            "B. Tarczowej górnej.",
+            "C. Szyjnej wspólnej.",
+            "D. Tarczowej dolnej.",
+            "E. Twarzowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Żyły krtaniowe dolne prowadzą krew do żyły ramienno-głowowej lewej poprzez żyły/ę:",
+        "options": [
+            "A. Tarczowe górne.",
+            "B. Szyjną wewnętrzną.",
+            "C. Tarczowe dolne.",
+            "D. Zażuchwową.",
+            "E. Szczękową."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Naczynia chłonne drenujące krtań odprowadzają chłonkę do węzłów chłonnych:",
+        "options": [
+            "A. Mostkowych.",
+            "B. Nadobojczykowych.",
+            "C. Zamostkowych.",
+            "D. Pachowych szczytowych.",
+            "E. Szyjnych głębokich."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nerw krtaniowy górny i nerw krtaniowy wsteczny to gałęzie nerwu:",
+        "options": [
+            "A. Przeponowego.",
+            "B. Błędnego (X).",
+            "C. Twarzowego (VII).",
+            "D. Językowo-gardłowego (IX).",
+            "E. Dodatkowego (XII)."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nerw krtaniowy wsteczny prowadzi włókna ruchowe dla wszystkich mięśni właściwych krtani, z wyjątkiem mięśnia:",
+        "options": [
+            "A. Głosowego.",
+            "B. Nalewkowego skośnego.",
+            "C. Nalewkowego poprzecznego.",
+            "D. Pierścienno-tarczowego.",
+            "E. Pierścienno-nalewkowego tylnego."
+        ],
+        "answer": 3
+    }
+],
+    "Jama Nosowa, Jama Ustna": [
+    {
+        "question": "Okolica węchowa jamy nosowej znajduje się na ścianie:",
+        "options": [
+            "A. Dolnej.",
+            "B. Przedniej.",
+            "C. Górnej.",
+            "D. Przyśrodkowej.",
+            "E. Bocznej."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Do kości tworzących szkielet jamy nosowej nie należy:",
+        "options": [
+            "A. Kość czołowa.",
+            "B. Lemiesz.",
+            "C. Kość podniebienna.",
+            "D. Kość jarzmowa.",
+            "E. Kość łzowa."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Najbardziej bocznie położoną częścią kości sitowej jest:",
+        "options": [
+            "A. Blaszka pionowa.",
+            "B. Grzebień koguci.",
+            "C. Małżowina nosowa środkowa.",
+            "D. Małżowina nosowa górna.",
+            "E. Blaszka oczodołowa."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Lejek sitowy zwęża się ku górze, tworząc:",
+        "options": [
+            "A. Przewód czołowo-nosowy.",
+            "B. Przewód nosowy środkowy.",
+            "C. Przewód nosowo-łzowy.",
+            "D. Przewód sitowy.",
+            "E. Przewód nosowy wspólny."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Blaszka pionowa kości sitowej nie łączy się z:",
+        "options": [
+            "A. Grzebieniem klinowym kości klinowej.",
+            "B. Kolcem nosowym kości czołowej.",
+            "C. Kośćmi nosowymi.",
+            "D. Kością szczękową.",
+            "E. Lemieszem."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kostne struktury nosa zewnętrznego są utworzone przez kości:",
+        "options": [
+            "A. Nosowe, szczękowe, czołowe.",
+            "B. Nosowe, jarzmowe, sitowe.",
+            "C. Szczękowe, jarzmowe, klinowe.",
+            "D. Sitowe, jarzmowe, klinowe.",
+            "E. Nosowe, szczękowe, jarzmowe."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "W unerwieniu jamy nosowej nie bierze udziału nerw:",
+        "options": [
+            "A. I.",
+            "B. V1.",
+            "C. V2.",
+            "D. V3.",
+            "E. VII."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Zatoki czołowe są zaopatrywane przez:",
+        "options": [
+            "A. Tętnice czołowe górne.",
+            "B. Tętnice sitowe przednie.",
+            "C. Tętnice podniebienne przednie.",
+            "D. Tętnice nosowe przednie.",
+            "E. Tętnice nosowe przyśrodkowe."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Komórkami sitowymi uchodzącymi do puszki sitowej są:",
+        "options": [
+            "A. Komórki sitowe przednie.",
+            "B. Komórki sitowe tylne.",
+            "C. Komórki sitowe środkowe.",
+            "D. Komórki sitowe górne.",
+            "E. Komórki sitowe przyśrodkowe."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Zatoki szczękowe są unerwione przez:",
+        "options": [
+            "A. Nerw sitowy tylny i nerwy zębodołowe dolne.",
+            "B. Nerw czołowy i nerwy żuchwowe górne.",
+            "C. Nerw klinowo-podniebienny.",
+            "D. Nerw podoczodołowy i nerwy zębodołowe górne.",
+            "E. Wszystkie powyższe."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Dno jamy nosowej jest utworzone przez kości:",
+        "options": [
+            "A. Szczękowe i żuchwowe.",
+            "B. Szczękowe i podniebienne.",
+            "C. Klinowe i żuchwowe.",
+            "D. Sitowe.",
+            "E. Żuchwowe i podniebienne."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ściana boczna jamy nosowej nie jest utworzona przez:",
+        "options": [
+            "A. Kość łzową.",
+            "B. Kość szczękową.",
+            "C. Kość sitową.",
+            "D. Lemiesz.",
+            "E. Kość klinową."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Która z zatok przynosowych nie otwiera się na ścianie bocznej jamy nosowej?",
+        "options": [
+            "A. Zatoka szczękowa.",
+            "B. Zatoka czołowa.",
+            "C. Komórki sitowe tylne.",
+            "D. Komórki sitowe przednie.",
+            "E. Zatoka klinowa."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Przewody nosowo-łzowe uchodzą do:",
+        "options": [
+            "A. Przewodu nosowego dolnego.",
+            "B. Puszki sitowej.",
+            "C. Przewodu nosowego środkowego.",
+            "D. Przewodu nosowego górnego.",
+            "E. Komórek sitowych środkowych."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nozdrza tylne leżą między:",
+        "options": [
+            "A. Przedsionkiem jamy nosowej a przewodem nosowym wspólnym.",
+            "B. Rozworem półksiężycowatym a małżowiną nosową środkową.",
+            "C. Jamą nosową a nosogardłem.",
+            "D. Nosogardłem a ustną częścią gardła.",
+            "E. Nagłośnią a ustną częścią gardła."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mięśniami rozszerzającymi nozdrza przednie są:",
+        "options": [
+            "A. Mięsień nosowy.",
+            "B. Mięsień obniżacz przegrody nosa.",
+            "C. Mięsień dźwigacz wargi górnej i skrzydła nosa.",
+            "D. Niektóre z mięśni wyrazowych twarzy.",
+            "E. Wszystkie powyższe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Otwór klinowo-podniebienny tworzy/tworzą:",
+        "options": [
+            "A. Wcięcie podniebienne kości klinowej.",
+            "B. Wcięcie klinowe kości podniebiennej.",
+            "C. Wcięcie klinowe kości podniebiennej i wcięcie podniebienne kości klinowej.",
+            "D. Wcięcie podniebienno-klinowe kości klinowej i trzon kości podniebiennej.",
+            "E. Wcięcie klinowo-podniebienne kości podniebiennej i trzon kości klinowej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Przez otwór klinowo-podniebienny nie przechodzi:",
+        "options": [
+            "A. Nervus nasopalatinus.",
+            "B. Tętnica klinowo-podniebienna.",
+            "C. Gałęzie nosowe górne nerwu żuchwowego.",
+            "D. Nerw nosowo-podniebienny.",
+            "E. Arteria sphenopalatina."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Otwór klinowo-podniebienny łączy jamę nosową z:",
+        "options": [
+            "A. Dołem skrzydłowo-podniebiennym.",
+            "B. Jamą ustną.",
+            "C. Zatoką szczękową.",
+            "D. Dołem środkowym czaszki.",
+            "E. Dołem przednim czaszki."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Przez canalis incisivus przechodzi/przechodzą:",
+        "options": [
+            "A. Tętnica twarzowa.",
+            "B. Gałęzie nosowe tylne nerwu szczękowego.",
+            "C. Nerwy zębodołowe górny i dolny.",
+            "D. Nerw nosowo-podniebienny i tętnica podniebienna większa.",
+            "E. Żyła twarzowa."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Która z niżej wymienionych tętnic zaopatrujących ściany jamy nosowej nie pochodzi od tętnicy szyjnej zewnętrznej:",
+        "options": [
+            "A. Tętnica klinowo-podniebienna.",
+            "B. Tętnica podniebienna większa.",
+            "C. Tętnica wargowa górna.",
+            "D. Tętnica kątowa.",
+            "E. Tętnica sitowa przednia."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Największą tętnicą zaopatrującą jamę nosową jest:",
+        "options": [
+            "A. Tętnica klinowo-podniebienna.",
+            "B. Tętnica podniebienna większa.",
+            "C. Tętnica wargowa górna.",
+            "D. Tętnica kątowa.",
+            "E. Tętnica sitowa przednia."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tętnice sitowe przednia i tylna są gałęziami:",
+        "options": [
+            "A. Tętnicy twarzowej.",
+            "B. Tętnicy ocznej.",
+            "C. Tętnicy czołowej.",
+            "D. Tętnicy szczękowej.",
+            "E. Tętnicy szyjnej zewnętrznej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wybierz prawidłowe stwierdzenie dotyczące tętnicy kątowej:",
+        "options": [
+            "A. Oddaje gałęzie skrzydłowe.",
+            "B. Jest gałęzią tętnicy twarzowej.",
+            "C. Rozpoczyna się w okolicy brzegu nosa zewnętrznego.",
+            "D. Zaopatruje przedsionek nosa.",
+            "E. Wszystkie powyższe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Krew żylna z jamy nosowej odpływa do:",
+        "options": [
+            "A. Splotu skrzydłowego i żyły twarzowej.",
+            "B. Żyły podniebiennej tylnej.",
+            "C. Żyły czołowej.",
+            "D. Splotu gardłowego.",
+            "E. Żyły szyjnej wewnętrznej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerwy sitowe: przedni i tylny odchodzą od:",
+        "options": [
+            "A. Nerwu jarzmowego.",
+            "B. Nerwu węchowego.",
+            "C. Nerwu nosowo-rzęskowego.",
+            "D. Nerwu policzkowego.",
+            "E. Nerwu zębodołowego górnego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Jama nosowa jest unerwiana przez liczne gałęzie odchodzące od nerwu szczękowego (V2). Należą do nich wszystkie niżej wymienione, z wyjątkiem:",
+        "options": [
+            "A. Nerwu nosowo-podniebiennego.",
+            "B. Gałęzi nosowych tylnych górnych.",
+            "C. Nerwu nosowo-rzęskowego.",
+            "D. Gałęzi nosowych tylnych dolnych.",
+            "E. Gałęzi nosowej nerwu zębodołowego górnego przedniego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gałąź nosowa zewnętrzna, unerwiająca skórę okolicy nozdrzy przednich, odchodzi od:",
+        "options": [
+            "A. Nerwu twarzowego.",
+            "B. Nerwu policzkowego.",
+            "C. Nerwu zębodołowego dolnego.",
+            "D. Nerwu sitowego przedniego.",
+            "E. Nerwu węchowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Zazwojowe włókna przywspółczulne ze zwoju skrzydłowo-podniebiennego, unerwiające jamę nosową, biegną w obrębie gałęzi:",
+        "options": [
+            "A. Nerwu szczękowego.",
+            "B. Nerwu czołowego.",
+            "C. Nerwu podniebiennego tylnego.",
+            "D. Nerwu nosowo-rzęskowego.",
+            "E. Nerwu zębodołowego dolnego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nerwem prowadzącym włókna współczulne zaopatrujące jamę nosową jest:",
+        "options": [
+            "A. Nerw skalisty większy.",
+            "B. Nerw skalisty głęboki.",
+            "C. Nerw potyliczny.",
+            "D. Nerw podniebienny wielki.",
+            "E. Nerw klinowo-skrzydłowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ta część jamy ustnej zawarta jest między zębami a wewnętrzną powierzchnią policzków i wargami. Mowa o:",
+        "options": [
+            "A. Szparze ust.",
+            "B. Podniebieniu twardym.",
+            "C. Jamie ustnej właściwej.",
+            "D. Cieśni gardzieli.",
+            "E. Przedsionku jamy ustnej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Mięśnie języka unerwione są przez nerw:",
+        "options": [
+            "A. Podjęzykowy i dodatkowy.",
+            "B. Podjęzykowy.",
+            "C. Błędny i podjęzykowy.",
+            "D. Twarzowy.",
+            "E. Szczękowy i żuchwowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "W miejscu, gdzie łączą się blaszki poziome kości podniebiennej w linii pośrodkowej, powstaje:",
+        "options": [
+            "A. Kolec nosowy tylny.",
+            "B. Guzek podniebienia twardego.",
+            "C. Kolec podniebienny tylny.",
+            "D. Kolec nosowo-podniebienny tylny.",
+            "E. Guzek podniebienny tylny."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Fossa scaphoidea na blaszce przyśrodkowej wyrostka skrzydłowatego służy za przyczep:",
+        "options": [
+            "A. Mięśnia dźwigacza podniebienia miękkiego.",
+            "B. Mięśnia podniebienno-gardłowego.",
+            "C. Mięśnia języczka.",
+            "D. Mięśnia napinacza podniebienia miękkiego.",
+            "E. Rozcięgna podniebiennego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż miejsce, gdzie znajduje się trójkąt zatrzonowy:",
+        "options": [
+            "A. Trzon kości gnykowej.",
+            "B. Powierzchnia górnego brzegu żuchwy.",
+            "C. Blaszka przyśrodkowa wyrostka skrzydłowatego kości klinowej.",
+            "D. W dołku podżuchwowym żuchwy.",
+            "E. Blaszka pozioma kości podniebiennej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nerw żuchwowo-gnykowy zaopatrujący mięsień dna jamy ustnej o tej samej nazwie jest gałęzią:",
+        "options": [
+            "A. Nerwu szczękowego V2.",
+            "B. Nerwu twarzowego (VII).",
+            "C. Nerwu zębodołowego dolnego.",
+            "D. Nerwu podjęzykowego (XII).",
+            "E. Nerwu zębodołowego górnego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wskaż miejsce, w którym w życiu płodowym rozpoczyna się rozwój gruczołu tarczowego:",
+        "options": [
+            "A. Radix linguae.",
+            "B. Sulcus terminalis.",
+            "C. Apex linguae.",
+            "D. Foramen caecum.",
+            "E. Plica fimbriata."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ku przodowi od bruzdy granicznej języka zlokalizowane są:",
+        "options": [
+            "A. Brodawki nitkowate.",
+            "B. Brodawki okolone.",
+            "C. Brodawki grzybowate.",
+            "D. Brodawki strzępiaste.",
+            "E. Brodawki liściaste."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wskaż mięsień języka, który jako jedyny nie jest unerwiony przez nerw podjęzykowy (XII):",
+        "options": [
+            "A. Mięsień rylcowo-językowy.",
+            "B. Mięsień pionowy języka.",
+            "C. Mięsień bródkowo-językowy.",
+            "D. Mięsień podłużny górny.",
+            "E. Mięsień podniebienno-językowy."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Który z mięśni języka jest ważnym punktem orientacyjnym przy określaniu topografii tętnicy językowej oraz nerwów podjęzykowego i językowego?",
+        "options": [
+            "A. Mięsień podniebienno-językowy.",
+            "B. Mięsień rylcowo-językowy.",
+            "C. Mięsień pionowy języka.",
+            "D. Mięsień gnykowo-językowy.",
+            "E. Mięsień poprzeczny języka."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż, który nerw jest odpowiedzialny za czucie smaku odpowiednio w przednich 2/3 i tylnej 1/3 języka:",
+        "options": [
+            "A. Nerw błędny, nerw językowo-gardłowy.",
+            "B. Nerw językowy od nerwu żuchwowego, struna bębenkowa od nerwu twarzowego.",
+            "C. Struna bębenkowa od nerwu twarzowego, nerw językowo-gardłowy.",
+            "D. Nerw podjęzykowy, nerw językowo-gardłowy.",
+            "E. Struna bębenkowa od nerwu twarzowego, nerw językowy od nerwu żuchwowego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerw językowy, gałąź nerwu żuchwowego (V3) można wyczuć palpacyjnie w jamie ustnej, dociskając go palcem do kości na wysokości:",
+        "options": [
+            "A. Ostatniego zęba trzonowego dolnego.",
+            "B. Rogów górnych kości gnykowej.",
+            "C. Pierwszego zęba trzonowego górnego.",
+            "D. Szwu podniebienia.",
+            "E. Siekacza górnego prawego lub lewego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Przewód ślinianki podżuchwowej uchodzi:",
+        "options": [
+            "A. Na fałdzie podjęzykowym.",
+            "B. W dołku podjęzykowym.",
+            "C. Na brodawce na wysokości pierwszego dolnego zęba trzonowego.",
+            "D. Na szczycie mięska podjęzykowego.",
+            "E. Na wędzidełku języka."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Gruczoły jamy ustnej zlokalizowane powyżej poziomu szpary ust otrzymują włókna przywspółczulne od:",
+        "options": [
+            "A. Struny bębenkowej.",
+            "B. Nerwu trójdzielnego (V).",
+            "C. Nerwu skalistego większego.",
+            "D. Nerwu podjęzykowego (XII).",
+            "E. Nerwu skalistego mniejszego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "W tylnej 1/4 powierzchnia podniebienia twardego utworzona jest przez:",
+        "options": [
+            "A. Wyrostki podniebienne obu szczęk.",
+            "B. Blaszki pionowe obu kości podniebiennych.",
+            "C. Wyrostki haczykowate kości podniebiennych.",
+            "D. Blaszki poziome obu kości podniebiennych.",
+            "E. Wyrostki poziome obu szczęk."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Szew podniebienia kończy się z przodu:",
+        "options": [
+            "A. Brodawką przysieczną.",
+            "B. Otworem ślepym.",
+            "C. Brodawką podniebienną większą.",
+            "D. Wędzidełkiem podniebienia.",
+            "E. Brodawką podniebienną mniejszą."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wskaż mięsień podniebienia miękkiego, który nie jest zaopatrywany przez nerw błędny:",
+        "options": [
+            "A. Mięsień języczka.",
+            "B. Mięsień napinacz podniebienia miękkiego.",
+            "C. Mięsień dźwigacz podniebienia miękkiego.",
+            "D. Miesień podniebienno-językowy.",
+            "E. Mięsień podniebienno-gardłowy."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Podczas badania klinicznego mięśni podniebienia miękkiego pacjent wypowiada głoskę „a\" lub  e\". Zauważasz, że podniebienie zbacza na stronę prawą. Może to świadczyć o:",
+        "options": [
+            "A. Uszkodzeniu rozcięgna podniebiennego.",
+            "B. Infekcji wirusowej gardła.",
+            "C. Zaburzeniu funkcji mięśnia dźwigacza podniebienia miękkiego prawego.",
+            "D. Uszkodzeniu nerwu żuchwowego prawego.",
+            "E. Uszkodzeniu łuku podniebienno-gardłowego lewego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tętnica podniebienna mniejsza jest gałęzią tętnicy:",
+        "options": [
+            "A. Podniebiennej wstępującej.",
+            "B. Twarzowej.",
+            "C. Podniebiennej zstępującej.",
+            "D. Gardłowej.",
+            "E. Podniebiennej większej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nerw nosowo-podniebienny z jamy nosowej wchodzí na dolną powierzchnię podniebienia twardego przez:",
+        "options": [
+            "A. Kanał podniebienny większy.",
+            "B. Otwór podniebienny mniejszy.",
+            "C. Kanał przysieczny.",
+            "D. Kanał nosowo-podniebienny.",
+            "E. Kanał podniebienny mniejszy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Boczne ograniczenie cieśni gardzieli jest utworzone przez:",
+        "options": [
+            "A. Podniebienie miękkie.",
+            "B. Łuki podniebienno-gardłowe.",
+            "C. Nasadę języka.",
+            "D. Bruzdę graniczną języka.",
+            "E. Łuki podniebienno-językowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż prawidłową liczbę zębów stałych, kolejno: siekaczy, kłów, przedtrzonowców i trzonowców, w jednej połowie szczęki lub żuchwy:",
+        "options": [
+            "A. 2; 2; 1; 3.",
+            "B. 2; 1; 3.",
+            "C. 1; 2; 2; 3.",
+            "D. 2; 1; 2; 3.",
+            "E. 2; 1; 2."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Uzębienie mleczne różni się od uzębienia stałego:",
+        "options": [
+            "A. Brakiem jednego siekacza.",
+            "B. Brakiem zębów przedtrzonowych.",
+            "C. Dodatkowym kłem.",
+            "D. Liczbą korzeni zębów przedtrzonowych.",
+            "E. Występowaniem tylko jednego siekacza."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gałęzie sieczne i tętnica bródkowa odchodzą od tętnicy zębodołowej dolnej w kanale żuchwy na wysokości:",
+        "options": [
+            "A. Pierwszego zęba przedtrzonowego.",
+            "B. Drugiego zęba trzonowego.",
+            "C. Drugiego siekacza.",
+            "D. Kła.",
+            "E. Pierwszego zęba siecznego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Gałęzią tętnicy podoczodołowej jest tętnica:",
+        "options": [
+            "A. Zębodołowa dolna przednia.",
+            "B. Zębodołowa górna tylna.",
+            "C. Zębodołowa dolna tylna.",
+            "D. Zębodołowa górna przednia.",
+            "E. Tętnica podoczodołowa nie oddaje tętnic zębodołowych."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Proces zapalny toczący się w obrębie zębów może się szerzyć do jamy czaszki w związku ze spływem krwi żylnej z zębów do:",
+        "options": [
+            "A. Żyły twarzowej.",
+            "B. Splotu skrzydłowego.",
+            "C. Żyły szczękowej.",
+            "D. Żyły szyjnej zewnętrznej.",
+            "E. Żyły zażuchwowej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wskaż nieprawidłowe stwierdzenie dotyczące gałęzi siecznej:",
+        "options": [
+            "A. Odchodzi od nerwu zębodołowego dolnego.",
+            "B. Unerwia kieł.",
+            "C. Unerwia oba zęby przedtrzonowe.",
+            "D. Unerwia siekacze.",
+            "E. Unerwia pierwszy ząb przedtrzonowy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "W splocie zębodołowym górnym łączą się gałęzie nerwów:",
+        "options": [
+            "A. Zębodołowych górnych przedniego i środkowego.",
+            "B. Zębodołowych górnego i dolnego.",
+            "C. Zębodołowych górnych i twarzowego.",
+            "D. Zębodołowych górnych przedniego, środkowego i tylnego.",
+            "E. Zębodołowych górnych przedniego i tylnego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż nerw/y, który/e zaopatruje/ą dziąsła górne po stronie podniebiennej:",
+        "options": [
+            "A. Nerw zębodołowy górny przedni i tylny.",
+            "B. Nerw podniebienny większy i mniejszy.",
+            "C. Nerw nosowo-podniebienny i podniebienny większy.",
+            "D. Nerwy zębodołowe górne i podniebienne większy i mniejszy.",
+            "E. Wszystkie nerwy zębodołowe górne."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Dziąsła dolne po stronie policzkowej unerwione są przez nerw/y:",
+        "options": [
+            "A. Zębodołowe dolne i policzkowy.",
+            "B. Policzkowy i językowy.",
+            "C. Zębodołowe dolne.",
+            "D. Podniebienny większy i bródkowy.",
+            "E. Bródkowy i policzkowy."
+        ],
+        "answer": 4
+    }
+],
+    "Anatomia Powierzchniowa i Przypadki Kliniczne": [
+    {
+        "question": "Jeżeli głowa ustawiona jest w płaszczyźnie frankfurckiej, oznacza to, że jest ustawiona:",
+        "options": [
+            "A. W odchyleniu.",
+            "B. W zgięciu, broda sięga do mostka.",
+            "C. W zgięciu bocznym w lewo bądź w prawo.",
+            "D. W pozycji anatomicznej.",
+            "E. Taka płaszczyzna nie występuje."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż, która z poniższych struktur nie może być palpacyjnie oceniona:",
+        "options": [
+            "A. Głowa żuchwy.",
+            "B. Łuk jarzmowy.",
+            "C. Wyrostek sutkowaty.",
+            "D. Guzowatość potyliczna zewnętrzna.",
+            "E. Wyrostek rylcowaty."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Punkt, który wyznacza powierzchowną granicę między głową a okolicą karkową, to:",
+        "options": [
+            "A. Guzowatość potyliczna zewnętrzna.",
+            "B. VII kręg szyjny.",
+            "C. Wyrostek kolczysty trzeciego kręgu szyjnego.",
+            "D. Wyrostek sutkowaty.",
+            "E. Vertex."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Podział tętnicy szyjnej wspólnej na tętnice szyjne wewnętrzną i zewnętrzną następuje na poziomie:",
+        "options": [
+            "A. Wyrostka kolczystego VII kręgu szyjnego.",
+            "B. Trzonu kręgu CV.",
+            "C. Krążka międzykręgowego CIII/CIV.",
+            "D. Trzonu kręgu CVI.",
+            "E. Krążka międzykręgowego CI/CII."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Krtań przechodzi w tchawicę na poziomie:",
+        "options": [
+            "A. Wyrostka kolczystego VII kręgu szyjnego.",
+            "B. Kręgu CVI.",
+            "C. Krążka międzykręgowego CI/CII.",
+            "D. Trzonu kręgu CIII.",
+            "E. Krążka międzykręgowego CIII/CIV."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Przejście gardła w przełyk leży na poziomie:",
+        "options": [
+            "A. Kręgu CIV.",
+            "B. Dolnego brzegu chrząstki tarczowatej.",
+            "C. Podziału tętnicy szyjnej wspólnej.",
+            "D. Kręgu CVI.",
+            "E. Pierwszej chrząstki tchawiczej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Brzeg boczny trójkąta przedniego szyi utworzony jest przez:",
+        "options": [
+            "A. Dolny brzeg żuchwy.",
+            "B. Linię pośrodkową szyi.",
+            "C. Brzeg tylny mięśnia mostkowo-obojczykowo-sutkowego.",
+            "D. Brzeg górny obojczyka.",
+            "E. Brzeg przedni mięśnia mostkowo-obojczykowo-sutkowego."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Podstawa trójkąta bocznego szyi jest utworzona przez:",
+        "options": [
+            "A. 1/3 środkową część obojczyka.",
+            "B. Dolny brzeg żuchwy.",
+            "C. Cały obojczyk.",
+            "D. Linię pośrodkową szyi.",
+            "E. Brzeg mięśnia czworobocznego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Zagłębienie, które można wyczuć w okolicy między dolnym brzegiem chrząstki tarczowatej a łukiem chrząstki pierścieniowatej, wyznacza położenie:",
+        "options": [
+            "A. Więzadła głosowego.",
+            "B. Więzadła pierścienno-tarczowego.",
+            "C. Więzadła nalewkowego skośnego.",
+            "D. Więzadła pierścienno-tchawiczego.",
+            "E. Więzadła gnykowo-nagłośniowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Uraz bocznej części głowy między górną częścią ucha zewnętrznego a punktem pterion może doprowadzić do:",
+        "options": [
+            "A. Krwotoku nadtwardówkowego.",
+            "B. Rozdarcia opony miękkiej.",
+            "C. Krwiaka podtwardówkowego.",
+            "D. Urazu tętnicy środkowej mózgu.",
+            "E. Urazu zatoki strzałkowej dolnej."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Między wargą górną a wargą dolną znajduje się:",
+        "options": [
+            "A. Jama ustna.",
+            "B. Przedsionek ust.",
+            "C. Szpara ust.",
+            "D. Przestrzeń wargowa.",
+            "E. Kąt ust."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bruzda przebiegająca pionowo między nosem zewnętrznym a górną wargą to:",
+        "options": [
+            "A. Szpara nosowa.",
+            "B. Bruzda nosowa.",
+            "C. Bruzda nadwargowa.",
+            "D. Rynienka podnosowa.",
+            "E. Rynienka nadwargowa."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Poprzez dotknięcie czoła pacjenta można ocenić funkcję nerwu:",
+        "options": [
+            "A. Ocznego (V1).",
+            "B. Szczękowego (V2).",
+            "C. Twarzowego (VII).",
+            "D. Żuchwowego (V3).",
+            "E. Nadbloczkowego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Poprzez dotknięcie policzka pacjenta można ocenić funkcję nerwu:",
+        "options": [
+            "A. Ocznego (V1).",
+            "B. Szczękowego (V2).",
+            "C. Twarzowego (VII).",
+            "D. Żuchwowego (V3).",
+            "E. Nadbloczkowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Poprzez dotknięcie przedniej powierzchni gałęzi żuchwy można ocenić funkcję nerwu:",
+        "options": [
+            "A. Ocznego (V1).",
+            "B. Szczękowego (V2).",
+            "C. Twarzowego (VII).",
+            "D. Żuchwowego (V3).",
+            "E. Bródkowego."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Struktura koloru białego występująca w gałce ocznej to:",
+        "options": [
+            "A. Rogówka.",
+            "B. Tęczówka.",
+            "C. Twardówka.",
+            "D. Źrenica.",
+            "E. Soczewka."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Stojąc przed lustrem i patrząc sobie w oczy, nie zobaczy się:",
+        "options": [
+            "A. Rogówki.",
+            "B. Powieki dolnej.",
+            "C. Tęczówki.",
+            "D. Soczewki.",
+            "E. Twardówki."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż strukturę, za którą leży tęczówka i źrenica:",
+        "options": [
+            "A. Twardówka.",
+            "B. Soczewka.",
+            "C. Ciało szkliste.",
+            "D. Rogówka.",
+            "E. Komora tylna oka."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Powieki łączą się ze sobą w tzw.:",
+        "options": [
+            "A. Szparze powiekowej.",
+            "B. Spoidle powiek.",
+            "C. Jeziorku łzowym.",
+            "D. Mięsku łzowym.",
+            "E. Fałdzie powiekowym."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wyniosły wzgórek w jeziorku łzowym nosi nazwę:",
+        "options": [
+            "A. Gruczołu łzowego.",
+            "B. Spoidła bocznego.",
+            "C. Mięska łzowego.",
+            "D. Spoidła przyśrodkowego.",
+            "E. Punktu łzowego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gruczoł łzowy znajduje się:",
+        "options": [
+            "A. W przyśrodkowej części sklepienia oczodołu.",
+            "B. Pod powieką górną.",
+            "C. W okolicy jeziorka łzowego.",
+            "D. W bocznej części stropu oczodołu.",
+            "E. Pod spoidłem bocznym."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Punkty łzowe znajdują się:",
+        "options": [
+            "A. Na powiece górnej i dolnej.",
+            "B. W jeziorku łzowym.",
+            "C. Na mięsku łzowym.",
+            "D. W spoidle bocznym i przyśrodkowym.",
+            "E. W woreczku łzowym."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Łzy zbierane w woreczku łzowym odpływają do:",
+        "options": [
+            "A. Zatoki szczękowej.",
+            "B. Punktów łzowych.",
+            "C. Jamy nosowej.",
+            "D. Jeziorka łzowego.",
+            "E. Mięska łzowego."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wypukły zewnętrzny brzeg małżowiny usznej to:",
+        "options": [
+            "A. Grobelka.",
+            "B. Skrawek.",
+            "C. Obrąbek.",
+            "D. Muszla małżowiny.",
+            "E. Łódka muszli."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Zagłębienie między skrawkiem z jednej strony a przeciwskrawkiem z drugiej to:",
+        "options": [
+            "A. Muszla małżowiny.",
+            "B. Wcięcie międzyszkrawkowe.",
+            "C. Dół łódkowaty.",
+            "D. Dół trójkątny.",
+            "E. Łódka muszli."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Jest największym zagłębieniem małżowiny usznej. Prowadzi do przewodu słuchowego zewnętrznego. Mowa o:",
+        "options": [
+            "A. Dole łódkowatym.",
+            "B. Łódce muszli.",
+            "C. Muszli małżowiny.",
+            "D. Dole trójkątnym.",
+            "E. Grobelce."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wskaż, która z poniższych struktur nie jest zagłębieniem małżowiny usznej:",
+        "options": [
+            "A. Muszla małżowiny.",
+            "B. Dół trójkątny.",
+            "C. Łódka muszli.",
+            "D. Dół łódkowaty.",
+            "E. Przeciwskrawek."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Wskaż tętnicę, której tętna nie wyczujesz palpacyjnie:",
+        "options": [
+            "A. Tętnica szyjna wspólna.",
+            "B. Tętnica skroniowa powierzchowna.",
+            "C. Tętnica szyjna zewnętrzna.",
+            "D. Tętnica twarzowa.",
+            "E. Tętnica szyjna wewnętrzna."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Na dolnym brzegu żuchwy, do przodu od mięśnia żwacza, można wyczuć tętno na:",
+        "options": [
+            "A. Tętnicy skroniowej powierzchownej.",
+            "B. Tętnicy twarzowej.",
+            "C. Tętnicy szyjnej wspólnej.",
+            "D. Gałęzi przedniej tętnicy skroniowej powierzchownej.",
+            "E. Tętnicy szyjnej zewnętrznej."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Przykładając palce ku tyłowi i do góry od stawu skroniowo-żuchwowego, a do przodu od skrawka usznego, można wyczuć tętno na:",
+        "options": [
+            "A. Tętnicy twarzowej.",
+            "B. Tętnicy usznej przedniej.",
+            "C. Tętnicy jarzmowej.",
+            "D. Tętnicy szyjnej zewnętrznej.",
+            "E. Tętnicy skroniowej powierzchownej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Przyczyną chrypki występującej u pacjenta z wolem tarczycy najprawdopodobniej jest:",
+        "options": [
+            "A. Zwiększone wydzielanie tyreotropiny (TSH).",
+            "B. Ucisk na nerw krtaniowy wsteczny.",
+            "C. Przesunięcie tchawicy.",
+            "D. Leczenie substytucyjne tyroksyną.",
+            "E. Torbiele koloidowe oraz włóknienie gruczołu tarczowego."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "W celu wywołania objawu Chvostka należy:",
+        "options": [
+            "A. Uderzyć delikatnie po obu stronach kręgosłupa w odcinku piersiowo-lędźwiowym.",
+            "B. Powoli ucisnąć powłoki brzuszne w punkcie McBurneya, a następnie gwałtownie zwolnić ucisk.",
+            "C. Przygiąć głowę pacjenta tak, aby jego broda dostawała do mostka.",
+            "D. Uderzyć delikatnie w miejsce wyjścia nerwu twarzowego w okolicy ślinianki przyusznej.",
+            "E. W pozycji leżącej na plecach wyprostowaną kończynę dolną zgiąć w stawie biodrowym i kolanowym."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tężyczka rozwija się w wyniku:",
+        "options": [
+            "A. Wysokiego stężenia tyroksyny w surowicy krwi.",
+            "B. Niskiego stężenia jonów żelaza w surowicy krwi.",
+            "C. Niskiego stężenia jonów wapnia w surowicy krwi.",
+            "D. Wysokiego stężenia glukozy w surowicy krwi.",
+            "E. Niskiego stężenia witaminy B12 w ustroju."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Podczas wizyty w gabinecie lekarskim pacjent uskarża się na mrowienie rąk i stóp, mrowienie skóry wokół ust, a także na skurcze mięśni goleni i stóp. Podaje również, iż jest po subtotalnej tyroidektomii. Biorąc pod uwagę powyższe informacje, podejrzewasz:",
+        "options": [
+            "A. Niedokrwistość megaloblastyczną.",
+            "B. Hiperglikemię.",
+            "C. Nadczynność tarczycy",
+            "D. Zapalenie nerwu twarzowego.",
+            "E. Tężyczkę."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Pacjent z wolem tarczycy nie przejawia żadnych objawów klinicznych, brak jest też jakichkolwiek nieprawidłowości w badaniu biochemicznym. Sugeruje to, iż pacjent jest w:",
+        "options": [
+            "A. Śpiączce ketonowej.",
+            "B. Eutyreozie.",
+            "C. Hiperglikemii.",
+            "D. Hypertyreozie",
+            "E. Normoglikemii."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Leczeniem u pacjenta, któremu usunięto tarczycę, jest:",
+        "options": [
+            "A. Insulina krótko działająca.",
+            "B. Suplementacja żelaza.",
+            "C. Suplementacja witaminy B12 i kwasu foliowego.",
+            "D. Suplementacja tyroksyny.",
+            "E. Doustne leki hipoglikemizujące."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ból występujący do przodu od ucha, zwłaszcza w czasie posiłków, a także na widok lub smak np. cytryny, sugeruje:",
+        "options": [
+            "A. Porażenie struny bębenkowej, która wiedzie włókna smakowe do 2/3 przednich części języka.",
+            "B. Zapalenie nerwu twarzowego.",
+            "C. Występowanie złogów lub kamienia w przewodzie ślinianki przyusznej.",
+            "D. Wystąpienie neuralgii.",
+            "E. Iż osoba ta jest uczulona na jeden ze składników pożywienia."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Badaniem z wyboru w przypadku podejrzenia złogu w przewodzie ślinianki przyusznej jest:",
+        "options": [
+            "A. Badanie ultrasonograficzne.",
+            "B. Zdjęcie rentgenowskie głowy.",
+            "C. Tomografia komputerowa głowy.",
+            "D. Badanie mikrobiologiczne śliny.",
+            "E. Rezonans magnetyczny głowy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Podczas badania przedmiotowego pacjenta stwierdzasz tkliwość okolicy lewej ślinianki przyusznej oraz wyczuwasz twardą grudkę w błonie śluzowej policzka, znajdującą się na wysokości lewego, drugiego, górnego zęba trzonowego. Najbardziej prawdopodobieństwem jest:",
+        "options": [
+            "A. Zapalenie wirusowe ślinianki.",
+            "B. Próchnica zębów.",
+            "C. Złóg w przewodzie wyprowadzającym ślinianki.",
+            "D. Zapalenie bakteryjne ślinianki.",
+            "E. Zapalenie nerwu twarzowego przebiegającego przez śliniankę przyuszną."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Uraz głowy w okolicy punktu pterion może spowodować:",
+        "options": [
+            "A. Rozerwanie tętnicy oponowej środkowej.",
+            "B. Porażenie nerwu twarzowego (VII).",
+            "C. Krwotok podtwardówkowy.",
+            "D. Porażenie czterokończynowe.",
+            "E. Pęknięcie tętniaka wewnątrzczaszkowego."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Krwiak nadtwardówkowy powstaje w wyniku:",
+        "options": [
+            "A. Urazu głowy w okolicy potylicznej.",
+            "B. Pęknięcia tętniaka tętnicy środkowej mózgu.",
+            "C. Pęknięcia naczyń żylnych mózgu.",
+            "D. Wzrostu ciśnienia systemowego.",
+            "E. Uszkodzenia tętnicy oponowej środkowej lub jednej z jej gałęzi."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Pacjent po doznaniu urazu bocznej części głowy nagle stracił przytomność i upadł. Następnie po ok. 60 sekundach odzyskał przytomność, poczuł się lepiej. Jednak po godzinie poczuł się senny i zapadł w głęboki sen. Właściwym postępowaniem będzie:",
+        "options": [
+            "A. Dać mu odpocząć, gdyż przeżył ogromny stres w ciągu dnia.",
+            "B. Wezwać pogotowie, gdyż powyższe objawy sugerują pęknięcie tętniaka tętnicy mózgowej.",
+            "C. Dać mu odpocząć, a po przebudzeniu w razie utrzymywania się dolegliwości bólowych głowy zgłosić się na Szpitalny Oddział Ratunkowy.",
+            "D. Natychmiast wezwać pogotowie i przetransportować go do szpitala, gdyż powyższe objawy sugerują krwiaka nadtwardówkowego.",
+            "E. Spróbować wybudzić go i podać mu leki przeciwbólowe."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wskaż prawidłowe stwierdzenie:",
+        "options": [
+            "A. TIA to jednostka neurologiczna będąca rodzajem udaru krwotocznego.",
+            "B. Większość udarów mózgu jest konsekwencją zawału naczyń mózgowych.",
+            "C. Materiał zatorowy w czasie udaru niedokrwiennego mózgu pochodzi z żył kończyn dolnych.",
+            "D. Ośrodki ruchowe dla całej prawej połowy ciała znajdują się w prawej półkuli mózgu.",
+            "E. Termin „neuroafazja” oznacza zmienione czucie w obrębie skóry."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "W większości przypadków materiałem zatorowym w udarach mózgu jest/są:",
+        "options": [
+            "A. Pęcherzyki powietrza.",
+            "B. Drobinki tłuszczu.",
+            "C. Samoistne zarośnięcie tętnicy.",
+            "D. Agregaty płytek krwi.",
+            "E. Blaszki miażdżycowe."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Endarterektomia szyjna oznacza:",
+        "options": [
+            "A. Podwiązanie tętnicy szyjnej.",
+            "B. Usunięcie zwężenia oraz blaszki miażdżycowej w tętnicy szyjnej.",
+            "C. Wycięcie odcinkowe tętnicy szyjnej i zastosowanie protezy.",
+            "D. Wykonanie połączenia (przetoki) między tętnicami szyjnymi.",
+            "E. Wykonanie stałego połączenia między tętnicą szyjną wewnętrzną a tętnicą szyjną wspólną (by-pass szyjny)."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Najczęściej występującą przyczyną izolowanego porażenia nerwu okoruchowego jest ucisk na nerw przez tętniak tętnicy:",
+        "options": [
+            "A. Środkowej mózgu.",
+            "B. Przedniej łączącej mózgu.",
+            "C. Kręgowej.",
+            "D. Łączącej tylnej mózgu.",
+            "E. Podstawnej."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Standardowym badaniem w diagnostyce tętniaków naczyń koła Willisa i ich gałęzi jest:",
+        "options": [
+            "A. Badanie dopplerowskie.",
+            "B. Rezonans magnetyczny.",
+            "C. Subtrakcyjna angiografia cyfrowa.",
+            "D. Zdjęcie rentgenowskie.",
+            "E. PET z zastosowaniem fluoroglukozy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Splot Kiesselbacha znajduje się:",
+        "options": [
+            "A. W okolicy przedsionka jamy nosowej.",
+            "B. Powyżej małżowiny nosowej górnej.",
+            "C. W przednio-dolnej części przegrody nosa.",
+            "D. W części nosowej gardła.",
+            "E. W przewodzie nosowym środkowym."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "W okolicy żylnego splotu Kiesselbacha znajdują się gałązki poniższych tętnic, z wyjątkiem tętnicy:",
+        "options": [
+            "A. Sitowej przedniej.",
+            "B. Podniebiennej większej.",
+            "C. Wargowej górnej.",
+            "D. Sitowej tylnej.",
+            "E. Podniebiennej mniejszej."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "U pacjenta z krwawieniem z nosa utrzymującym się mimo zastosowania tamponady przedniej może być konieczne podwiązanie tętnic sitowych. Dostęp w tym celu można uzyskać przez cięcie wykonane w/na:",
+        "options": [
+            "A. Bocznym kącie oka.",
+            "B. Przegrodzie nosa.",
+            "C. Przyśrodkowym kącie oka.",
+            "D. Rynience nosowej tuż powyżej wargi górnej.",
+            "E. Grzbiecie nosa."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "U pacjenta rozpoznano złamanie dna oczodołu. Podczas badania wykryto niemożność zwrócenia oka ku górze. Powyższy objaw może sugerować, że jeden z mięśni został zaklinowany w szczelinie złamania. Wskaż, który to mięsień.",
+        "options": [
+            "A. Skośny dolny oka.",
+            "B. Prosty dolny oka.",
+            "C. Skośny górny oka.",
+            "D. Prosty boczny oka.",
+            "E. Prosty przyśrodkowy oka."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mięsień skośny górny gałki ocznej i mięsień prosty boczny unerwione są przez:",
+        "options": [
+            "A. Nerw bloczkowy; nerw odwodzący.",
+            "B. Nerw okoruchowy; nerw odwodzący.",
+            "C. Nerw bloczkowy; nerw okoruchowy.",
+            "D. Nerw odwodzący; nerw bloczkowy.",
+            "E. Nerw odwodzący; nerw okoruchowy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Wskaż, która z komór ulega powiększeniu, jeżeli blokada odpływu płynu mózgowo-rdzeniowego znajduje się na poziomie otworów Monro.",
+        "options": [
+            "A. Tylko komora trzecia.",
+            "B. Komory boczne i komora trzecia.",
+            "C. Wszystkie komory.",
+            "D. Tylko komory boczne.",
+            "E. Komora trzecia i komora czwarta."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Jeśli blok odpływu płynu mózgowo-rdzeniowego znajduje się na poziomie wodociągu mózgu, poszerzeniu ulega/ją:",
+        "options": [
+            "A. Tylko komory boczne.",
+            "B. Komory boczne i komora trzecia.",
+            "C. Komora czwarta.",
+            "D. Wszystkie komory.",
+            "E. Komory boczne i czwarta."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Podczas badania dna oka stwierdzono uniesienie brzegów tarczy nerwu wzrokowego i obecność naczyń skręcających się wokół brzegów tarczy. Dodatkowo w wywiadzie pacjent podaje silny, narastający ból głowy oraz zaburzenia widzenia. Powyższe objawy mogą sugerować:",
+        "options": [
+            "A. Hiperglikemię poposiłkową.",
+            "B. Hipotensję ortostatyczną w przebiegu niewłaściwego leczenia hipertensji.",
+            "C. Wzrost ciśnienia wewnątrzczaszkowego.",
+            "D. Zator tętnicy ocznej.",
+            "E. Wadę wzroku wymagającą noszenia szkieł korekcyjnych."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Objawy takie jak: amenorrhea, galactorrhea oraz niedowidzenie połowicze dwuskroniowe sugerują:",
+        "options": [
+            "A. Gruczolaka szyszynki.",
+            "B. Krwiaka okolicy potylicznej głowy.",
+            "C. Hipotrofię przysadki mózgowej.",
+            "D. Makrogruczolaka przysadki mózgowej.",
+            "E. Nadczynność tarczycy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Najczęściej droga operacyjnego dostępu do przysadki mózgowej wiedzie przez:",
+        "options": [
+            "A. Zatoki czołowe.",
+            "B. Zatokę klinową.",
+            "C. Sklepienie czaszki i komory boczne.",
+            "D. Zatoki szczękowe.",
+            "E. Podniebienie twarde i jamę nosową."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Niedowidzenie połowicze dwuskroniowe jest wynikiem uszkodzenia:",
+        "options": [
+            "A. Siatkówki.",
+            "B. Nerwu wzrokowego.",
+            "C. Skrzyżowania wzrokowego.",
+            "D. Pasma wzrokowego.",
+            "E. Kory wzrokowej w płacie potylicznym."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hormonem, który jest konieczny do wystąpienia laktacji po porodzie, jest:",
+        "options": [
+            "A. Prolaktyna.",
+            "B. Tyreotropina.",
+            "C. Wazopresyna.",
+            "D. Gonadotropina kosmówkowa.",
+            "E. Progesteron."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Zabiegi chirurgiczne dotyczące przysadki mózgowej są niebezpieczne ze względu na jej bliskie sąsiedztwo z zatoką jamistą. Wskaż, która struktura nie może być uszkodzona, gdyż nie przebiega przez zatokę jamistą:",
+        "options": [
+            "A. Nerw okoruchowy.",
+            "B. Nerw bloczkowy.",
+            "C. Nerw trójdzielny.",
+            "D. Nerw odwodzący.",
+            "E. Nerw błędny."
+        ],
+        "answer": 4
+    }
+]
 };

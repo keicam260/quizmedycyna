@@ -1,6 +1,27 @@
 import json
 import os
 import re
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
+
+
+def resolve_path(path):
+    candidate = Path(path)
+    if candidate.is_absolute():
+        return candidate
+
+    script_candidate = BASE_DIR / candidate
+    if script_candidate.exists():
+        return script_candidate
+
+    file_name = candidate.name
+    alt = BASE_DIR / "danePRV" / file_name
+    if alt.exists():
+        return alt
+
+    return script_candidate
 
 
 def parsuj_pytania(tekst):
@@ -127,18 +148,27 @@ def dodaj_do_zestawu(plik_js, nazwa_zestawu, nowe_pytania):
         f.write(nowy_tekst)
 
 
-def parser_quizu(plik_wejsciowy, plik_wyjsciowy, nazwa_zestawu='miednicaIKrocze'):
-    with open(plik_wejsciowy, 'r', encoding='utf-8') as f:
+def parser_quizu(plik_wejsciowy, plik_wyjsciowy, nazwa_zestawu='AnatomiaPowierzchniowaIPrzypadkiKliniczne'):
+    wejscie = resolve_path(plik_wejsciowy)
+    wyjscie = resolve_path(plik_wyjsciowy)
+
+    if not wejscie.exists():
+        raise FileNotFoundError(
+            f"Nie znaleziono pliku wejściowego: '{plik_wejsciowy}'. "
+            f"Szukano w: '{wejscie}'."
+        )
+
+    with open(wejscie, 'r', encoding='utf-8') as f:
         tekst = f.read()
 
     pytania = parsuj_pytania(tekst)
     if not pytania:
-        print(f"Brak pytań do dodania z pliku {plik_wejsciowy}.")
+        print(f"Brak pytań do dodania z pliku {wejscie}.")
         return
 
-    dodaj_do_zestawu(plik_wyjsciowy, nazwa_zestawu, pytania)
-    print(f"Sukces! Dodano {len(pytania)} pytań do zestawu '{nazwa_zestawu}' w {plik_wyjsciowy}.")
+    dodaj_do_zestawu(str(wyjscie), nazwa_zestawu, pytania)
+    print(f"Sukces! Dodano {len(pytania)} pytań do zestawu '{nazwa_zestawu}' w {wyjscie}.")
 
 
 if __name__ == "__main__":
-    parser_quizu('dane.txt', 'pytania.js', 'miednicaIKrocze')
+    parser_quizu('dane.txt', 'pytania.js', 'AnatomiaPowierzchniowaIPrzypadkiKliniczne')
